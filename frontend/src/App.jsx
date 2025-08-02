@@ -1,33 +1,40 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+import { useNavigate, Routes, Route } from 'react-router-dom'
+import PatientRegistration from "./register/patient-registration"
+import DonorRegistration from "./register/donor-registration"
+import HospitalRegistration from "./register/hospital-registration"
+import ExpertDoctorRegistration from "./register/expert-doctor-registration"
+
 import './App.css'
 
-function App() {
-  const [count, setCount] = useState(0)
+function Home() {
+  const navigate = useNavigate()
 
   return (
     <>
-      <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
+      <h2>How do you want to create your Account?</h2>
+
+      <button onClick={() => navigate('/register/patient')}>Register as a Patient</button>
+      <br /><br />
+      <button onClick={() => navigate('/register/donor')}>Register as a Donor</button>
+      <br /><br />
+      <button onClick={() => navigate('/register/hospital')}>Register as a Hospital</button>
+      <br /><br />
+      <button onClick={() => navigate('/register/doctor')}>Register as an Expert Doctor</button>
+    </>
+  )
+}
+
+function App() {
+  return (
+    <>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/register/patient" element={<PatientRegistration />} />
+        <Route path="/register/donor" element={<DonorRegistration />} />
+        <Route path="/register/hospital" element={<HospitalRegistration />} />
+        <Route path="/register/doctor" element={<ExpertDoctorRegistration />} />
+      </Routes>
     </>
   )
 }
