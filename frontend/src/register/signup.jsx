@@ -1,43 +1,39 @@
 import { useState } from "react";
 import { useForm } from "react-hook-form";
-// import { supabase } from "../lib/supabaseClient"; // adjust path accordingly
+import axios from 'axios';
 
+const API_BASE_URL = 'http://127.0.0.1:8000';
 const roles = ["patient", "donor", "hospital"];
 
-export default function DynamicSignup() {
+export default function Signup() {
   const [role, setRole] = useState("patient");
+  const [isLoading, setIsLoading] = useState(false);
   const { register, handleSubmit, reset } = useForm();
 
   const onSubmit = async (data) => {
+    setIsLoading(true);
     const { email, password, ...rest } = data;
 
-    if (role === "hospital") {
-      const { error } = await supabase.from("hospitals").insert([rest]);
-      if (error) alert("Error: " + error.message);
-      else alert("Hospital registered!");
-    } else {
-      const { data: authUser, error: authError } = await supabase.auth.signUp({
-        email,
-        password,
+    try {
+      const response = await axios.post(`${API_BASE_URL}/signup`, {
+        email: email,
+        password: password,
+        user_type: role,
+        name: role === "hospital" ? data.name : `${data.first_name || ''} ${data.last_name || ''}`.trim(),
+        phone: data.phone,
+        ...rest
       });
 
-      if (authError) {
-        alert("Signup error: " + authError.message);
-        return;
-      }
-
-      const user_id = authUser.user?.id;
-
-      if (role === "patient") {
-        await supabase.from("profiles").insert([{ id: user_id, ...rest }]);
-      } else if (role === "donor") {
-        await supabase.from("blood_donors").insert([{ user_id, ...rest }]);
-      }
-
+      console.log('Signup successful:', response.data);
       alert(`${role} signed up successfully!`);
+      reset();
+      
+    } catch (error) {
+      console.error('Signup failed:', error.response?.data?.detail || error.message);
+      alert('Signup failed: ' + (error.response?.data?.detail || error.message));
+    } finally {
+      setIsLoading(false);
     }
-
-    reset();
   };
 
   return (
@@ -63,108 +59,72 @@ export default function DynamicSignup() {
           <>
             <input
               {...register("email")}
+              type="email"
               placeholder="Email"
-              className="input"
+              className="w-full p-3 border rounded-xl"
               required
             />
-            <br /><br />
             <input
               type="password"
               {...register("password")}
               placeholder="Password"
-              className="input"
+              className="w-full p-3 border rounded-xl"
               required
             />
-            <br /><br />
           </>
         )}
 
         {role === "patient" && (
           <>
-            <input {...register("first_name")} placeholder="First Name" className="input" />
-            <br /> <br />
-            <input {...register("last_name")} placeholder="Last Name" className="input" />
-            <br /> <br />
-            <input {...register("phone")} placeholder="Phone" className="input" />
-            <br /> <br />
-            <input {...register("date_of_birth")} type="date" className="input" />
-            <br /> <br />
-            <input {...register("blood_type")} placeholder="Blood Type (e.g. A+)" className="input" />
-            <br /> <br />
-            <input {...register("address")} placeholder="Address" className="input" />
-            <br /> <br />
-            <input {...register("city")} placeholder="City" className="input" />
-            <br /> <br />
-            <input {...register("state")} placeholder="State" className="input" />
-            <br /> <br />
+            <input {...register("first_name")} placeholder="First Name" className="w-full p-3 border rounded-xl" />
+            <input {...register("last_name")} placeholder="Last Name" className="w-full p-3 border rounded-xl" />
+            <input {...register("phone")} placeholder="Phone" className="w-full p-3 border rounded-xl" />
+            <input {...register("date_of_birth")} type="date" className="w-full p-3 border rounded-xl" />
+            <input {...register("blood_type")} placeholder="Blood Type (e.g. A+)" className="w-full p-3 border rounded-xl" />
+            <input {...register("address")} placeholder="Address" className="w-full p-3 border rounded-xl" />
+            <input {...register("city")} placeholder="City" className="w-full p-3 border rounded-xl" />
+            <input {...register("state")} placeholder="State" className="w-full p-3 border rounded-xl" />
           </>
         )}
 
         {role === "donor" && (
           <>
-            <input {...register("blood_type")} placeholder="Blood Type" className="input" />
-            <br /><br />
-            <input {...register("last_donation")} type="date" className="input" />
-            <br /><br />
-            <input {...register("city")} placeholder="City" className="input" />
-            <br /><br />
-            <input {...register("state")} placeholder="State" className="input" />
-            <br /><br />
-            <select {...register("contact_preference")} className="input">
+            <input {...register("blood_type")} placeholder="Blood Type" className="w-full p-3 border rounded-xl" />
+            <input {...register("last_donation")} type="date" className="w-full p-3 border rounded-xl" />
+            <input {...register("city")} placeholder="City" className="w-full p-3 border rounded-xl" />
+            <input {...register("state")} placeholder="State" className="w-full p-3 border rounded-xl" />
+            <select {...register("contact_preference")} className="w-full p-3 border rounded-xl">
               <option value="email">Email</option>
               <option value="phone">Phone</option>
               <option value="both">Both</option>
             </select>
-            <br /><br />
           </>
         )}
 
         {role === "hospital" && (
           <>
-            <input {...register("name")} placeholder="Hospital Name" className="input" />
-            <br /><br />
-            <input {...register("address")} placeholder="Address" className="input" />
-            <br /><br />
-            <input {...register("city")} placeholder="City" className="input" />
-            <br /><br />
-            <input {...register("state")} placeholder="State" className="input" />
-            <br /><br />
-            <input {...register("phone")} placeholder="Phone" className="input" />
-            <br /><br />
-            <input {...register("email")} placeholder="Email" className="input" />
-            <br /><br />
-            <input
-              {...register("services")}
-              placeholder="Services (comma separated)"
-              className="input"
-            />
-            <br /><br />
+            <input {...register("name")} placeholder="Hospital Name" className="w-full p-3 border rounded-xl" />
+            <input {...register("address")} placeholder="Address" className="w-full p-3 border rounded-xl" />
+            <input {...register("city")} placeholder="City" className="w-full p-3 border rounded-xl" />
+            <input {...register("state")} placeholder="State" className="w-full p-3 border rounded-xl" />
+            <input {...register("phone")} placeholder="Phone" className="w-full p-3 border rounded-xl" />
+            <input {...register("email")} placeholder="Email" className="w-full p-3 border rounded-xl" />
+            <input {...register("services")} placeholder="Services (comma separated)" className="w-full p-3 border rounded-xl" />
             <label className="flex gap-2 items-center">
               <input type="checkbox" {...register("thalassemia_specialist")} />
               Thalassemia Specialist
             </label>
-            <br /><br />
-            <input
-              {...register("latitude")}
-              placeholder="Latitude"
-              type="number"
-              step="0.0001"
-              className="input"
-            />
-            <br /><br />
-            <input
-              {...register("longitude")}
-              placeholder="Longitude"
-              type="number"
-              step="0.0001"
-              className="input"
-            />
-            <br /><br />
+            <input {...register("latitude")} placeholder="Latitude" type="number" step="0.0001" className="w-full p-3 border rounded-xl" />
+            <input {...register("longitude")} placeholder="Longitude" type="number" step="0.0001" className="w-full p-3 border rounded-xl" />
           </>
         )}
 
-        <button type="submit" className="w-full bg-blue-600 text-white py-2 rounded-xl">
-          Sign Up
+        <button 
+          type="submit" 
+          disabled={isLoading}
+          className="w-full bg-blue-600 text-white py-3 rounded-xl hover:bg-blue-700 disabled:opacity-50"
+        >
+          {isLoading ? 'Signing up...' : 'Sign Up'}
         </button>
       </form>
     </div>
