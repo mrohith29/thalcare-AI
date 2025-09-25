@@ -7,4 +7,3 @@
 /.vscode/
 __pycache__/
 *.py[cod]   
-simplified_schema.sql
