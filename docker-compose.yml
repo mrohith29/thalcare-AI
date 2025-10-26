@@ -13,11 +13,12 @@ services:
     depends_on:
       - postgres
     volumes:
-      - ./:/app
+      - ./backend:/app/backend
       - /app/__pycache__
     restart: unless-stopped
     networks:
       - thalcare-network
+    working_dir: /app/backend
 
   postgres:
     image: postgres:16
