@@ -14,7 +14,7 @@ class User(Base):
 
 
 class Profile(Base):
-    __tablename__ = "profiles"
+    __tablename__ = "profiles"  
     id = Column(UUID(as_uuid=True), ForeignKey("users.id", ondelete="CASCADE"), primary_key=True)
     user_type = Column(String, nullable=False)  # patient, donor, doctor, hospital
     first_name = Column(String, nullable=False)
