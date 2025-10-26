@@ -1,0 +1,1101 @@
+BloodBank_ID,BloodBank_Name,License_Number,License_Valid_Till,State,City,Latitude,Longitude,Hospital_Type,Blood_Group,Units_Available,Freshness_Days,Emergency_Support,Rating,Distance_km,Avg_Response_Time_min,Is_Govt,Contact
+BB0001,Central Howrah Blood Bank,WE/BB/2020/098,2029-08-13,West Bengal,Howrah,22.553148,88.30757,Private,AB-,31,1,Yes,3.5,9.5,18,0,+91-805290628
+BB0002,National Visakhapatnam Blood Bank,AN/BB/2024/136,2025-12-23,Andhra Pradesh,Visakhapatnam,17.684304,83.209257,Government,A-,25,5,Yes,3.8,12.4,5,1,+91-943316516
+BB0003,National Patna Blood Bank,BI/BB/2024/828,2028-05-03,Bihar,Patna,25.615641,85.244682,Trust,B+,14,7,Yes,4.0,14.4,32,0,+91-818627800
+BB0004,Max Surat Blood Bank,GU/BB/2022/162,2026-12-13,Gujarat,Surat,21.20273,72.868263,Private,B+,27,2,No,4.8,6.6,8,0,+91-690763739
+BB0005,KIMS Imphal Blood Bank,MA/BB/2021/168,2029-08-20,Manipur,Imphal,24.82818,93.970746,Private,A-,12,3,Yes,4.3,10.6,42,0,+91-921905742
+BB0006,Global Jaipur Blood Bank,RA/BB/2021/806,2024-10-23,Rajasthan,Jaipur,26.987147,75.744008,Private,O+,2,2,No,4.0,0.3,19,0,+91-912291611
+BB0007,Unity Bengaluru Blood Bank,KA/BB/2023/657,2027-11-17,Karnataka,Bengaluru,12.948482,77.637499,Private,O-,21,4,Yes,4.6,17.5,18,0,+91-821431759
+BB0008,Gandhi Ahmedabad Blood Bank,GU/BB/2022/283,2026-12-25,Gujarat,Ahmedabad,23.030427,72.60268,Trust,O+,8,6,Yes,4.3,16.3,16,0,+91-712553556
+BB0009,City Bhopal Blood Bank,MA/BB/2024/414,2026-06-23,Madhya Pradesh,Bhopal,23.260525,77.436637,Private,B+,15,0,Yes,3.6,13.8,15,0,+91-636019144
+BB0010,KIMS Indore Blood Bank,MA/BB/2018/501,2028-06-14,Madhya Pradesh,Indore,22.669738,75.877689,Government,A+,14,5,Yes,3.4,9.4,2,1,+91-852113036
+BB0011,Unity Mumbai Blood Bank,MA/BB/2023/499,2028-06-09,Maharashtra,Mumbai,19.059048,72.919715,Private,A+,15,2,No,3.7,5.5,5,0,+91-886756074
+BB0012,Global Jodhpur Blood Bank,RA/BB/2020/706,2025-09-10,Rajasthan,Jodhpur,26.239993,73.104389,Charity,A+,12,3,Yes,4.2,1.6,29,0,+91-942645712
+BB0013,City Kohima Blood Bank,NA/BB/2018/103,2028-08-04,Nagaland,Kohima,25.614562,94.078012,Private,B+,22,1,Yes,4.6,12.3,54,0,+91-797596327
+BB0014,City Lucknow Blood Bank,UT/BB/2023/306,2030-12-17,Uttar Pradesh,Lucknow,26.888606,81.046037,Government,A-,27,2,No,3.5,4.2,31,1,+91-609121548
+BB0015,National Ahmedabad Blood Bank,GU/BB/2024/673,2027-06-27,Gujarat,Ahmedabad,23.01546,72.624699,Private,B+,5,6,Yes,3.8,3.0,12,0,+91-706790264
+BB0016,Care Pune Blood Bank,MA/BB/2020/019,2030-07-05,Maharashtra,Pune,18.569537,73.831735,Private,AB+,0,5,No,4.2,29.2,27,0,+91-868896036
+BB0017,Fortis Aizawl Blood Bank,MI/BB/2024/974,2025-03-03,Mizoram,Aizawl,23.746348,92.709768,Government,AB+,45,2,Yes,4.6,2.8,43,1,+91-931915896
+BB0018,Life Shillong Blood Bank,ME/BB/2023/905,2025-12-27,Meghalaya,Shillong,25.5868,91.887368,Government,A+,14,2,Yes,3.6,10.1,56,1,+91-774038823
+BB0019,Care Bhopal Blood Bank,MA/BB/2024/124,2027-06-10,Madhya Pradesh,Bhopal,23.198677,77.344192,Private,B+,15,3,Yes,4.4,26.4,28,0,+91-749463091
+BB0020,St. Mary Kanpur Blood Bank,UT/BB/2023/041,2024-01-24,Uttar Pradesh,Kanpur,26.43017,80.331644,Private,A-,15,2,Yes,3.6,2.7,37,0,+91-839753115
+BB0021,Red Cross Delhi Blood Bank,DE/BB/2018/438,2025-12-02,Delhi,Delhi,28.643159,77.058592,Private,AB+,21,0,No,3.2,7.4,8,0,+91-871063468
+BB0022,Care Agartala Blood Bank,TR/BB/2018/864,2029-01-21,Tripura,Agartala,23.881638,91.313706,Trust,A-,20,3,No,4.4,2.2,18,0,+91-649501521
+BB0023,Central Ahmedabad Blood Bank,GU/BB/2019/320,2030-07-09,Gujarat,Ahmedabad,23.033911,72.697274,Private,A-,17,4,No,4.3,5.0,26,0,+91-822079216
+BB0024,Sankara Lucknow Blood Bank,UT/BB/2022/174,2028-03-27,Uttar Pradesh,Lucknow,26.813993,80.838836,Government,B-,2,5,No,4.4,22.5,10,1,+91-913905378
+BB0025,Sankara Kohima Blood Bank,NA/BB/2020/340,2027-10-18,Nagaland,Kohima,25.600648,94.216462,Charity,AB-,46,2,No,3.8,6.9,10,0,+91-765028627
+BB0026,Sankara Secunderabad Blood Bank,TE/BB/2024/275,2025-12-22,Telangana,Secunderabad,17.390557,78.486036,Government,A-,54,7,No,4.0,12.1,59,1,+91-626623542
+BB0027,KIMS Nagpur Blood Bank,MA/BB/2018/915,2030-08-06,Maharashtra,Nagpur,21.118034,79.111777,Trust,O-,18,3,Yes,4.1,4.8,29,0,+91-646196025
+BB0028,Max Hyderabad Blood Bank,TE/BB/2021/520,2028-10-12,Telangana,Hyderabad,17.489658,78.565368,Trust,O+,20,5,Yes,3.8,11.8,23,0,+91-950001975
+BB0029,Gandhi Indore Blood Bank,MA/BB/2018/948,2026-04-03,Madhya Pradesh,Indore,22.632371,75.904072,Government,AB-,23,7,Yes,4.8,11.2,34,1,+91-640668760
+BB0030,City Patna Blood Bank,BI/BB/2021/801,2030-03-28,Bihar,Patna,25.601728,85.211175,Government,A+,23,5,Yes,4.1,6.8,19,1,+91-856993309
+BB0031,Sankara Surat Blood Bank,GU/BB/2023/834,2027-10-12,Gujarat,Surat,21.093507,72.874291,Trust,AB+,23,0,No,3.3,11.9,59,0,+91-655907364
+BB0032,Central Imphal Blood Bank,MA/BB/2019/738,2026-06-12,Manipur,Imphal,24.838954,94.023997,Private,AB-,15,6,Yes,4.5,28.8,48,0,+91-979543169
+BB0033,Max Howrah Blood Bank,WE/BB/2019/493,2028-03-23,West Bengal,Howrah,22.586267,88.322162,Private,A-,20,0,Yes,4.7,6.1,40,0,+91-715262245
+BB0034,Sankara Kanpur Blood Bank,UT/BB/2021/639,2024-08-21,Uttar Pradesh,Kanpur,26.481777,80.296953,Trust,B+,1,5,Yes,3.6,1.8,55,0,+91-654963171
+BB0035,Apollo Aizawl Blood Bank,MI/BB/2020/931,2030-02-08,Mizoram,Aizawl,23.612536,92.732818,Private,B-,11,4,Yes,3.9,21.9,37,0,+91-846466279
+BB0036,Royal Bhopal Blood Bank,MA/BB/2018/729,2029-12-23,Madhya Pradesh,Bhopal,23.278318,77.454929,Government,A-,4,1,No,4.5,11.0,54,1,+91-972494493
+BB0037,Care Visakhapatnam Blood Bank,AN/BB/2024/921,2029-03-20,Andhra Pradesh,Visakhapatnam,17.679174,83.23767,Private,O-,22,6,No,4.3,2.4,22,0,+91-905012857
+BB0038,Care Coimbatore Blood Bank,TA/BB/2024/095,2030-07-13,Tamil Nadu,Coimbatore,11.017371,77.022248,Private,O+,37,1,Yes,3.8,10.4,41,0,+91-821197225
+BB0039,Global Kohima Blood Bank,NA/BB/2022/014,2029-11-27,Nagaland,Kohima,25.679394,94.175478,Government,O+,47,7,Yes,3.2,27.3,15,1,+91-854829552
+BB0040,Gandhi Shillong Blood Bank,ME/BB/2022/724,2029-06-09,Meghalaya,Shillong,25.463295,91.896018,Government,B-,10,0,Yes,4.5,11.3,3,1,+91-720770956
+BB0041,Gandhi Chennai Blood Bank,TA/BB/2018/686,2025-10-24,Tamil Nadu,Chennai,13.073719,80.280539,Private,AB-,21,4,Yes,4.3,14.4,10,0,+91-636176290
+BB0042,Metro Ahmedabad Blood Bank,GU/BB/2019/809,2025-01-26,Gujarat,Ahmedabad,22.948391,72.454719,Private,B+,16,0,No,4.6,15.9,2,0,+91-602171933
+BB0043,Royal Jodhpur Blood Bank,RA/BB/2023/252,2024-09-23,Rajasthan,Jodhpur,26.243506,72.98243,Government,A-,22,6,Yes,4.9,7.2,52,1,+91-879248312
+BB0044,KIMS Howrah Blood Bank,WE/BB/2018/453,2025-10-21,West Bengal,Howrah,22.543773,88.287335,Trust,AB+,15,0,Yes,5.0,8.6,32,0,+91-883961878
+BB0045,Fortis Kanpur Blood Bank,UT/BB/2021/226,2030-06-21,Uttar Pradesh,Kanpur,26.440438,80.348333,Government,A+,12,6,Yes,3.7,0.1,33,1,+91-673413291
+BB0046,Fortis Lucknow Blood Bank,UT/BB/2018/451,2025-03-27,Uttar Pradesh,Lucknow,26.840143,80.963639,Private,A+,2,4,Yes,4.0,21.4,32,0,+91-879910377
+BB0047,Sankara Shimla Blood Bank,HI/BB/2023/913,2027-02-05,Himachal Pradesh,Shimla,31.120495,77.131732,Private,A+,21,0,Yes,3.8,12.0,24,0,+91-721881841
+BB0048,St. Mary Mumbai Blood Bank,MA/BB/2021/840,2025-12-17,Maharashtra,Mumbai,19.093385,72.857346,Government,A-,14,2,No,5.0,21.3,5,1,+91-767360017
+BB0049,Unity Patna Blood Bank,BI/BB/2018/551,2028-08-19,Bihar,Patna,25.605254,85.209261,Government,AB+,15,2,Yes,3.6,8.1,76,1,+91-819657752
+BB0050,Gandhi New Delhi Blood Bank,DE/BB/2021/562,2030-02-26,Delhi,New Delhi,28.668164,77.227327,Private,B-,17,2,No,4.4,2.2,38,0,+91-919948163
+BB0051,Care Mysore Blood Bank,KA/BB/2022/086,2025-07-11,Karnataka,Mysore,12.363993,76.684159,Private,A-,31,0,Yes,4.0,15.9,4,0,+91-897077025
+BB0052,Fortis New Delhi Blood Bank,DE/BB/2024/246,2028-09-05,Delhi,New Delhi,28.599034,77.213974,Trust,B-,13,0,Yes,4.4,1.3,34,0,+91-657623192
+BB0053,Metro Ranchi Blood Bank,JH/BB/2020/707,2026-01-20,Jharkhand,Ranchi,23.299715,85.376389,Private,B+,28,1,No,3.9,18.8,57,0,+91-983204788
+BB0054,Fortis Vijayawada Blood Bank,AN/BB/2020/559,2028-02-15,Andhra Pradesh,Vijayawada,16.459144,80.625572,Government,AB+,37,3,No,4.3,11.1,56,1,+91-967572488
+BB0055,Central Chandigarh Blood Bank,CH/BB/2021/159,2030-01-19,Chandigarh,Chandigarh,30.691989,76.791783,Charity,O+,13,1,Yes,4.8,20.7,9,0,+91-707549038
+BB0056,Fortis Nagpur Blood Bank,MA/BB/2021/250,2027-08-12,Maharashtra,Nagpur,21.173627,79.103021,Private,B+,22,5,Yes,3.7,16.5,38,0,+91-972557687
+BB0057,Fortis Pune Blood Bank,MA/BB/2024/845,2028-11-11,Maharashtra,Pune,18.537115,73.859257,Private,A-,10,4,No,3.7,6.9,7,0,+91-608775258
+BB0058,Central Shimla Blood Bank,HI/BB/2021/404,2026-03-02,Himachal Pradesh,Shimla,31.101401,77.186502,Government,A+,18,2,Yes,3.9,14.6,28,1,+91-656962434
+BB0059,Global Delhi Blood Bank,DE/BB/2022/601,2025-09-16,Delhi,Delhi,28.646283,77.087811,Private,A-,36,5,Yes,4.8,5.0,32,0,+91-806031559
+BB0060,Life Jodhpur Blood Bank,RA/BB/2022/722,2027-11-04,Rajasthan,Jodhpur,26.251352,73.115365,Government,A-,5,0,No,3.8,10.8,57,1,+91-642901215
+BB0061,Global Howrah Blood Bank,WE/BB/2024/983,2030-09-19,West Bengal,Howrah,22.507052,88.289371,Private,A-,4,2,Yes,4.0,1.8,41,0,+91-943931388
+BB0062,City Bengaluru Blood Bank,KA/BB/2018/469,2024-10-19,Karnataka,Bengaluru,12.998502,77.542885,Government,O-,12,0,Yes,4.5,17.2,33,1,+91-622021474
+BB0063,City Bengaluru Blood Bank,KA/BB/2020/378,2030-09-22,Karnataka,Bengaluru,13.044159,77.572567,Private,O-,10,5,No,3.6,16.6,29,0,+91-963126970
+BB0064,Central Visakhapatnam Blood Bank,AN/BB/2018/241,2027-01-27,Andhra Pradesh,Visakhapatnam,17.566161,83.299047,Charity,AB+,25,4,Yes,3.9,3.1,52,0,+91-701860076
+BB0065,City Kolkata Blood Bank,WE/BB/2019/245,2029-11-26,West Bengal,Kolkata,22.598825,88.28918,Government,A+,16,2,No,4.1,5.7,2,1,+91-871729090
+BB0066,Unity Kanpur Blood Bank,UT/BB/2023/093,2026-10-16,Uttar Pradesh,Kanpur,26.430377,80.424291,Private,AB+,15,7,Yes,4.1,15.4,9,0,+91-624116189
+BB0067,Royal Vijayawada Blood Bank,AN/BB/2019/398,2026-02-04,Andhra Pradesh,Vijayawada,16.49001,80.563402,Government,AB-,27,2,No,4.4,2.4,28,1,+91-952287733
+BB0068,Metro Pune Blood Bank,MA/BB/2022/349,2030-10-15,Maharashtra,Pune,18.392163,73.895942,Charity,B-,19,4,Yes,3.3,11.4,34,0,+91-722404046
+BB0069,Global Guwahati Blood Bank,AS/BB/2019/533,2028-08-02,Assam,Guwahati,26.136154,91.777039,Government,O+,30,2,Yes,4.4,36.6,33,1,+91-700240713
+BB0070,Metro Jaipur Blood Bank,RA/BB/2022/793,2030-06-27,Rajasthan,Jaipur,26.891161,75.803004,Private,A-,14,7,Yes,4.0,17.5,54,0,+91-770858520
+BB0071,Red Cross Indore Blood Bank,MA/BB/2023/655,2030-06-05,Madhya Pradesh,Indore,22.709545,75.913348,Private,O-,10,0,No,3.8,19.8,5,0,+91-993840441
+BB0072,National Vijayawada Blood Bank,AN/BB/2021/460,2024-01-25,Andhra Pradesh,Vijayawada,16.538574,80.647318,Private,AB+,32,0,No,3.7,2.9,36,0,+91-796204839
+BB0073,Metro New Delhi Blood Bank,DE/BB/2021/399,2026-02-13,Delhi,New Delhi,28.562786,77.204191,Trust,A-,17,6,Yes,3.6,10.8,38,0,+91-820463309
+BB0074,Metro Nagpur Blood Bank,MA/BB/2020/781,2025-04-18,Maharashtra,Nagpur,21.089823,79.110591,Government,A+,8,1,Yes,4.9,11.4,40,1,+91-793051956
+BB0075,Life Chandigarh Blood Bank,CH/BB/2023/058,2025-02-18,Chandigarh,Chandigarh,30.620937,76.829487,Private,O+,23,0,Yes,4.3,17.3,41,0,+91-661422435
+BB0076,Red Cross Ranchi Blood Bank,JH/BB/2023/119,2024-07-08,Jharkhand,Ranchi,23.299443,85.310173,Trust,AB+,21,4,Yes,4.7,29.6,35,0,+91-958681481
+BB0077,Max Agartala Blood Bank,TR/BB/2023/774,2025-12-17,Tripura,Agartala,23.853627,91.349283,Private,O-,41,3,Yes,4.8,3.1,42,0,+91-819269145
+BB0078,Red Cross Jaipur Blood Bank,RA/BB/2023/800,2027-05-19,Rajasthan,Jaipur,26.996491,75.87375,Government,A-,24,2,Yes,3.3,9.0,13,1,+91-863662707
+BB0079,Max Panaji Blood Bank,GO/BB/2024/727,2029-04-05,Goa,Panaji,15.425767,73.82524,Government,AB+,20,7,No,4.3,5.1,32,1,+91-917745403
+BB0080,Gandhi Kolkata Blood Bank,WE/BB/2019/511,2030-01-16,West Bengal,Kolkata,22.565047,88.326595,Private,B+,20,7,No,4.3,8.5,20,0,+91-666161948
+BB0081,Red Cross Chandigarh Blood Bank,CH/BB/2021/624,2027-08-05,Chandigarh,Chandigarh,30.735246,76.737148,Government,A+,1,2,Yes,4.1,19.9,46,1,+91-938956646
+BB0082,Central Patna Blood Bank,BI/BB/2019/874,2025-07-16,Bihar,Patna,25.604962,85.127496,Trust,AB-,35,3,Yes,4.7,6.4,2,0,+91-659913805
+BB0083,Fortis Mysore Blood Bank,KA/BB/2020/424,2024-10-11,Karnataka,Mysore,12.238829,76.615338,Trust,O+,12,4,Yes,4.4,3.2,29,0,+91-787519130
+BB0084,Max Kanpur Blood Bank,UT/BB/2024/157,2028-03-26,Uttar Pradesh,Kanpur,26.444019,80.392609,Government,B+,6,6,Yes,3.1,14.3,25,1,+91-858354953
+BB0085,Fortis Varanasi Blood Bank,UT/BB/2019/384,2028-09-16,Uttar Pradesh,Varanasi,25.388974,83.065769,Private,B+,6,6,Yes,4.0,1.0,7,0,+91-801152205
+BB0086,Gandhi Agartala Blood Bank,TR/BB/2020/108,2027-01-07,Tripura,Agartala,23.874064,91.251437,Charity,B-,41,7,Yes,4.2,9.6,32,0,+91-739236235
+BB0087,Global Ranchi Blood Bank,JH/BB/2024/612,2024-08-17,Jharkhand,Ranchi,23.365348,85.212752,Government,O+,30,7,Yes,4.2,11.3,25,1,+91-732903820
+BB0088,Fortis Kanpur Blood Bank,UT/BB/2024/171,2024-12-21,Uttar Pradesh,Kanpur,26.429553,80.302656,Private,B-,19,1,Yes,4.2,0.3,41,0,+91-990257928
+BB0089,Apollo Coimbatore Blood Bank,TA/BB/2022/193,2027-04-05,Tamil Nadu,Coimbatore,11.005752,76.950629,Private,B-,28,0,Yes,4.2,14.7,14,0,+91-693612648
+BB0090,KIMS Guwahati Blood Bank,AS/BB/2019/259,2026-11-22,Assam,Guwahati,26.122933,91.611115,Government,O-,6,7,Yes,3.6,5.1,30,1,+91-976511881
+BB0091,St. Mary Patna Blood Bank,BI/BB/2023/311,2029-11-22,Bihar,Patna,25.550984,85.161544,Trust,A+,15,4,No,4.2,4.3,45,0,+91-749998693
+BB0092,KIMS Thiruvananthapuram Blood Bank,KE/BB/2024/587,2029-05-24,Kerala,Thiruvananthapuram,8.460249,76.940096,Government,A+,18,3,Yes,5.0,0.5,66,1,+91-693163618
+BB0093,Sankara Delhi Blood Bank,DE/BB/2019/896,2025-11-18,Delhi,Delhi,28.730571,77.170671,Government,O-,26,1,No,3.9,19.8,48,1,+91-898830160
+BB0094,Sankara Jaipur Blood Bank,RA/BB/2024/345,2026-03-09,Rajasthan,Jaipur,26.93309,75.775687,Private,AB-,21,1,No,3.9,6.0,62,0,+91-780624796
+BB0095,St. Mary Kanpur Blood Bank,UT/BB/2021/533,2026-02-11,Uttar Pradesh,Kanpur,26.445506,80.378914,Private,AB+,33,1,No,5.0,11.7,36,0,+91-983923043
+BB0096,Global Bengaluru Blood Bank,KA/BB/2020/215,2026-02-06,Karnataka,Bengaluru,12.82507,77.613744,Trust,AB-,25,7,No,4.8,11.5,17,0,+91-864178849
+BB0097,KIMS Bengaluru Blood Bank,KA/BB/2020/195,2029-09-12,Karnataka,Bengaluru,13.083746,77.594504,Trust,B-,25,3,No,3.6,0.5,52,0,+91-622839341
+BB0098,Royal Imphal Blood Bank,MA/BB/2023/795,2028-10-24,Manipur,Imphal,24.77989,93.983018,Private,B-,7,1,Yes,4.1,7.6,2,0,+91-712256031
+BB0099,Red Cross Howrah Blood Bank,WE/BB/2018/287,2029-02-13,West Bengal,Howrah,22.575183,88.192758,Private,A+,22,1,Yes,4.5,4.0,4,0,+91-887825882
+BB0100,Red Cross Kanpur Blood Bank,UT/BB/2020/466,2024-06-18,Uttar Pradesh,Kanpur,26.466452,80.316769,Private,A+,22,7,Yes,4.6,12.5,37,0,+91-995188422
+BB0101,Life Coimbatore Blood Bank,TA/BB/2020/454,2029-08-06,Tamil Nadu,Coimbatore,11.022859,76.962338,Government,A+,41,2,Yes,4.9,6.7,32,1,+91-659806256
+BB0102,Royal Indore Blood Bank,MA/BB/2020/721,2026-06-07,Madhya Pradesh,Indore,22.700858,75.895512,Government,B-,15,5,No,4.5,8.0,31,1,+91-729951541
+BB0103,National Chandigarh Blood Bank,CH/BB/2024/670,2026-01-25,Chandigarh,Chandigarh,30.719607,76.762558,Trust,O+,13,2,Yes,3.4,4.5,4,0,+91-668865787
+BB0104,KIMS Jodhpur Blood Bank,RA/BB/2023/137,2025-04-09,Rajasthan,Jodhpur,26.240703,73.024068,Private,A-,24,5,Yes,4.5,17.3,17,0,+91-832951828
+BB0105,Metro Coimbatore Blood Bank,TA/BB/2022/613,2024-04-21,Tamil Nadu,Coimbatore,10.988911,76.996084,Private,AB-,13,7,Yes,4.4,1.7,24,0,+91-984979396
+BB0106,Fortis Surat Blood Bank,GU/BB/2022/613,2029-11-10,Gujarat,Surat,21.19733,72.783319,Government,O-,28,2,Yes,4.3,1.1,7,1,+91-761131039
+BB0107,Sankara Kanpur Blood Bank,UT/BB/2023/912,2030-12-02,Uttar Pradesh,Kanpur,26.470459,80.337817,Government,AB+,21,5,Yes,5.0,8.5,54,1,+91-842488244
+BB0108,Fortis Bhopal Blood Bank,MA/BB/2023/647,2027-08-11,Madhya Pradesh,Bhopal,23.282651,77.484856,Charity,AB+,14,3,Yes,4.8,0.3,23,0,+91-615667808
+BB0109,Max Chandigarh Blood Bank,CH/BB/2018/342,2025-02-20,Chandigarh,Chandigarh,30.873761,76.750071,Private,A-,17,6,Yes,3.4,3.0,29,0,+91-769120132
+BB0110,National Dehradun Blood Bank,UT/BB/2023/296,2030-08-03,Uttarakhand,Dehradun,30.239319,78.064862,Government,AB-,25,1,Yes,4.3,3.1,2,1,+91-708252860
+BB0111,Fortis Bhopal Blood Bank,MA/BB/2018/164,2026-07-16,Madhya Pradesh,Bhopal,23.284628,77.461283,Private,O-,29,6,Yes,3.9,22.7,56,0,+91-861074693
+BB0112,Red Cross Shillong Blood Bank,ME/BB/2019/326,2026-04-14,Meghalaya,Shillong,25.53907,91.958478,Trust,O+,27,2,No,3.7,16.4,2,0,+91-868905771
+BB0113,Care Ranchi Blood Bank,JH/BB/2018/400,2026-03-22,Jharkhand,Ranchi,23.326036,85.327202,Private,B-,6,1,Yes,4.3,8.9,47,0,+91-957212406
+BB0114,Unity Shillong Blood Bank,ME/BB/2019/287,2024-07-03,Meghalaya,Shillong,25.573878,91.881105,Private,A-,11,6,No,4.1,4.8,60,0,+91-909849551
+BB0115,Life Mumbai Blood Bank,MA/BB/2022/074,2030-04-24,Maharashtra,Mumbai,19.077861,72.87326,Private,AB+,11,0,Yes,4.1,23.5,26,0,+91-637102430
+BB0116,KIMS Lucknow Blood Bank,UT/BB/2023/542,2029-09-14,Uttar Pradesh,Lucknow,26.827488,80.997152,Private,B+,4,5,No,4.2,16.3,34,0,+91-683351736
+BB0117,Central Aizawl Blood Bank,MI/BB/2019/053,2029-01-12,Mizoram,Aizawl,23.800748,92.595056,Government,O+,23,7,Yes,4.5,9.3,25,1,+91-861415929
+BB0118,Apollo Panaji Blood Bank,GO/BB/2020/459,2025-08-07,Goa,Panaji,15.580987,73.807213,Government,O+,16,2,No,3.7,2.3,74,1,+91-893890051
+BB0119,Royal Jodhpur Blood Bank,RA/BB/2020/534,2024-12-18,Rajasthan,Jodhpur,26.246331,73.04261,Government,O+,18,2,Yes,4.2,11.2,9,1,+91-767462434
+BB0120,Fortis Bhubaneswar Blood Bank,OD/BB/2019/140,2027-02-10,Odisha,Bhubaneswar,20.314368,85.855148,Private,O-,10,6,Yes,4.2,8.5,18,0,+91-626431684
+BB0121,Royal Pune Blood Bank,MA/BB/2018/840,2030-02-14,Maharashtra,Pune,18.474073,73.930946,Charity,O-,16,3,Yes,5.0,31.5,2,0,+91-623794676
+BB0122,Unity Jaipur Blood Bank,RA/BB/2018/892,2024-05-07,Rajasthan,Jaipur,26.868425,75.901382,Private,B+,25,0,Yes,3.9,0.1,10,0,+91-653876809
+BB0123,Gandhi Panaji Blood Bank,GO/BB/2022/348,2025-12-18,Goa,Panaji,15.378411,73.768032,Government,AB-,17,0,Yes,2.9,8.5,11,1,+91-971866647
+BB0124,Apollo Guwahati Blood Bank,AS/BB/2023/206,2029-12-22,Assam,Guwahati,26.115668,91.764177,Private,B+,24,1,No,3.7,14.3,39,0,+91-998670883
+BB0125,Global Jaipur Blood Bank,RA/BB/2018/915,2029-12-06,Rajasthan,Jaipur,26.872774,75.788629,Private,B-,5,4,No,3.1,9.0,31,0,+91-797468829
+BB0126,National Patna Blood Bank,BI/BB/2024/657,2026-03-07,Bihar,Patna,25.597499,85.116993,Private,B+,35,0,Yes,5.0,1.6,45,0,+91-835732465
+BB0127,Fortis Secunderabad Blood Bank,TE/BB/2020/803,2030-09-12,Telangana,Secunderabad,17.408476,78.537025,Government,A-,31,7,Yes,3.8,11.6,10,1,+91-827173691
+BB0128,Life Panaji Blood Bank,GO/BB/2018/079,2026-07-04,Goa,Panaji,15.485125,73.785997,Government,A+,31,7,Yes,4.6,2.6,24,1,+91-755638684
+BB0129,City Kohima Blood Bank,NA/BB/2024/969,2030-03-18,Nagaland,Kohima,25.675168,94.080013,Government,O+,38,5,Yes,4.0,12.5,12,1,+91-978207955
+BB0130,Apollo Shillong Blood Bank,ME/BB/2019/935,2028-11-17,Meghalaya,Shillong,25.591322,91.82698,Charity,A-,34,1,No,3.2,17.6,26,0,+91-940858133
+BB0131,Gandhi Patna Blood Bank,BI/BB/2022/880,2030-12-12,Bihar,Patna,25.636374,85.058819,Trust,AB-,22,5,Yes,4.0,17.6,30,0,+91-664235324
+BB0132,Metro Kolkata Blood Bank,WE/BB/2021/793,2029-11-07,West Bengal,Kolkata,22.560045,88.239865,Private,O-,20,4,No,2.9,15.4,40,0,+91-749785574
+BB0133,Max Chennai Blood Bank,TA/BB/2024/731,2028-11-13,Tamil Nadu,Chennai,13.110973,80.362511,Government,O-,15,1,Yes,4.6,0.1,33,1,+91-647359633
+BB0134,KIMS Bhubaneswar Blood Bank,OD/BB/2019/075,2024-12-16,Odisha,Bhubaneswar,20.307539,85.872873,Private,B+,34,4,Yes,3.9,7.7,6,0,+91-665356679
+BB0135,Royal Jaipur Blood Bank,RA/BB/2018/960,2027-12-07,Rajasthan,Jaipur,26.932999,75.880275,Private,O-,28,3,Yes,3.7,18.5,30,0,+91-737656430
+BB0136,National Bhopal Blood Bank,MA/BB/2018/252,2024-07-19,Madhya Pradesh,Bhopal,23.20828,77.528092,Private,B+,17,2,Yes,4.4,13.3,14,0,+91-771610448
+BB0137,St. Mary Bhubaneswar Blood Bank,OD/BB/2019/663,2024-03-21,Odisha,Bhubaneswar,20.391748,85.847809,Private,O-,18,3,No,4.5,7.5,32,0,+91-618045898
+BB0138,Royal Bengaluru Blood Bank,KA/BB/2018/724,2027-01-26,Karnataka,Bengaluru,12.952616,77.613447,Charity,O-,16,6,Yes,4.7,12.8,42,0,+91-778006421
+BB0139,Global Shillong Blood Bank,ME/BB/2019/205,2030-03-04,Meghalaya,Shillong,25.577585,91.911527,Private,AB-,31,4,Yes,4.6,12.9,7,0,+91-932007670
+BB0140,Unity Mysore Blood Bank,KA/BB/2022/306,2027-05-16,Karnataka,Mysore,12.208195,76.644109,Private,AB-,37,3,Yes,2.8,4.2,21,0,+91-881935328
+BB0141,Gandhi Aizawl Blood Bank,MI/BB/2022/122,2024-09-04,Mizoram,Aizawl,23.633539,92.810716,Government,O-,9,1,Yes,4.9,1.5,34,1,+91-972273794
+BB0142,Metro Surat Blood Bank,GU/BB/2019/819,2025-05-15,Gujarat,Surat,21.141167,72.865834,Private,O-,3,0,No,4.0,5.6,15,0,+91-694544173
+BB0143,Central New Delhi Blood Bank,DE/BB/2023/370,2030-04-16,Delhi,New Delhi,28.682295,77.166392,Private,A+,26,4,Yes,5.0,10.8,50,0,+91-920233447
+BB0144,KIMS Delhi Blood Bank,DE/BB/2019/476,2025-05-13,Delhi,Delhi,28.713166,77.056928,Trust,O-,20,2,No,4.1,12.7,53,0,+91-908309284
+BB0145,Unity Dehradun Blood Bank,UT/BB/2024/170,2027-10-08,Uttarakhand,Dehradun,30.328347,78.028028,Private,A+,28,5,Yes,3.7,2.4,7,0,+91-974667875
+BB0146,Care Varanasi Blood Bank,UT/BB/2022/936,2027-04-28,Uttar Pradesh,Varanasi,25.310399,82.988402,Government,A-,33,7,Yes,4.4,8.7,53,1,+91-768706424
+BB0147,National Nagpur Blood Bank,MA/BB/2019/601,2030-01-14,Maharashtra,Nagpur,21.219159,79.08249,Private,AB+,12,5,No,4.5,6.7,17,0,+91-624132327
+BB0148,Max Surat Blood Bank,GU/BB/2023/200,2029-10-19,Gujarat,Surat,21.219628,72.833113,Private,AB+,24,6,Yes,3.8,2.2,34,0,+91-868741674
+BB0149,KIMS Nagpur Blood Bank,MA/BB/2021/055,2029-06-14,Maharashtra,Nagpur,21.136262,79.08006,Government,AB+,1,2,Yes,4.8,7.8,20,1,+91-652462067
+BB0150,St. Mary Guwahati Blood Bank,AS/BB/2021/567,2024-02-27,Assam,Guwahati,26.18338,91.695726,Government,O-,40,3,No,4.5,9.4,31,1,+91-716531781
+BB0151,Gandhi Ranchi Blood Bank,JH/BB/2021/753,2026-10-14,Jharkhand,Ranchi,23.326419,85.254401,Private,A-,22,1,No,4.2,0.5,3,0,+91-723333281
+BB0152,Gandhi Secunderabad Blood Bank,TE/BB/2021/247,2029-07-22,Telangana,Secunderabad,17.429313,78.523236,Private,O+,5,3,No,3.9,23.9,31,0,+91-928222832
+BB0153,Central Agartala Blood Bank,TR/BB/2024/721,2025-11-22,Tripura,Agartala,23.747384,91.297315,Charity,A+,21,2,No,4.5,18.7,14,0,+91-652356132
+BB0154,Sankara Vijayawada Blood Bank,AN/BB/2023/068,2030-05-15,Andhra Pradesh,Vijayawada,16.484977,80.701944,Private,O-,3,4,Yes,2.8,5.2,21,0,+91-999531853
+BB0155,St. Mary Guwahati Blood Bank,AS/BB/2024/761,2024-09-02,Assam,Guwahati,26.244938,91.688229,Private,AB+,27,3,No,4.4,19.8,2,0,+91-762944954
+BB0156,KIMS Visakhapatnam Blood Bank,AN/BB/2021/204,2029-01-24,Andhra Pradesh,Visakhapatnam,17.754993,83.206667,Government,B+,38,0,Yes,4.6,10.8,22,1,+91-955959601
+BB0157,Global Mumbai Blood Bank,MA/BB/2018/437,2026-12-17,Maharashtra,Mumbai,19.007204,72.846281,Private,O-,24,1,Yes,3.8,1.0,17,0,+91-678074211
+BB0158,St. Mary Shillong Blood Bank,ME/BB/2023/673,2025-09-06,Meghalaya,Shillong,25.531789,91.861559,Private,B+,18,7,No,4.3,1.8,2,0,+91-965314072
+BB0159,Global Kochi Blood Bank,KE/BB/2021/348,2030-07-09,Kerala,Kochi,9.85852,76.204181,Private,A-,0,5,No,4.1,12.1,24,0,+91-701213899
+BB0160,Metro Shillong Blood Bank,ME/BB/2024/679,2024-07-17,Meghalaya,Shillong,25.572832,91.812254,Private,A-,24,1,No,4.1,14.6,10,0,+91-683199229
+BB0161,Metro Indore Blood Bank,MA/BB/2024/164,2026-03-07,Madhya Pradesh,Indore,22.738499,75.880327,Private,B-,14,3,No,3.5,5.9,10,0,+91-791766829
+BB0162,Sankara Bhopal Blood Bank,MA/BB/2019/655,2026-03-26,Madhya Pradesh,Bhopal,23.244282,77.480506,Government,O-,7,0,Yes,4.8,23.2,3,1,+91-901829254
+BB0163,Gandhi Agartala Blood Bank,TR/BB/2018/245,2026-03-23,Tripura,Agartala,23.797596,91.313406,Private,AB+,15,5,No,4.1,7.5,26,0,+91-706412348
+BB0164,Gandhi Vijayawada Blood Bank,AN/BB/2018/929,2025-05-24,Andhra Pradesh,Vijayawada,16.515821,80.704603,Trust,B+,10,0,Yes,4.2,17.1,48,0,+91-664776627
+BB0165,Red Cross Thiruvananthapuram Blood Bank,KE/BB/2018/255,2029-01-08,Kerala,Thiruvananthapuram,8.538253,76.990826,Private,B-,32,4,Yes,3.8,9.8,24,0,+91-722320091
+BB0166,Unity Chennai Blood Bank,TA/BB/2023/114,2029-12-13,Tamil Nadu,Chennai,13.008095,80.273373,Government,AB+,17,7,No,4.5,21.0,37,1,+91-897908370
+BB0167,Global Agartala Blood Bank,TR/BB/2021/674,2027-07-17,Tripura,Agartala,23.819678,91.208441,Private,O+,11,7,Yes,4.8,14.4,17,0,+91-965261499
+BB0168,City Guwahati Blood Bank,AS/BB/2018/343,2029-06-27,Assam,Guwahati,26.204069,91.701389,Private,O+,21,1,Yes,3.6,6.8,60,0,+91-993674104
+BB0169,Apollo Jaipur Blood Bank,RA/BB/2019/600,2026-08-25,Rajasthan,Jaipur,26.901029,75.706547,Private,B-,11,4,Yes,3.4,9.6,34,0,+91-753113264
+BB0170,KIMS Lucknow Blood Bank,UT/BB/2023/242,2028-04-19,Uttar Pradesh,Lucknow,26.814725,80.978211,Private,AB-,16,3,Yes,3.7,1.5,49,0,+91-688063156
+BB0171,Red Cross Ahmedabad Blood Bank,GU/BB/2020/819,2030-10-02,Gujarat,Ahmedabad,22.960047,72.591911,Private,A-,30,6,Yes,3.4,8.6,14,0,+91-620352293
+BB0172,Sankara Chennai Blood Bank,TA/BB/2022/415,2029-10-08,Tamil Nadu,Chennai,13.094541,80.365845,Government,AB+,22,2,Yes,4.0,9.7,21,1,+91-983406116
+BB0173,Care Bhopal Blood Bank,MA/BB/2019/131,2027-01-19,Madhya Pradesh,Bhopal,23.209266,77.41893,Private,AB+,18,6,No,3.1,15.7,22,0,+91-924700947
+BB0174,City Ahmedabad Blood Bank,GU/BB/2024/680,2030-10-10,Gujarat,Ahmedabad,23.078868,72.57628,Government,AB-,3,1,Yes,3.5,0.0,63,1,+91-636000556
+BB0175,Global Raipur Blood Bank,CH/BB/2018/532,2029-09-17,Chhattisgarh,Raipur,21.225574,81.675331,Government,O+,20,3,No,4.2,5.4,3,1,+91-952870027
+BB0176,St. Mary Bengaluru Blood Bank,KA/BB/2020/176,2027-01-06,Karnataka,Bengaluru,13.005161,77.555867,Private,B-,21,3,Yes,4.9,14.1,2,0,+91-661412618
+BB0177,Apollo Ranchi Blood Bank,JH/BB/2020/881,2024-11-22,Jharkhand,Ranchi,23.39906,85.34104,Private,A-,30,3,No,3.9,0.1,13,0,+91-875560580
+BB0178,Global Ranchi Blood Bank,JH/BB/2024/291,2028-06-18,Jharkhand,Ranchi,23.291506,85.302386,Private,AB-,20,2,Yes,3.8,0.4,3,0,+91-877416187
+BB0179,Metro Jaipur Blood Bank,RA/BB/2020/440,2024-12-08,Rajasthan,Jaipur,26.847633,75.872605,Private,AB+,53,6,Yes,4.0,2.6,26,0,+91-694824830
+BB0180,Global Vijayawada Blood Bank,AN/BB/2018/091,2028-09-27,Andhra Pradesh,Vijayawada,16.384381,80.598829,Government,AB+,22,5,No,4.9,17.7,26,1,+91-840798784
+BB0181,Care Dehradun Blood Bank,UT/BB/2022/341,2027-07-14,Uttarakhand,Dehradun,30.330192,78.017162,Trust,AB-,0,4,Yes,4.7,11.9,24,0,+91-672353771
+BB0182,Metro Mysore Blood Bank,KA/BB/2020/542,2029-09-02,Karnataka,Mysore,12.280579,76.618918,Trust,O-,18,0,No,4.0,7.5,33,0,+91-976430512
+BB0183,Apollo Aizawl Blood Bank,MI/BB/2021/296,2029-02-08,Mizoram,Aizawl,23.74079,92.717244,Government,AB-,19,1,No,4.7,15.4,14,1,+91-902437258
+BB0184,Fortis Agartala Blood Bank,TR/BB/2018/684,2025-08-17,Tripura,Agartala,23.863728,91.242818,Private,AB+,31,0,No,4.1,17.3,40,0,+91-728974120
+BB0185,Life Varanasi Blood Bank,UT/BB/2021/211,2025-04-27,Uttar Pradesh,Varanasi,25.338331,83.002833,Charity,A+,9,3,Yes,4.1,17.0,26,0,+91-615099232
+BB0186,Central Bhubaneswar Blood Bank,OD/BB/2022/327,2025-07-17,Odisha,Bhubaneswar,20.221231,85.758985,Private,AB-,37,5,No,3.7,1.0,25,0,+91-772036566
+BB0187,St. Mary Aizawl Blood Bank,MI/BB/2019/196,2024-03-04,Mizoram,Aizawl,23.760706,92.741356,Private,B-,15,6,No,4.5,0.3,29,0,+91-956713329
+BB0188,City Delhi Blood Bank,DE/BB/2023/282,2030-07-23,Delhi,Delhi,28.755305,77.116994,Private,A+,24,0,No,3.5,15.9,3,0,+91-753061315
+BB0189,Care Visakhapatnam Blood Bank,AN/BB/2018/081,2024-01-16,Andhra Pradesh,Visakhapatnam,17.627082,83.165276,Private,AB+,15,1,Yes,4.3,18.5,13,0,+91-656386020
+BB0190,National Panaji Blood Bank,GO/BB/2022/726,2030-06-17,Goa,Panaji,15.495972,73.727405,Private,O+,37,2,Yes,3.4,16.7,53,0,+91-792814279
+BB0191,City Pune Blood Bank,MA/BB/2021/713,2027-08-08,Maharashtra,Pune,18.412599,73.843379,Trust,AB+,1,4,No,4.5,20.3,9,0,+91-848338303
+BB0192,Max Hyderabad Blood Bank,TE/BB/2023/606,2030-03-17,Telangana,Hyderabad,17.378499,78.517655,Private,O+,14,3,Yes,3.7,1.3,46,0,+91-843434533
+BB0193,Central Coimbatore Blood Bank,TA/BB/2021/929,2027-12-15,Tamil Nadu,Coimbatore,10.870942,77.015315,Trust,O+,14,0,No,4.4,1.4,35,0,+91-915737631
+BB0194,Life Kohima Blood Bank,NA/BB/2021/087,2030-08-14,Nagaland,Kohima,25.73045,94.107245,Trust,O+,16,3,No,3.5,5.1,45,0,+91-673365923
+BB0195,Red Cross Bhubaneswar Blood Bank,OD/BB/2022/849,2027-04-27,Odisha,Bhubaneswar,20.360775,85.756995,Private,B-,30,7,Yes,4.6,12.6,16,0,+91-837246978
+BB0196,Metro Mysore Blood Bank,KA/BB/2024/942,2030-11-19,Karnataka,Mysore,12.186782,76.620416,Private,AB+,11,3,Yes,3.8,7.3,26,0,+91-638011451
+BB0197,St. Mary Hyderabad Blood Bank,TE/BB/2023/695,2027-02-20,Telangana,Hyderabad,17.352302,78.497465,Private,A-,9,5,Yes,5.0,8.7,29,0,+91-804588792
+BB0198,St. Mary Mumbai Blood Bank,MA/BB/2023/341,2026-11-02,Maharashtra,Mumbai,19.064193,72.840981,Private,A+,16,3,Yes,3.9,10.0,12,0,+91-713127368
+BB0199,City Varanasi Blood Bank,UT/BB/2021/150,2024-01-16,Uttar Pradesh,Varanasi,25.402429,82.906882,Government,B-,14,2,Yes,4.6,5.2,18,1,+91-770289611
+BB0200,National Shillong Blood Bank,ME/BB/2021/041,2026-08-22,Meghalaya,Shillong,25.566197,91.854001,Private,AB-,38,0,Yes,4.4,10.0,13,0,+91-602345285
+BB0201,Max Thiruvananthapuram Blood Bank,KE/BB/2019/383,2025-01-19,Kerala,Thiruvananthapuram,8.572359,76.940993,Private,A-,10,4,Yes,3.5,12.7,35,0,+91-729848917
+BB0202,Red Cross Bengaluru Blood Bank,KA/BB/2024/032,2030-04-22,Karnataka,Bengaluru,12.984193,77.52436,Private,O-,13,6,No,5.0,2.6,11,0,+91-983936935
+BB0203,City Kolkata Blood Bank,WE/BB/2023/550,2024-12-07,West Bengal,Kolkata,22.57209,88.443411,Government,B+,34,0,No,4.5,7.2,60,1,+91-716435339
+BB0204,Sankara Kochi Blood Bank,KE/BB/2023/479,2030-04-23,Kerala,Kochi,9.92771,76.200626,Trust,O-,26,4,No,4.4,8.2,9,0,+91-989580693
+BB0205,Gandhi Shimla Blood Bank,HI/BB/2022/265,2025-06-05,Himachal Pradesh,Shimla,31.084954,77.179087,Government,B+,22,2,Yes,4.0,23.7,15,1,+91-882709849
+BB0206,Life Varanasi Blood Bank,UT/BB/2019/308,2027-03-21,Uttar Pradesh,Varanasi,25.279428,82.904943,Private,AB+,8,5,Yes,4.3,19.1,38,0,+91-721385977
+BB0207,Life Dehradun Blood Bank,UT/BB/2023/718,2024-11-03,Uttarakhand,Dehradun,30.459372,78.050523,Private,B+,21,4,Yes,3.6,17.2,2,0,+91-821375090
+BB0208,Global Ranchi Blood Bank,JH/BB/2019/132,2026-10-26,Jharkhand,Ranchi,23.363084,85.294149,Private,B-,12,7,Yes,3.7,9.4,59,0,+91-665142620
+BB0209,City Guwahati Blood Bank,AS/BB/2022/783,2025-06-18,Assam,Guwahati,26.131422,91.739025,Private,A-,26,4,No,4.0,8.9,14,0,+91-705829710
+BB0210,Global Bhubaneswar Blood Bank,OD/BB/2019/279,2025-11-12,Odisha,Bhubaneswar,20.34722,85.863354,Private,B-,5,2,Yes,4.4,12.6,2,0,+91-716595577
+BB0211,Apollo Panaji Blood Bank,GO/BB/2021/758,2024-07-23,Goa,Panaji,15.49563,73.867034,Trust,O+,25,4,Yes,4.3,15.6,27,0,+91-667932667
+BB0212,Central Guwahati Blood Bank,AS/BB/2021/439,2029-04-03,Assam,Guwahati,26.130516,91.710597,Charity,B+,38,7,Yes,4.3,12.6,10,0,+91-653369115
+BB0213,National Raipur Blood Bank,CH/BB/2020/043,2029-08-16,Chhattisgarh,Raipur,21.275869,81.61664,Private,B+,22,6,No,4.4,14.0,43,0,+91-785040868
+BB0214,Red Cross Coimbatore Blood Bank,TA/BB/2020/272,2024-11-06,Tamil Nadu,Coimbatore,11.015399,76.965459,Government,B-,29,2,No,4.5,8.5,8,1,+91-787090546
+BB0215,Red Cross Raipur Blood Bank,CH/BB/2022/264,2029-05-18,Chhattisgarh,Raipur,21.21146,81.612024,Private,AB+,32,4,Yes,4.2,36.1,17,0,+91-798728370
+BB0216,Sankara Imphal Blood Bank,MA/BB/2022/966,2030-07-17,Manipur,Imphal,24.781026,93.902087,Private,AB-,35,1,No,4.2,4.0,79,0,+91-741300251
+BB0217,Royal Secunderabad Blood Bank,TE/BB/2021/567,2026-08-06,Telangana,Secunderabad,17.451115,78.528348,Private,AB+,21,6,Yes,4.2,16.8,8,0,+91-759935564
+BB0218,Red Cross Hyderabad Blood Bank,TE/BB/2020/936,2025-04-05,Telangana,Hyderabad,17.41525,78.549061,Private,B+,11,4,No,3.9,3.3,51,0,+91-702876474
+BB0219,Unity Imphal Blood Bank,MA/BB/2024/487,2030-02-17,Manipur,Imphal,24.833752,93.939385,Government,AB+,12,7,No,3.8,4.9,19,1,+91-723090120
+BB0220,Metro Ranchi Blood Bank,JH/BB/2020/197,2027-09-18,Jharkhand,Ranchi,23.257075,85.310467,Trust,AB-,15,0,No,5.0,10.8,12,0,+91-919641817
+BB0221,Care Surat Blood Bank,GU/BB/2018/949,2027-02-24,Gujarat,Surat,21.17885,72.738284,Private,B+,26,2,No,4.6,3.2,5,0,+91-817356590
+BB0222,Max Hyderabad Blood Bank,TE/BB/2019/261,2028-04-10,Telangana,Hyderabad,17.439043,78.471983,Private,B+,10,5,Yes,3.9,5.9,26,0,+91-715940287
+BB0223,Red Cross Bhubaneswar Blood Bank,OD/BB/2021/591,2024-11-26,Odisha,Bhubaneswar,20.252779,85.825195,Government,AB-,14,6,Yes,4.6,19.8,50,1,+91-607541772
+BB0224,Global Indore Blood Bank,MA/BB/2023/101,2028-10-02,Madhya Pradesh,Indore,22.664617,75.869415,Private,O+,2,4,No,4.2,1.2,26,0,+91-836335687
+BB0225,KIMS Kanpur Blood Bank,UT/BB/2019/843,2024-07-21,Uttar Pradesh,Kanpur,26.403726,80.279703,Government,A+,23,1,Yes,4.4,4.9,2,1,+91-881817027
+BB0226,Max Patna Blood Bank,BI/BB/2021/706,2027-11-21,Bihar,Patna,25.618715,85.106574,Government,AB-,16,6,Yes,4.8,1.7,2,1,+91-685861176
+BB0227,City Kochi Blood Bank,KE/BB/2021/314,2024-09-18,Kerala,Kochi,9.982889,76.208177,Private,AB-,33,0,Yes,3.7,7.0,38,0,+91-696043251
+BB0228,Gandhi Bhubaneswar Blood Bank,OD/BB/2018/490,2029-07-17,Odisha,Bhubaneswar,20.319981,85.863968,Trust,A+,26,3,Yes,3.0,1.4,27,0,+91-601208282
+BB0229,Care Patna Blood Bank,BI/BB/2022/188,2025-03-04,Bihar,Patna,25.600443,84.984411,Charity,O-,14,6,Yes,4.4,5.1,37,0,+91-898341188
+BB0230,Fortis Shimla Blood Bank,HI/BB/2019/089,2026-03-05,Himachal Pradesh,Shimla,31.127728,77.19155,Trust,B-,3,1,No,4.8,8.2,47,0,+91-722809479
+BB0231,Fortis Jaipur Blood Bank,RA/BB/2019/147,2025-11-24,Rajasthan,Jaipur,26.970647,75.833687,Government,B+,1,2,Yes,4.4,21.7,49,1,+91-979350981
+BB0232,Unity Jodhpur Blood Bank,RA/BB/2020/294,2030-11-21,Rajasthan,Jodhpur,26.257368,72.999639,Private,O+,16,6,No,4.0,2.7,30,0,+91-788133364
+BB0233,Central Dehradun Blood Bank,UT/BB/2023/552,2030-06-02,Uttarakhand,Dehradun,30.341306,78.050517,Private,AB+,23,4,Yes,4.6,11.4,52,0,+91-639301825
+BB0234,Gandhi New Delhi Blood Bank,DE/BB/2019/886,2029-04-24,Delhi,New Delhi,28.494731,77.234835,Private,AB-,16,3,Yes,4.4,23.1,47,0,+91-906312431
+BB0235,KIMS Kanpur Blood Bank,UT/BB/2019/258,2029-11-07,Uttar Pradesh,Kanpur,26.425323,80.336133,Private,A-,31,4,No,3.7,10.6,30,0,+91-828275227
+BB0236,Metro Shillong Blood Bank,ME/BB/2021/018,2025-12-09,Meghalaya,Shillong,25.619387,91.84481,Private,A-,30,0,Yes,4.9,5.7,16,0,+91-824472660
+BB0237,Central Agartala Blood Bank,TR/BB/2023/020,2030-04-12,Tripura,Agartala,23.772241,91.177478,Private,A-,28,1,No,4.5,15.5,24,0,+91-787141523
+BB0238,KIMS Kolkata Blood Bank,WE/BB/2020/892,2027-07-22,West Bengal,Kolkata,22.699195,88.437905,Private,B-,38,2,Yes,5.0,4.0,17,0,+91-678772319
+BB0239,Life Dehradun Blood Bank,UT/BB/2018/541,2026-03-28,Uttarakhand,Dehradun,30.298765,77.910238,Private,AB-,29,4,No,3.6,5.1,22,0,+91-935139196
+BB0240,Red Cross Chandigarh Blood Bank,CH/BB/2019/105,2024-01-03,Chandigarh,Chandigarh,30.767502,76.748696,Private,A+,18,5,Yes,4.1,17.5,5,0,+91-787345817
+BB0241,Fortis Shillong Blood Bank,ME/BB/2020/328,2024-08-07,Meghalaya,Shillong,25.534427,91.835308,Private,AB+,19,5,Yes,3.2,16.5,8,0,+91-876437477
+BB0242,Sankara Ahmedabad Blood Bank,GU/BB/2022/543,2024-01-15,Gujarat,Ahmedabad,22.979203,72.489025,Private,AB-,27,3,Yes,4.0,19.8,30,0,+91-714187998
+BB0243,Gandhi New Delhi Blood Bank,DE/BB/2022/791,2024-04-24,Delhi,New Delhi,28.669398,77.276838,Private,O-,13,4,Yes,3.7,26.9,9,0,+91-605997647
+BB0244,Central Patna Blood Bank,BI/BB/2020/735,2030-08-09,Bihar,Patna,25.599147,85.194289,Private,A+,7,2,Yes,3.3,4.6,55,0,+91-732152109
+BB0245,Gandhi New Delhi Blood Bank,DE/BB/2018/059,2025-05-26,Delhi,New Delhi,28.601769,77.161099,Private,B-,41,7,No,3.4,20.3,4,0,+91-942166387
+BB0246,Apollo Imphal Blood Bank,MA/BB/2024/389,2028-02-26,Manipur,Imphal,24.768419,93.973785,Charity,AB-,23,4,No,4.7,6.4,26,0,+91-859509443
+BB0247,Apollo Bengaluru Blood Bank,KA/BB/2021/526,2029-10-20,Karnataka,Bengaluru,12.998657,77.553221,Trust,O-,14,3,No,4.6,17.8,14,0,+91-938048246
+BB0248,KIMS Kolkata Blood Bank,WE/BB/2024/062,2024-07-23,West Bengal,Kolkata,22.564869,88.304456,Private,A+,12,5,Yes,3.3,15.0,2,0,+91-726855079
+BB0249,Fortis Hyderabad Blood Bank,TE/BB/2018/837,2030-07-28,Telangana,Hyderabad,17.401387,78.515908,Private,A-,35,1,No,4.5,8.2,15,0,+91-773698085
+BB0250,Global Ahmedabad Blood Bank,GU/BB/2022/159,2030-10-08,Gujarat,Ahmedabad,23.033372,72.569609,Government,B-,22,5,No,4.6,4.6,61,1,+91-963700182
+BB0251,Red Cross Howrah Blood Bank,WE/BB/2018/589,2026-01-23,West Bengal,Howrah,22.634098,88.2255,Private,AB+,30,4,Yes,4.9,8.0,41,0,+91-777719059
+BB0252,St. Mary Jodhpur Blood Bank,RA/BB/2023/181,2027-07-08,Rajasthan,Jodhpur,26.289333,73.048523,Private,B-,6,3,No,3.9,22.8,36,0,+91-695322153
+BB0253,Life Nagpur Blood Bank,MA/BB/2024/269,2029-08-18,Maharashtra,Nagpur,21.15661,79.128444,Government,AB+,24,5,No,4.7,4.3,12,1,+91-890416926
+BB0254,Red Cross Patna Blood Bank,BI/BB/2018/108,2026-01-19,Bihar,Patna,25.58341,85.047576,Private,A+,37,4,Yes,4.5,12.5,20,0,+91-920421808
+BB0255,Care Guwahati Blood Bank,AS/BB/2023/859,2026-01-21,Assam,Guwahati,26.156734,91.743476,Charity,AB-,15,1,Yes,4.7,1.5,47,0,+91-634866592
+BB0256,Global Dehradun Blood Bank,UT/BB/2018/407,2029-08-25,Uttarakhand,Dehradun,30.336886,78.016173,Government,O-,9,0,No,3.4,15.4,37,1,+91-827386381
+BB0257,Apollo Surat Blood Bank,GU/BB/2019/950,2027-06-21,Gujarat,Surat,21.164788,72.809419,Private,O-,16,6,Yes,5.0,12.8,34,0,+91-620662826
+BB0258,Sankara Mumbai Blood Bank,MA/BB/2019/357,2027-06-10,Maharashtra,Mumbai,19.078303,72.944108,Private,AB-,5,6,Yes,4.6,25.2,54,0,+91-965561879
+BB0259,National Vijayawada Blood Bank,AN/BB/2018/902,2026-03-17,Andhra Pradesh,Vijayawada,16.538197,80.721671,Government,AB+,22,7,Yes,4.4,13.7,34,1,+91-867750760
+BB0260,Max Kolkata Blood Bank,WE/BB/2018/248,2029-11-16,West Bengal,Kolkata,22.621,88.359552,Private,A+,10,5,Yes,3.7,23.2,52,0,+91-751092805
+BB0261,Life Agartala Blood Bank,TR/BB/2021/206,2030-07-09,Tripura,Agartala,23.939433,91.310291,Private,AB+,20,6,Yes,4.9,11.7,37,0,+91-667956524
+BB0262,Red Cross Delhi Blood Bank,DE/BB/2024/847,2025-10-12,Delhi,Delhi,28.774666,77.098108,Private,A+,34,5,No,4.3,15.0,45,0,+91-905066753
+BB0263,Care Shillong Blood Bank,ME/BB/2018/233,2030-05-17,Meghalaya,Shillong,25.619986,91.863151,Government,B-,8,1,Yes,4.1,17.9,2,1,+91-755741401
+BB0264,Fortis Bhubaneswar Blood Bank,OD/BB/2019/472,2025-05-15,Odisha,Bhubaneswar,20.261945,85.901368,Private,AB-,19,3,No,4.7,1.3,58,0,+91-626379946
+BB0265,Gandhi Ahmedabad Blood Bank,GU/BB/2020/347,2025-02-04,Gujarat,Ahmedabad,22.973188,72.568616,Private,AB+,36,4,Yes,4.9,1.8,24,0,+91-794386677
+BB0266,Max Bhubaneswar Blood Bank,OD/BB/2022/515,2024-11-08,Odisha,Bhubaneswar,20.266841,85.853932,Government,B-,28,7,No,4.8,4.0,20,1,+91-974393797
+BB0267,KIMS Bhubaneswar Blood Bank,OD/BB/2024/871,2024-05-21,Odisha,Bhubaneswar,20.415734,85.771631,Trust,AB+,37,6,Yes,4.1,27.7,14,0,+91-823369663
+BB0268,City Kochi Blood Bank,KE/BB/2023/645,2026-03-24,Kerala,Kochi,9.922203,76.289791,Trust,B+,10,1,Yes,4.2,1.0,30,0,+91-769102758
+BB0269,Red Cross Kanpur Blood Bank,UT/BB/2023/560,2025-05-20,Uttar Pradesh,Kanpur,26.448905,80.299113,Private,A-,2,3,Yes,4.0,9.4,17,0,+91-807102147
+BB0270,Central Kolkata Blood Bank,WE/BB/2018/893,2025-07-02,West Bengal,Kolkata,22.483929,88.3866,Government,B+,25,2,Yes,4.1,12.4,56,1,+91-830117980
+BB0271,Life Kohima Blood Bank,NA/BB/2021/537,2025-03-22,Nagaland,Kohima,25.738342,94.014512,Private,O-,11,1,No,4.3,13.1,20,0,+91-682509161
+BB0272,Care Agartala Blood Bank,TR/BB/2020/536,2029-02-04,Tripura,Agartala,23.851161,91.243701,Government,B-,15,7,Yes,4.7,13.9,27,1,+91-947873717
+BB0273,Central Bhubaneswar Blood Bank,OD/BB/2018/616,2024-08-10,Odisha,Bhubaneswar,20.311213,85.818832,Private,B-,34,4,Yes,4.1,12.8,32,0,+91-778106185
+BB0274,City Hyderabad Blood Bank,TE/BB/2022/226,2030-02-03,Telangana,Hyderabad,17.436968,78.432398,Private,AB-,6,5,Yes,4.2,9.4,28,0,+91-859438715
+BB0275,Apollo New Delhi Blood Bank,DE/BB/2022/101,2028-03-11,Delhi,New Delhi,28.705963,77.145778,Trust,O+,22,1,No,4.0,2.9,21,0,+91-874739825
+BB0276,Fortis Lucknow Blood Bank,UT/BB/2019/464,2029-03-28,Uttar Pradesh,Lucknow,26.916304,80.903553,Private,B+,14,4,Yes,4.0,3.3,20,0,+91-734774515
+BB0277,City Imphal Blood Bank,MA/BB/2019/997,2027-08-18,Manipur,Imphal,24.854488,93.956375,Government,O+,32,0,No,4.8,20.6,15,1,+91-617985696
+BB0278,Apollo Ranchi Blood Bank,JH/BB/2021/449,2024-06-17,Jharkhand,Ranchi,23.387699,85.274877,Private,AB-,32,2,Yes,4.5,12.0,40,0,+91-773841669
+BB0279,Care Bengaluru Blood Bank,KA/BB/2020/973,2030-12-21,Karnataka,Bengaluru,13.010095,77.642986,Private,AB-,13,6,No,3.3,29.0,41,0,+91-925006535
+BB0280,Central Lucknow Blood Bank,UT/BB/2018/759,2028-05-19,Uttar Pradesh,Lucknow,26.796157,81.021425,Charity,A-,14,4,No,4.5,2.4,34,0,+91-748684503
+BB0281,Care Thiruvananthapuram Blood Bank,KE/BB/2023/760,2025-05-17,Kerala,Thiruvananthapuram,8.501626,77.01058,Trust,O+,24,0,Yes,4.2,7.3,13,0,+91-907002965
+BB0282,Sankara Shillong Blood Bank,ME/BB/2018/540,2029-04-27,Meghalaya,Shillong,25.607468,91.861122,Government,A+,33,1,No,3.9,14.7,19,1,+91-899115888
+BB0283,Royal Jaipur Blood Bank,RA/BB/2018/420,2026-11-05,Rajasthan,Jaipur,26.926317,75.718498,Government,A+,8,2,Yes,4.3,28.7,13,1,+91-972284471
+BB0284,Unity Varanasi Blood Bank,UT/BB/2021/881,2025-02-09,Uttar Pradesh,Varanasi,25.355244,83.016059,Charity,A-,13,4,Yes,3.9,9.5,40,0,+91-600395997
+BB0285,Global Agartala Blood Bank,TR/BB/2023/337,2025-05-02,Tripura,Agartala,23.748282,91.411496,Private,AB-,7,5,No,4.1,30.1,63,0,+91-650743498
+BB0286,City Panaji Blood Bank,GO/BB/2020/735,2024-05-28,Goa,Panaji,15.550717,73.83157,Private,B+,8,4,No,4.1,14.7,29,0,+91-768033425
+BB0287,Central Visakhapatnam Blood Bank,AN/BB/2020/669,2028-04-28,Andhra Pradesh,Visakhapatnam,17.72611,83.267299,Private,A-,28,3,No,3.7,1.2,12,0,+91-827124553
+BB0288,Global Surat Blood Bank,GU/BB/2021/336,2025-10-08,Gujarat,Surat,21.15322,72.78661,Private,O+,22,2,Yes,5.0,7.3,27,0,+91-883544830
+BB0289,Apollo Panaji Blood Bank,GO/BB/2020/177,2028-04-20,Goa,Panaji,15.494129,73.856412,Private,AB-,56,2,No,3.6,14.1,55,0,+91-878912917
+BB0290,Apollo Bhopal Blood Bank,MA/BB/2019/788,2027-09-10,Madhya Pradesh,Bhopal,23.218336,77.43242,Private,AB-,2,5,No,3.1,7.9,14,0,+91-604474701
+BB0291,Apollo Bhopal Blood Bank,MA/BB/2018/746,2026-02-10,Madhya Pradesh,Bhopal,23.24004,77.395978,Private,O-,33,5,Yes,4.4,14.1,27,0,+91-950117792
+BB0292,Sankara Vijayawada Blood Bank,AN/BB/2022/204,2026-09-06,Andhra Pradesh,Vijayawada,16.46306,80.688427,Government,A-,12,5,Yes,3.6,19.7,26,1,+91-987917482
+BB0293,Metro Bengaluru Blood Bank,KA/BB/2018/838,2025-02-17,Karnataka,Bengaluru,12.911644,77.621794,Government,AB-,13,1,No,4.2,21.7,25,1,+91-860324905
+BB0294,Fortis Lucknow Blood Bank,UT/BB/2022/682,2028-03-21,Uttar Pradesh,Lucknow,26.795712,80.991808,Private,B+,6,6,Yes,5.0,26.9,61,0,+91-711286860
+BB0295,Fortis Kohima Blood Bank,NA/BB/2020/962,2027-12-06,Nagaland,Kohima,25.606479,94.094418,Private,AB+,12,7,No,4.6,17.6,30,0,+91-928752287
+BB0296,City Guwahati Blood Bank,AS/BB/2019/141,2025-11-28,Assam,Guwahati,26.124437,91.698664,Government,A-,32,5,No,2.8,13.2,53,1,+91-837638394
+BB0297,Global Imphal Blood Bank,MA/BB/2022/538,2024-04-04,Manipur,Imphal,24.853301,93.995264,Private,AB-,16,2,No,4.3,27.2,33,0,+91-955720739
+BB0298,Global Nagpur Blood Bank,MA/BB/2019/256,2024-07-10,Maharashtra,Nagpur,21.15149,79.097418,Trust,B+,16,2,No,3.1,4.2,35,0,+91-896933061
+BB0299,Fortis Jodhpur Blood Bank,RA/BB/2020/850,2030-01-18,Rajasthan,Jodhpur,26.204819,73.12587,Private,B+,23,3,No,4.2,11.2,53,0,+91-625782972
+BB0300,Metro Kohima Blood Bank,NA/BB/2021/911,2024-04-06,Nagaland,Kohima,25.667748,94.079495,Private,O+,19,1,No,4.3,11.8,9,0,+91-969712152
+BB0301,Central Bhubaneswar Blood Bank,OD/BB/2021/790,2025-03-25,Odisha,Bhubaneswar,20.3754,85.835599,Private,B+,17,0,No,3.5,2.6,29,0,+91-913135261
+BB0302,Sankara Shillong Blood Bank,ME/BB/2018/237,2028-10-13,Meghalaya,Shillong,25.695351,91.934272,Private,B+,19,2,Yes,4.0,1.2,2,0,+91-749568735
+BB0303,Life Delhi Blood Bank,DE/BB/2022/323,2024-07-28,Delhi,Delhi,28.757116,77.08898,Private,A-,43,0,No,4.1,2.4,14,0,+91-947636747
+BB0304,Central Vijayawada Blood Bank,AN/BB/2022/246,2025-03-05,Andhra Pradesh,Vijayawada,16.559059,80.666932,Private,A-,14,6,No,4.7,1.2,12,0,+91-904381190
+BB0305,Care Delhi Blood Bank,DE/BB/2024/396,2030-03-26,Delhi,Delhi,28.704762,77.139287,Charity,B+,5,1,Yes,4.4,1.1,21,0,+91-786199998
+BB0306,Global Ranchi Blood Bank,JH/BB/2022/228,2025-01-27,Jharkhand,Ranchi,23.368441,85.316556,Private,O-,18,0,Yes,3.6,12.3,46,0,+91-870407583
+BB0307,Apollo Coimbatore Blood Bank,TA/BB/2023/683,2025-05-21,Tamil Nadu,Coimbatore,10.998124,76.980065,Private,A+,35,3,No,3.8,2.1,29,0,+91-852978493
+BB0308,Sankara Shillong Blood Bank,ME/BB/2021/918,2026-10-10,Meghalaya,Shillong,25.521884,91.871215,Private,B+,31,5,No,3.7,7.1,15,0,+91-677203014
+BB0309,Sankara Jodhpur Blood Bank,RA/BB/2020/241,2030-07-04,Rajasthan,Jodhpur,26.239107,73.037125,Private,B-,34,4,No,5.0,10.0,19,0,+91-904408628
+BB0310,Sankara Kanpur Blood Bank,UT/BB/2024/598,2025-06-28,Uttar Pradesh,Kanpur,26.407041,80.331453,Private,B+,30,3,No,3.4,17.2,50,0,+91-855797773
+BB0311,KIMS Lucknow Blood Bank,UT/BB/2024/173,2028-04-11,Uttar Pradesh,Lucknow,26.883666,80.888113,Private,B+,14,3,Yes,4.3,1.7,15,0,+91-732699724
+BB0312,Gandhi Imphal Blood Bank,MA/BB/2021/129,2030-12-05,Manipur,Imphal,24.760311,94.003224,Trust,A-,34,0,No,4.7,1.4,61,0,+91-876258828
+BB0313,Care Pune Blood Bank,MA/BB/2021/661,2028-03-21,Maharashtra,Pune,18.522633,73.894618,Private,B+,7,2,No,4.6,20.6,23,0,+91-616072628
+BB0314,Apollo Chennai Blood Bank,TA/BB/2021/761,2025-10-15,Tamil Nadu,Chennai,13.120141,80.237362,Government,O-,22,7,Yes,5.0,17.4,30,1,+91-632217978
+BB0315,Royal Secunderabad Blood Bank,TE/BB/2020/610,2024-03-16,Telangana,Secunderabad,17.467731,78.496166,Private,B+,24,6,Yes,4.5,14.6,29,0,+91-755221418
+BB0316,St. Mary Kochi Blood Bank,KE/BB/2020/316,2030-10-26,Kerala,Kochi,9.874954,76.330589,Private,AB+,28,6,No,4.2,0.5,14,0,+91-766681640
+BB0317,St. Mary Indore Blood Bank,MA/BB/2024/182,2028-12-23,Madhya Pradesh,Indore,22.738216,75.899481,Private,AB-,17,6,Yes,3.8,5.3,30,0,+91-629990984
+BB0318,St. Mary New Delhi Blood Bank,DE/BB/2023/336,2024-10-09,Delhi,New Delhi,28.575076,77.342588,Private,B+,23,5,No,3.7,13.0,22,0,+91-738441158
+BB0319,Red Cross Varanasi Blood Bank,UT/BB/2019/488,2024-07-11,Uttar Pradesh,Varanasi,25.334622,82.930097,Charity,B+,19,0,Yes,4.5,14.7,38,0,+91-886930733
+BB0320,Royal Nagpur Blood Bank,MA/BB/2021/328,2028-12-23,Maharashtra,Nagpur,21.057736,79.131354,Private,O+,32,2,Yes,4.5,19.7,25,0,+91-720709042
+BB0321,National Vijayawada Blood Bank,AN/BB/2021/477,2026-04-27,Andhra Pradesh,Vijayawada,16.437803,80.598945,Private,AB-,8,3,No,3.5,0.5,36,0,+91-677968662
+BB0322,Metro Delhi Blood Bank,DE/BB/2021/052,2026-01-02,Delhi,Delhi,28.757028,77.037411,Government,A-,2,3,Yes,3.8,9.0,2,1,+91-730008343
+BB0323,Life Pune Blood Bank,MA/BB/2022/148,2025-08-20,Maharashtra,Pune,18.503258,73.880685,Government,O-,13,5,No,4.8,4.3,47,1,+91-981656265
+BB0324,National Hyderabad Blood Bank,TE/BB/2019/114,2024-04-04,Telangana,Hyderabad,17.408316,78.420854,Private,O-,20,0,Yes,4.2,16.4,4,0,+91-773349566
+BB0325,Metro Nagpur Blood Bank,MA/BB/2020/730,2028-07-15,Maharashtra,Nagpur,21.116201,79.042471,Trust,B+,37,2,Yes,3.4,14.1,30,0,+91-902517687
+BB0326,Red Cross Nagpur Blood Bank,MA/BB/2019/451,2025-11-28,Maharashtra,Nagpur,21.189288,79.063963,Private,A-,27,7,Yes,4.0,26.1,3,0,+91-624754190
+BB0327,Max Pune Blood Bank,MA/BB/2024/534,2027-10-18,Maharashtra,Pune,18.533312,73.880956,Government,A-,30,1,Yes,4.8,2.2,30,1,+91-894984177
+BB0328,Life Howrah Blood Bank,WE/BB/2018/798,2028-02-23,West Bengal,Howrah,22.577281,88.2807,Private,O-,30,7,No,4.8,7.5,3,0,+91-626989283
+BB0329,Red Cross Jaipur Blood Bank,RA/BB/2021/943,2024-03-14,Rajasthan,Jaipur,26.887877,75.807057,Private,A+,15,2,Yes,4.3,5.1,31,0,+91-675071068
+BB0330,Life Guwahati Blood Bank,AS/BB/2020/346,2025-02-20,Assam,Guwahati,26.048659,91.679601,Trust,A-,10,4,Yes,4.7,4.1,21,0,+91-956078419
+BB0331,Apollo Patna Blood Bank,BI/BB/2022/042,2024-04-07,Bihar,Patna,25.557074,85.188055,Private,A+,15,3,Yes,5.0,17.2,13,0,+91-944764586
+BB0332,KIMS Jodhpur Blood Bank,RA/BB/2021/324,2030-08-05,Rajasthan,Jodhpur,26.20975,73.055319,Government,O+,7,2,Yes,4.1,11.3,15,1,+91-600954818
+BB0333,Apollo Hyderabad Blood Bank,TE/BB/2018/892,2024-02-11,Telangana,Hyderabad,17.539426,78.512498,Private,AB+,21,4,Yes,4.5,32.7,43,0,+91-613281273
+BB0334,Gandhi Kolkata Blood Bank,WE/BB/2024/293,2028-07-15,West Bengal,Kolkata,22.626973,88.407058,Private,AB+,14,1,Yes,3.9,15.8,21,0,+91-951637371
+BB0335,Unity Dehradun Blood Bank,UT/BB/2022/146,2028-01-08,Uttarakhand,Dehradun,30.362005,78.046395,Government,AB+,29,5,Yes,3.4,4.2,28,1,+91-940593967
+BB0336,Global Indore Blood Bank,MA/BB/2020/078,2027-11-03,Madhya Pradesh,Indore,22.72241,75.843632,Government,B-,16,7,Yes,4.2,7.6,12,1,+91-915570436
+BB0337,KIMS Kochi Blood Bank,KE/BB/2018/661,2027-01-14,Kerala,Kochi,9.857787,76.255682,Government,A+,0,2,Yes,4.0,17.2,58,1,+91-713332322
+BB0338,KIMS Guwahati Blood Bank,AS/BB/2019/861,2024-05-11,Assam,Guwahati,26.127242,91.601009,Government,A-,8,1,Yes,4.2,13.0,41,1,+91-890906894
+BB0339,Central Aizawl Blood Bank,MI/BB/2021/566,2027-03-22,Mizoram,Aizawl,23.680684,92.741884,Private,O-,7,0,No,4.3,7.3,20,0,+91-726225344
+BB0340,Central Kohima Blood Bank,NA/BB/2018/271,2030-05-04,Nagaland,Kohima,25.644806,94.109586,Private,O-,23,7,Yes,4.3,4.9,5,0,+91-614862774
+BB0341,Metro Coimbatore Blood Bank,TA/BB/2020/694,2024-01-06,Tamil Nadu,Coimbatore,10.983355,76.952126,Private,O-,8,7,No,4.1,10.7,31,0,+91-702998899
+BB0342,Life Howrah Blood Bank,WE/BB/2023/456,2026-04-21,West Bengal,Howrah,22.543445,88.292789,Private,O-,1,6,Yes,3.9,4.9,9,0,+91-926319681
+BB0343,City Aizawl Blood Bank,MI/BB/2024/444,2027-05-12,Mizoram,Aizawl,23.779693,92.641815,Private,AB+,2,4,No,4.0,12.8,41,0,+91-713433727
+BB0344,Gandhi Mumbai Blood Bank,MA/BB/2022/447,2030-07-16,Maharashtra,Mumbai,18.974878,72.88417,Private,O-,15,5,Yes,5.0,13.9,24,0,+91-982750460
+BB0345,Red Cross Aizawl Blood Bank,MI/BB/2018/856,2028-10-08,Mizoram,Aizawl,23.721333,92.770816,Private,B+,21,5,Yes,4.7,9.6,49,0,+91-754023134
+BB0346,Unity New Delhi Blood Bank,DE/BB/2019/010,2024-07-22,Delhi,New Delhi,28.684074,77.191955,Private,AB+,24,3,Yes,4.5,30.5,40,0,+91-649653187
+BB0347,Sankara Ahmedabad Blood Bank,GU/BB/2023/987,2030-10-26,Gujarat,Ahmedabad,23.024826,72.574599,Trust,A-,12,4,Yes,4.3,4.6,63,0,+91-936726779
+BB0348,St. Mary Mumbai Blood Bank,MA/BB/2023/118,2030-06-20,Maharashtra,Mumbai,19.11121,72.974743,Private,AB+,14,0,No,4.7,1.5,24,0,+91-610434430
+BB0349,St. Mary Agartala Blood Bank,TR/BB/2022/478,2026-10-18,Tripura,Agartala,23.760868,91.221049,Trust,O+,22,1,Yes,3.7,5.3,40,0,+91-816181522
+BB0350,Max Howrah Blood Bank,WE/BB/2020/886,2028-06-13,West Bengal,Howrah,22.58064,88.318376,Government,AB-,36,3,Yes,3.3,25.1,43,1,+91-712605947
+BB0351,KIMS Mumbai Blood Bank,MA/BB/2021/350,2024-10-27,Maharashtra,Mumbai,19.120467,72.926438,Private,AB-,5,3,Yes,4.1,21.7,25,0,+91-630336660
+BB0352,Gandhi Visakhapatnam Blood Bank,AN/BB/2024/904,2026-10-23,Andhra Pradesh,Visakhapatnam,17.639034,83.204399,Private,A-,28,6,No,4.3,9.1,20,0,+91-693246171
+BB0353,Gandhi Indore Blood Bank,MA/BB/2022/313,2028-05-05,Madhya Pradesh,Indore,22.785707,75.889492,Private,O-,32,6,Yes,4.7,5.2,36,0,+91-850562649
+BB0354,Life Bengaluru Blood Bank,KA/BB/2021/407,2030-10-28,Karnataka,Bengaluru,12.901908,77.563319,Private,AB+,17,3,Yes,4.4,14.6,4,0,+91-691952044
+BB0355,KIMS Aizawl Blood Bank,MI/BB/2024/807,2027-12-17,Mizoram,Aizawl,23.759941,92.681232,Government,B+,24,6,Yes,4.0,13.4,23,1,+91-601680859
+BB0356,City Kanpur Blood Bank,UT/BB/2024/505,2029-01-15,Uttar Pradesh,Kanpur,26.444292,80.409959,Government,B+,8,1,Yes,5.0,12.6,2,1,+91-807041014
+BB0357,Red Cross Bhubaneswar Blood Bank,OD/BB/2020/618,2028-09-13,Odisha,Bhubaneswar,20.255392,85.833352,Private,O-,25,2,Yes,3.5,19.3,18,0,+91-891335592
+BB0358,St. Mary Bhubaneswar Blood Bank,OD/BB/2020/455,2026-07-22,Odisha,Bhubaneswar,20.324522,85.787366,Private,AB+,16,7,Yes,3.9,27.3,45,0,+91-806751803
+BB0359,Gandhi Shillong Blood Bank,ME/BB/2024/602,2026-01-17,Meghalaya,Shillong,25.537483,91.929186,Trust,O+,31,6,No,4.1,5.5,33,0,+91-645487695
+BB0360,Apollo Indore Blood Bank,MA/BB/2023/816,2028-10-09,Madhya Pradesh,Indore,22.762143,75.893985,Private,AB+,36,2,Yes,5.0,16.6,2,0,+91-964296249
+BB0361,Central Vijayawada Blood Bank,AN/BB/2023/315,2030-01-15,Andhra Pradesh,Vijayawada,16.534079,80.581123,Private,A-,19,1,Yes,3.9,14.8,31,0,+91-790783989
+BB0362,Global Agartala Blood Bank,TR/BB/2020/890,2025-06-11,Tripura,Agartala,23.791517,91.25945,Private,B+,19,1,Yes,4.4,32.4,4,0,+91-895700454
+BB0363,Central Delhi Blood Bank,DE/BB/2024/302,2029-11-12,Delhi,Delhi,28.615353,77.172305,Private,A+,25,2,Yes,4.0,37.9,16,0,+91-996253141
+BB0364,St. Mary Varanasi Blood Bank,UT/BB/2019/431,2029-02-18,Uttar Pradesh,Varanasi,25.356926,82.971954,Private,B+,37,2,Yes,4.2,17.7,7,0,+91-849414508
+BB0365,Red Cross Jaipur Blood Bank,RA/BB/2023/101,2030-06-09,Rajasthan,Jaipur,26.92981,75.774023,Government,O-,14,2,Yes,3.3,18.3,48,1,+91-815344319
+BB0366,Red Cross Bhopal Blood Bank,MA/BB/2024/070,2025-09-24,Madhya Pradesh,Bhopal,23.321247,77.44414,Government,O+,32,3,Yes,4.2,32.3,25,1,+91-955442744
+BB0367,Max Imphal Blood Bank,MA/BB/2018/852,2026-10-23,Manipur,Imphal,24.828867,93.869497,Private,B+,18,7,Yes,4.1,7.5,19,0,+91-888921853
+BB0368,Gandhi Patna Blood Bank,BI/BB/2020/820,2028-03-17,Bihar,Patna,25.66247,85.140183,Private,B+,12,5,Yes,4.1,9.7,53,0,+91-961532622
+BB0369,Central Coimbatore Blood Bank,TA/BB/2021/175,2027-09-27,Tamil Nadu,Coimbatore,10.971453,76.956015,Private,A-,28,6,Yes,4.5,12.2,20,0,+91-605798075
+BB0370,Apollo New Delhi Blood Bank,DE/BB/2021/099,2030-11-22,Delhi,New Delhi,28.527181,77.215844,Private,AB+,23,2,Yes,4.1,11.0,25,0,+91-852431952
+BB0371,Fortis Jodhpur Blood Bank,RA/BB/2023/469,2025-04-02,Rajasthan,Jodhpur,26.204553,73.028284,Government,A-,3,7,Yes,3.5,31.7,4,1,+91-921287353
+BB0372,Max Kolkata Blood Bank,WE/BB/2020/067,2025-05-08,West Bengal,Kolkata,22.703924,88.431409,Government,AB+,14,5,No,3.7,11.2,2,1,+91-787644346
+BB0373,City Lucknow Blood Bank,UT/BB/2023/793,2028-01-23,Uttar Pradesh,Lucknow,26.793598,80.884862,Private,A+,4,6,Yes,4.8,1.5,11,0,+91-742580249
+BB0374,Metro Visakhapatnam Blood Bank,AN/BB/2023/529,2027-02-27,Andhra Pradesh,Visakhapatnam,17.679698,83.204587,Private,B-,10,2,Yes,4.5,5.2,21,0,+91-640169770
+BB0375,St. Mary Patna Blood Bank,BI/BB/2022/566,2027-10-19,Bihar,Patna,25.616865,85.151643,Government,O+,20,3,No,3.8,2.3,40,1,+91-709244464
+BB0376,Red Cross Ranchi Blood Bank,JH/BB/2018/029,2029-08-18,Jharkhand,Ranchi,23.358204,85.32195,Private,B-,30,7,Yes,4.1,24.6,29,0,+91-887971267
+BB0377,Red Cross Shimla Blood Bank,HI/BB/2018/436,2024-04-05,Himachal Pradesh,Shimla,31.071151,77.149696,Private,AB+,15,5,Yes,4.2,2.6,15,0,+91-819323413
+BB0378,St. Mary Imphal Blood Bank,MA/BB/2021/724,2024-04-23,Manipur,Imphal,24.780654,94.001767,Private,O+,27,7,No,5.0,3.6,8,0,+91-714205287
+BB0379,Metro Nagpur Blood Bank,MA/BB/2020/297,2030-01-22,Maharashtra,Nagpur,21.165652,78.998864,Private,O-,29,6,No,4.1,2.0,21,0,+91-749632393
+BB0380,Sankara Dehradun Blood Bank,UT/BB/2018/734,2024-04-16,Uttarakhand,Dehradun,30.362877,78.069721,Private,B+,27,3,Yes,4.2,22.0,43,0,+91-751676325
+BB0381,Sankara Guwahati Blood Bank,AS/BB/2019/805,2027-01-02,Assam,Guwahati,26.140942,91.641912,Private,A-,26,3,Yes,4.7,3.2,6,0,+91-711219314
+BB0382,Red Cross Shimla Blood Bank,HI/BB/2023/567,2028-06-05,Himachal Pradesh,Shimla,31.193861,77.148757,Private,AB-,36,2,No,5.0,6.6,18,0,+91-682730744
+BB0383,Fortis Shillong Blood Bank,ME/BB/2023/011,2029-06-11,Meghalaya,Shillong,25.62076,91.890805,Charity,A-,28,5,No,3.5,5.9,8,0,+91-634575352
+BB0384,Fortis Delhi Blood Bank,DE/BB/2024/850,2027-02-24,Delhi,Delhi,28.699157,77.122669,Government,AB+,23,5,No,4.7,23.5,8,1,+91-760026622
+BB0385,Global Coimbatore Blood Bank,TA/BB/2021/434,2025-09-23,Tamil Nadu,Coimbatore,11.094818,76.940785,Private,B-,17,0,No,4.0,0.8,23,0,+91-810990190
+BB0386,Sankara Panaji Blood Bank,GO/BB/2022/550,2024-06-23,Goa,Panaji,15.502664,73.771539,Government,O-,17,6,Yes,4.0,4.9,42,1,+91-754846670
+BB0387,Unity Visakhapatnam Blood Bank,AN/BB/2024/663,2030-11-06,Andhra Pradesh,Visakhapatnam,17.670866,83.210021,Private,A+,10,2,Yes,4.9,11.4,36,0,+91-639624722
+BB0388,Apollo Kochi Blood Bank,KE/BB/2021/147,2029-08-08,Kerala,Kochi,9.974518,76.226756,Private,A-,42,4,Yes,4.2,20.0,23,0,+91-761745093
+BB0389,Gandhi Raipur Blood Bank,CH/BB/2022/502,2030-03-24,Chhattisgarh,Raipur,21.230991,81.649341,Private,O+,15,1,No,4.2,14.5,2,0,+91-946785845
+BB0390,KIMS Thiruvananthapuram Blood Bank,KE/BB/2018/876,2026-12-19,Kerala,Thiruvananthapuram,8.539852,76.964743,Government,B-,39,7,Yes,3.3,5.1,33,1,+91-867055861
+BB0391,Global Vijayawada Blood Bank,AN/BB/2022/114,2027-02-05,Andhra Pradesh,Vijayawada,16.441109,80.662819,Private,A+,5,5,Yes,3.6,12.8,2,0,+91-627859325
+BB0392,Sankara Kohima Blood Bank,NA/BB/2022/151,2030-07-21,Nagaland,Kohima,25.660895,94.073707,Private,O+,34,1,No,3.8,8.7,5,0,+91-986992446
+BB0393,Care Thiruvananthapuram Blood Bank,KE/BB/2021/654,2024-07-07,Kerala,Thiruvananthapuram,8.492275,76.952652,Private,O+,7,1,Yes,4.5,11.2,2,0,+91-788383880
+BB0394,Max Ranchi Blood Bank,JH/BB/2019/995,2029-01-24,Jharkhand,Ranchi,23.29207,85.234767,Charity,O+,17,2,No,3.4,37.4,6,0,+91-652797075
+BB0395,Gandhi Dehradun Blood Bank,UT/BB/2019/188,2030-11-13,Uttarakhand,Dehradun,30.327569,78.051959,Trust,O+,4,1,No,3.1,5.1,18,0,+91-696853949
+BB0396,Central Ranchi Blood Bank,JH/BB/2023/615,2025-12-16,Jharkhand,Ranchi,23.272389,85.271823,Private,AB-,27,0,Yes,4.2,18.7,40,0,+91-729694644
+BB0397,Global Hyderabad Blood Bank,TE/BB/2018/723,2026-04-13,Telangana,Hyderabad,17.388405,78.560723,Private,B+,33,7,Yes,4.4,10.5,48,0,+91-859056250
+BB0398,National Patna Blood Bank,BI/BB/2022/905,2029-08-07,Bihar,Patna,25.495599,85.134827,Private,AB-,22,4,No,4.6,22.8,23,0,+91-616686411
+BB0399,Care Indore Blood Bank,MA/BB/2022/822,2028-02-20,Madhya Pradesh,Indore,22.768762,75.826253,Private,B-,19,7,No,4.0,8.3,15,0,+91-776397450
+BB0400,Red Cross Bhubaneswar Blood Bank,OD/BB/2019/949,2027-06-19,Odisha,Bhubaneswar,20.243879,85.793597,Private,A-,26,6,Yes,4.0,5.1,8,0,+91-794359812
+BB0401,National Bhopal Blood Bank,MA/BB/2019/966,2027-08-07,Madhya Pradesh,Bhopal,23.247208,77.449817,Private,A+,22,0,Yes,5.0,0.0,30,0,+91-907703132
+BB0402,Sankara Jaipur Blood Bank,RA/BB/2020/398,2030-03-04,Rajasthan,Jaipur,26.934396,75.847131,Private,B-,15,0,Yes,3.5,1.7,12,0,+91-666954691
+BB0403,Life New Delhi Blood Bank,DE/BB/2023/375,2024-04-14,Delhi,New Delhi,28.601614,77.17652,Trust,O-,16,4,Yes,3.9,15.2,11,0,+91-790950305
+BB0404,Royal Imphal Blood Bank,MA/BB/2024/109,2027-03-06,Manipur,Imphal,24.840485,93.894899,Private,A-,23,1,Yes,5.0,25.2,18,0,+91-775950792
+BB0405,National Surat Blood Bank,GU/BB/2021/301,2027-04-10,Gujarat,Surat,21.218578,72.815051,Private,AB-,28,7,Yes,5.0,10.1,22,0,+91-725884888
+BB0406,Unity Bengaluru Blood Bank,KA/BB/2023/328,2028-07-11,Karnataka,Bengaluru,13.003336,77.586154,Charity,A+,3,6,Yes,3.4,2.6,5,0,+91-880659704
+BB0407,Sankara Pune Blood Bank,MA/BB/2019/950,2026-05-13,Maharashtra,Pune,18.51952,73.822041,Charity,O+,27,7,Yes,4.5,0.7,28,0,+91-855173704
+BB0408,Max Visakhapatnam Blood Bank,AN/BB/2022/733,2024-07-05,Andhra Pradesh,Visakhapatnam,17.658491,83.209649,Private,A-,19,4,No,3.5,3.6,22,0,+91-853877004
+BB0409,Red Cross Delhi Blood Bank,DE/BB/2024/396,2024-05-15,Delhi,Delhi,28.684731,77.145791,Trust,A+,24,3,Yes,3.9,14.9,32,0,+91-994256959
+BB0410,Red Cross Mumbai Blood Bank,MA/BB/2020/257,2027-06-21,Maharashtra,Mumbai,19.096764,72.836495,Private,O-,22,4,Yes,4.7,0.2,12,0,+91-866002706
+BB0411,National Patna Blood Bank,BI/BB/2022/528,2026-05-06,Bihar,Patna,25.552869,85.00699,Trust,O-,17,5,Yes,4.1,6.1,53,0,+91-953699864
+BB0412,Gandhi Imphal Blood Bank,MA/BB/2021/961,2025-04-21,Manipur,Imphal,24.816012,93.895886,Trust,O+,33,6,No,4.6,8.9,17,0,+91-673396023
+BB0413,Gandhi Jaipur Blood Bank,RA/BB/2018/727,2026-06-15,Rajasthan,Jaipur,26.824169,75.814817,Private,A-,47,7,No,4.2,1.2,2,0,+91-694387248
+BB0414,Global Chandigarh Blood Bank,CH/BB/2018/089,2028-11-26,Chandigarh,Chandigarh,30.772088,76.658469,Government,O+,26,2,Yes,4.3,1.3,62,1,+91-872919392
+BB0415,Unity Bhubaneswar Blood Bank,OD/BB/2024/212,2024-08-02,Odisha,Bhubaneswar,20.265662,85.880847,Private,AB+,26,5,No,4.5,0.3,35,0,+91-904930433
+BB0416,Apollo Chandigarh Blood Bank,CH/BB/2020/701,2025-02-17,Chandigarh,Chandigarh,30.728888,76.829903,Trust,AB+,12,4,No,4.6,4.0,32,0,+91-787375033
+BB0417,Care Kanpur Blood Bank,UT/BB/2020/189,2027-02-24,Uttar Pradesh,Kanpur,26.419445,80.401044,Private,O+,32,1,No,3.8,12.2,23,0,+91-897970183
+BB0418,Care Shillong Blood Bank,ME/BB/2023/975,2026-10-21,Meghalaya,Shillong,25.486748,91.898016,Private,O+,18,0,Yes,5.0,11.4,17,0,+91-992791385
+BB0419,National Kochi Blood Bank,KE/BB/2023/829,2027-09-13,Kerala,Kochi,9.903215,76.28536,Private,AB-,15,2,Yes,4.9,12.5,8,0,+91-712197637
+BB0420,National Patna Blood Bank,BI/BB/2022/158,2024-11-20,Bihar,Patna,25.609308,85.08072,Private,O-,4,0,Yes,3.5,14.4,2,0,+91-891542668
+BB0421,Global Thiruvananthapuram Blood Bank,KE/BB/2020/887,2030-09-21,Kerala,Thiruvananthapuram,8.498556,76.957097,Government,A+,32,4,Yes,4.5,8.9,10,1,+91-880610543
+BB0422,KIMS Jaipur Blood Bank,RA/BB/2024/862,2027-05-27,Rajasthan,Jaipur,26.931617,75.807276,Private,AB-,34,6,Yes,4.2,9.0,72,0,+91-912617279
+BB0423,Gandhi New Delhi Blood Bank,DE/BB/2020/138,2030-11-28,Delhi,New Delhi,28.571743,77.223164,Private,O+,32,1,Yes,4.6,14.9,4,0,+91-904892363
+BB0424,Max Vijayawada Blood Bank,AN/BB/2024/593,2025-06-06,Andhra Pradesh,Vijayawada,16.493334,80.648442,Private,B+,10,4,No,3.2,14.5,67,0,+91-740119136
+BB0425,Royal Chandigarh Blood Bank,CH/BB/2023/396,2027-03-11,Chandigarh,Chandigarh,30.802292,76.839876,Trust,A+,20,0,Yes,4.5,6.4,22,0,+91-808142073
+BB0426,Global Jaipur Blood Bank,RA/BB/2020/814,2029-01-25,Rajasthan,Jaipur,26.93334,75.807162,Private,B-,39,7,Yes,5.0,6.3,11,0,+91-820332665
+BB0427,KIMS Jaipur Blood Bank,RA/BB/2019/027,2029-05-24,Rajasthan,Jaipur,26.942379,75.797517,Government,B+,33,5,Yes,3.7,24.9,49,1,+91-975888098
+BB0428,Fortis Delhi Blood Bank,DE/BB/2020/954,2024-10-15,Delhi,Delhi,28.666498,77.113607,Private,B+,20,0,Yes,3.6,2.2,4,0,+91-649844101
+BB0429,Red Cross Bhubaneswar Blood Bank,OD/BB/2023/459,2030-09-16,Odisha,Bhubaneswar,20.204274,85.784973,Charity,O+,12,7,Yes,4.1,2.8,34,0,+91-627339155
+BB0430,Global Lucknow Blood Bank,UT/BB/2022/520,2026-09-15,Uttar Pradesh,Lucknow,26.890089,80.912643,Private,AB+,38,6,Yes,4.3,21.4,15,0,+91-816739527
+BB0431,Apollo Shimla Blood Bank,HI/BB/2023/444,2025-09-13,Himachal Pradesh,Shimla,31.197006,77.193086,Private,B+,33,3,No,3.6,5.0,32,0,+91-804816772
+BB0432,St. Mary Surat Blood Bank,GU/BB/2018/727,2030-03-02,Gujarat,Surat,21.149683,72.915716,Private,O-,15,2,No,4.9,22.5,40,0,+91-721299446
+BB0433,City Raipur Blood Bank,CH/BB/2024/155,2028-07-07,Chhattisgarh,Raipur,21.255139,81.652154,Private,B-,24,1,Yes,3.4,2.4,50,0,+91-861358079
+BB0434,Red Cross Patna Blood Bank,BI/BB/2019/848,2029-09-23,Bihar,Patna,25.594612,85.137614,Trust,O+,17,4,Yes,4.7,0.7,13,0,+91-709253284
+BB0435,Life Raipur Blood Bank,CH/BB/2018/757,2025-06-12,Chhattisgarh,Raipur,21.249966,81.626969,Private,O+,8,1,Yes,4.2,8.5,29,0,+91-660261102
+BB0436,Royal Bengaluru Blood Bank,KA/BB/2020/294,2026-08-06,Karnataka,Bengaluru,12.924939,77.572476,Private,AB-,56,2,Yes,4.3,9.9,27,0,+91-836882859
+BB0437,Red Cross Coimbatore Blood Bank,TA/BB/2018/961,2026-10-26,Tamil Nadu,Coimbatore,11.045667,76.913051,Government,AB+,1,5,Yes,3.6,26.3,45,1,+91-830333446
+BB0438,Life Chennai Blood Bank,TA/BB/2020/462,2024-04-10,Tamil Nadu,Chennai,13.054684,80.288623,Private,O+,17,4,No,4.8,7.0,15,0,+91-643854138
+BB0439,Unity Shillong Blood Bank,ME/BB/2018/139,2029-07-28,Meghalaya,Shillong,25.527438,91.855765,Private,AB+,26,2,Yes,3.6,9.1,4,0,+91-811191942
+BB0440,City Agartala Blood Bank,TR/BB/2023/732,2026-08-13,Tripura,Agartala,23.72218,91.335237,Charity,B+,43,5,No,4.4,3.6,13,0,+91-669966780
+BB0441,Metro Howrah Blood Bank,WE/BB/2023/102,2030-12-09,West Bengal,Howrah,22.639583,88.153465,Government,B+,28,7,No,3.9,5.6,60,1,+91-798261589
+BB0442,KIMS Raipur Blood Bank,CH/BB/2019/453,2027-11-19,Chhattisgarh,Raipur,21.287514,81.610578,Private,A+,4,3,Yes,4.4,13.7,11,0,+91-945780151
+BB0443,Apollo Secunderabad Blood Bank,TE/BB/2020/996,2027-11-24,Telangana,Secunderabad,17.381805,78.510815,Private,AB+,39,0,Yes,4.8,4.9,6,0,+91-708555252
+BB0444,Apollo Shillong Blood Bank,ME/BB/2020/451,2024-09-14,Meghalaya,Shillong,25.574684,91.956802,Private,O-,4,0,Yes,4.0,0.2,55,0,+91-652258102
+BB0445,Red Cross Raipur Blood Bank,CH/BB/2022/753,2028-10-15,Chhattisgarh,Raipur,21.243158,81.586257,Charity,O-,0,4,Yes,4.1,17.0,9,0,+91-645705203
+BB0446,St. Mary Howrah Blood Bank,WE/BB/2023/735,2024-07-13,West Bengal,Howrah,22.545606,88.299977,Private,B-,36,3,Yes,4.6,9.1,11,0,+91-893337938
+BB0447,Apollo Hyderabad Blood Bank,TE/BB/2020/677,2029-08-10,Telangana,Hyderabad,17.480397,78.529094,Private,A-,2,4,Yes,3.4,14.3,32,0,+91-801263539
+BB0448,Sankara Jaipur Blood Bank,RA/BB/2023/195,2024-05-28,Rajasthan,Jaipur,26.917465,75.733413,Private,B+,8,4,Yes,3.1,7.6,4,0,+91-709950830
+BB0449,National Pune Blood Bank,MA/BB/2018/480,2028-03-02,Maharashtra,Pune,18.64386,73.825608,Private,O-,20,1,No,4.1,8.1,33,0,+91-747030643
+BB0450,Gandhi Kochi Blood Bank,KE/BB/2020/705,2024-04-25,Kerala,Kochi,9.958125,76.266699,Private,O+,24,6,Yes,4.2,21.0,12,0,+91-968701708
+BB0451,Apollo Mysore Blood Bank,KA/BB/2020/579,2029-02-21,Karnataka,Mysore,12.32143,76.652285,Charity,B+,23,2,Yes,3.8,29.4,42,0,+91-836124735
+BB0452,Unity Bengaluru Blood Bank,KA/BB/2022/084,2030-11-22,Karnataka,Bengaluru,12.939549,77.679288,Government,AB+,22,7,No,4.2,13.2,29,1,+91-673731997
+BB0453,Red Cross Visakhapatnam Blood Bank,AN/BB/2020/883,2030-09-02,Andhra Pradesh,Visakhapatnam,17.618147,83.194574,Private,AB-,41,1,Yes,3.7,0.8,5,0,+91-605039039
+BB0454,Royal Patna Blood Bank,BI/BB/2022/403,2028-12-11,Bihar,Patna,25.674179,85.175078,Government,O-,2,5,Yes,4.7,7.7,40,1,+91-642204121
+BB0455,Care Ranchi Blood Bank,JH/BB/2020/972,2024-09-21,Jharkhand,Ranchi,23.391831,85.350056,Private,AB-,16,3,Yes,4.1,23.3,10,0,+91-857428601
+BB0456,Global Kanpur Blood Bank,UT/BB/2019/516,2029-08-26,Uttar Pradesh,Kanpur,26.390534,80.320091,Private,O-,7,7,Yes,4.4,6.3,26,0,+91-660653892
+BB0457,KIMS Jaipur Blood Bank,RA/BB/2018/452,2028-08-27,Rajasthan,Jaipur,26.930717,75.741572,Government,O+,30,0,No,4.3,29.5,4,1,+91-649596004
+BB0458,Apollo Aizawl Blood Bank,MI/BB/2021/010,2026-04-17,Mizoram,Aizawl,23.72816,92.5829,Charity,B-,32,7,No,4.3,14.2,5,0,+91-820183667
+BB0459,Central Shimla Blood Bank,HI/BB/2020/803,2029-11-12,Himachal Pradesh,Shimla,31.185979,77.191386,Government,B+,31,7,Yes,3.9,0.3,32,1,+91-763093398
+BB0460,Red Cross Ahmedabad Blood Bank,GU/BB/2021/459,2024-05-19,Gujarat,Ahmedabad,23.028405,72.417748,Private,AB+,27,6,No,3.8,11.8,20,0,+91-614489475
+BB0461,Gandhi Hyderabad Blood Bank,TE/BB/2022/662,2026-02-20,Telangana,Hyderabad,17.317776,78.502269,Government,AB-,9,0,Yes,4.4,6.8,57,1,+91-909720467
+BB0462,KIMS Howrah Blood Bank,WE/BB/2019/995,2025-06-13,West Bengal,Howrah,22.635859,88.271036,Private,AB-,9,6,No,3.0,2.3,40,0,+91-771925058
+BB0463,Central Ahmedabad Blood Bank,GU/BB/2019/405,2025-06-08,Gujarat,Ahmedabad,23.099795,72.583404,Government,B+,26,4,No,5.0,12.5,15,1,+91-937055034
+BB0464,Metro Pune Blood Bank,MA/BB/2018/303,2027-03-03,Maharashtra,Pune,18.614923,73.89383,Private,O+,29,2,No,4.6,3.7,31,0,+91-625561780
+BB0465,Global New Delhi Blood Bank,DE/BB/2018/201,2024-07-11,Delhi,New Delhi,28.592294,77.21388,Government,AB+,18,1,No,4.3,4.7,50,1,+91-906987751
+BB0466,National Kochi Blood Bank,KE/BB/2021/342,2024-08-22,Kerala,Kochi,9.960744,76.212001,Private,A+,13,3,No,5.0,25.7,4,0,+91-752043412
+BB0467,Royal Chandigarh Blood Bank,CH/BB/2020/747,2026-02-09,Chandigarh,Chandigarh,30.681633,76.691405,Private,A+,42,5,Yes,4.4,1.5,40,0,+91-690179630
+BB0468,Max Howrah Blood Bank,WE/BB/2020/046,2026-11-26,West Bengal,Howrah,22.565528,88.339576,Private,A-,23,0,No,3.6,29.7,4,0,+91-817956660
+BB0469,City Vijayawada Blood Bank,AN/BB/2019/410,2024-11-27,Andhra Pradesh,Vijayawada,16.494388,80.600769,Trust,AB-,19,3,Yes,4.2,1.2,28,0,+91-968785732
+BB0470,Unity Aizawl Blood Bank,MI/BB/2021/739,2025-07-21,Mizoram,Aizawl,23.679853,92.636462,Government,A+,21,5,No,3.8,8.8,12,1,+91-601760368
+BB0471,Central Vijayawada Blood Bank,AN/BB/2021/755,2025-10-19,Andhra Pradesh,Vijayawada,16.46685,80.519963,Private,O+,50,7,Yes,4.9,17.5,62,0,+91-966520812
+BB0472,City Secunderabad Blood Bank,TE/BB/2021/145,2028-06-15,Telangana,Secunderabad,17.38513,78.579006,Government,O-,23,7,No,4.4,17.6,6,1,+91-982152885
+BB0473,Global Surat Blood Bank,GU/BB/2019/561,2029-07-13,Gujarat,Surat,21.140554,72.886458,Private,A-,12,2,Yes,3.6,10.0,21,0,+91-785052127
+BB0474,Gandhi Surat Blood Bank,GU/BB/2018/411,2028-03-15,Gujarat,Surat,21.170599,72.870742,Private,O+,18,3,No,4.6,6.9,46,0,+91-976244398
+BB0475,Royal Howrah Blood Bank,WE/BB/2024/903,2027-05-21,West Bengal,Howrah,22.623386,88.284922,Private,B-,28,3,No,4.4,3.8,8,0,+91-881612908
+BB0476,City Coimbatore Blood Bank,TA/BB/2018/784,2030-03-18,Tamil Nadu,Coimbatore,11.02454,76.818519,Government,AB-,12,4,Yes,4.6,3.7,30,1,+91-896058482
+BB0477,Metro Varanasi Blood Bank,UT/BB/2021/823,2025-01-25,Uttar Pradesh,Varanasi,25.301269,82.966097,Charity,O-,22,5,Yes,4.0,4.7,31,0,+91-771630045
+BB0478,Life Shillong Blood Bank,ME/BB/2022/749,2029-01-07,Meghalaya,Shillong,25.576412,91.879766,Government,AB+,15,2,No,3.8,18.8,41,1,+91-650130403
+BB0479,St. Mary Bengaluru Blood Bank,KA/BB/2024/555,2025-10-15,Karnataka,Bengaluru,12.884174,77.63792,Private,A+,17,7,Yes,4.6,6.8,3,0,+91-910076527
+BB0480,National Nagpur Blood Bank,MA/BB/2023/918,2028-05-13,Maharashtra,Nagpur,21.118484,79.097159,Charity,A+,41,1,Yes,4.3,18.3,5,0,+91-833788437
+BB0481,Red Cross Secunderabad Blood Bank,TE/BB/2019/889,2026-08-06,Telangana,Secunderabad,17.519944,78.5083,Private,A+,34,2,Yes,3.7,20.7,4,0,+91-736120257
+BB0482,Fortis Pune Blood Bank,MA/BB/2018/643,2030-04-08,Maharashtra,Pune,18.516828,73.858278,Charity,O-,27,4,Yes,4.6,2.2,2,0,+91-707486059
+BB0483,Global Kolkata Blood Bank,WE/BB/2022/715,2029-09-15,West Bengal,Kolkata,22.67166,88.392863,Private,A-,23,7,Yes,3.4,7.8,25,0,+91-951353149
+BB0484,Apollo Hyderabad Blood Bank,TE/BB/2020/460,2025-10-05,Telangana,Hyderabad,17.362627,78.465396,Private,B-,18,7,No,3.8,12.2,41,0,+91-976469442
+BB0485,Unity Kolkata Blood Bank,WE/BB/2020/989,2026-08-06,West Bengal,Kolkata,22.542368,88.335478,Private,A-,19,5,No,4.0,7.9,64,0,+91-789752852
+BB0486,Max Delhi Blood Bank,DE/BB/2020/533,2029-11-19,Delhi,Delhi,28.696736,77.131531,Trust,B-,19,3,Yes,4.3,20.3,62,0,+91-852411257
+BB0487,Care Guwahati Blood Bank,AS/BB/2021/404,2030-05-03,Assam,Guwahati,26.132222,91.800392,Charity,O-,37,7,Yes,4.6,0.2,15,0,+91-812601892
+BB0488,Red Cross Raipur Blood Bank,CH/BB/2024/583,2025-04-22,Chhattisgarh,Raipur,21.200501,81.689621,Private,AB-,6,5,No,3.4,0.8,15,0,+91-691114876
+BB0489,Fortis Kanpur Blood Bank,UT/BB/2022/230,2025-09-06,Uttar Pradesh,Kanpur,26.481431,80.295022,Private,B+,1,1,Yes,4.2,18.4,43,0,+91-694263181
+BB0490,Metro Delhi Blood Bank,DE/BB/2018/577,2028-10-03,Delhi,Delhi,28.671913,77.076048,Government,O-,44,7,No,4.1,22.5,4,1,+91-832866826
+BB0491,Sankara Visakhapatnam Blood Bank,AN/BB/2019/115,2030-10-08,Andhra Pradesh,Visakhapatnam,17.67017,83.326173,Government,B+,27,1,Yes,3.8,9.0,7,1,+91-722880453
+BB0492,Sankara Jaipur Blood Bank,RA/BB/2018/458,2024-05-25,Rajasthan,Jaipur,26.94132,75.81345,Government,A+,3,5,Yes,3.7,2.7,43,1,+91-838199881
+BB0493,Global Pune Blood Bank,MA/BB/2019/344,2025-07-19,Maharashtra,Pune,18.600036,73.848107,Trust,A+,12,7,Yes,4.4,3.8,29,0,+91-617543313
+BB0494,National Shimla Blood Bank,HI/BB/2023/210,2025-08-16,Himachal Pradesh,Shimla,31.167558,77.188809,Private,B-,6,6,No,3.8,6.9,37,0,+91-678786582
+BB0495,Apollo Ahmedabad Blood Bank,GU/BB/2019/599,2030-05-24,Gujarat,Ahmedabad,22.974396,72.54575,Private,B+,20,2,Yes,5.0,22.9,40,0,+91-854003165
+BB0496,Apollo Thiruvananthapuram Blood Bank,KE/BB/2018/118,2024-11-24,Kerala,Thiruvananthapuram,8.521533,76.95066,Private,O-,24,2,No,4.8,9.2,9,0,+91-845995104
+BB0497,Life Coimbatore Blood Bank,TA/BB/2021/137,2025-03-06,Tamil Nadu,Coimbatore,11.032945,77.030585,Private,A-,22,3,No,3.5,21.5,48,0,+91-698313870
+BB0498,KIMS Chandigarh Blood Bank,CH/BB/2018/807,2025-11-13,Chandigarh,Chandigarh,30.649747,76.814384,Private,B-,40,4,Yes,4.0,0.0,30,0,+91-926728026
+BB0499,National Coimbatore Blood Bank,TA/BB/2020/562,2025-09-06,Tamil Nadu,Coimbatore,11.034524,76.954535,Government,AB+,16,1,Yes,4.1,30.7,52,1,+91-968768527
+BB0500,Sankara Agartala Blood Bank,TR/BB/2023/382,2026-05-11,Tripura,Agartala,23.725249,91.317245,Government,B-,19,4,Yes,4.8,32.8,26,1,+91-993725603
+BB0501,KIMS Indore Blood Bank,MA/BB/2022/842,2025-05-17,Madhya Pradesh,Indore,22.664138,75.841072,Government,O+,23,6,Yes,3.9,9.5,16,1,+91-973230095
+BB0502,Global Chandigarh Blood Bank,CH/BB/2023/818,2026-01-22,Chandigarh,Chandigarh,30.761383,76.835738,Government,AB-,31,0,Yes,4.0,0.6,27,1,+91-997929268
+BB0503,Royal Vijayawada Blood Bank,AN/BB/2018/238,2027-10-09,Andhra Pradesh,Vijayawada,16.519982,80.623271,Private,B-,0,5,Yes,3.5,13.0,32,0,+91-930187532
+BB0504,KIMS Patna Blood Bank,BI/BB/2018/355,2025-06-18,Bihar,Patna,25.633134,85.140087,Private,AB-,13,0,Yes,4.4,20.9,18,0,+91-646681476
+BB0505,National Mysore Blood Bank,KA/BB/2018/698,2028-07-10,Karnataka,Mysore,12.317034,76.598636,Private,AB+,11,6,No,4.3,11.1,8,0,+91-821019175
+BB0506,Central Bhubaneswar Blood Bank,OD/BB/2024/188,2026-12-06,Odisha,Bhubaneswar,20.249403,85.798978,Private,B+,3,2,No,4.2,12.2,16,0,+91-949802238
+BB0507,National Hyderabad Blood Bank,TE/BB/2018/715,2028-01-17,Telangana,Hyderabad,17.378962,78.478194,Private,O-,33,2,Yes,3.7,2.9,27,0,+91-732471297
+BB0508,Central Mumbai Blood Bank,MA/BB/2018/059,2028-02-04,Maharashtra,Mumbai,19.111652,72.839142,Private,B+,29,0,No,4.2,20.2,4,0,+91-625105311
+BB0509,Fortis Kohima Blood Bank,NA/BB/2019/977,2030-06-27,Nagaland,Kohima,25.71919,94.057535,Private,AB+,10,4,Yes,3.3,17.5,52,0,+91-859538772
+BB0510,Apollo Raipur Blood Bank,CH/BB/2018/839,2028-09-24,Chhattisgarh,Raipur,21.237762,81.61011,Private,O-,21,7,Yes,3.8,8.4,24,0,+91-619397832
+BB0511,Metro Vijayawada Blood Bank,AN/BB/2021/555,2026-08-02,Andhra Pradesh,Vijayawada,16.400245,80.692545,Private,B-,29,0,No,4.1,4.5,32,0,+91-946468171
+BB0512,Life Mumbai Blood Bank,MA/BB/2020/215,2028-09-05,Maharashtra,Mumbai,19.096771,72.881198,Government,A-,19,0,Yes,4.1,22.9,25,1,+91-989688332
+BB0513,Global Coimbatore Blood Bank,TA/BB/2022/695,2025-11-06,Tamil Nadu,Coimbatore,10.968008,76.919103,Government,B+,12,5,Yes,4.1,16.5,51,1,+91-607887577
+BB0514,City Lucknow Blood Bank,UT/BB/2023/869,2025-02-27,Uttar Pradesh,Lucknow,26.900485,81.061792,Government,B+,25,4,Yes,4.2,14.1,19,1,+91-779492607
+BB0515,Fortis Jaipur Blood Bank,RA/BB/2018/351,2027-11-04,Rajasthan,Jaipur,26.956901,75.768305,Private,O+,39,6,Yes,4.1,8.4,8,0,+91-776912945
+BB0516,Max Vijayawada Blood Bank,AN/BB/2018/028,2030-03-12,Andhra Pradesh,Vijayawada,16.546366,80.638007,Private,AB-,17,4,Yes,4.6,27.8,36,0,+91-850768805
+BB0517,Red Cross Imphal Blood Bank,MA/BB/2023/972,2026-02-10,Manipur,Imphal,24.840992,94.005459,Private,AB-,2,6,Yes,4.2,1.9,54,0,+91-861225432
+BB0518,Red Cross Secunderabad Blood Bank,TE/BB/2021/657,2024-05-08,Telangana,Secunderabad,17.460574,78.521368,Government,B+,20,4,Yes,3.5,1.5,18,1,+91-950326652
+BB0519,Gandhi Bhubaneswar Blood Bank,OD/BB/2019/336,2028-05-06,Odisha,Bhubaneswar,20.375363,85.786469,Government,AB+,14,2,No,4.7,12.2,27,1,+91-619895506
+BB0520,St. Mary Visakhapatnam Blood Bank,AN/BB/2018/660,2030-08-24,Andhra Pradesh,Visakhapatnam,17.654436,83.243247,Private,B+,19,7,Yes,4.9,15.9,7,0,+91-902587575
+BB0521,Life Indore Blood Bank,MA/BB/2020/333,2026-12-28,Madhya Pradesh,Indore,22.62513,75.802727,Trust,B-,2,6,No,4.3,2.9,11,0,+91-644914491
+BB0522,Apollo Lucknow Blood Bank,UT/BB/2022/636,2027-07-25,Uttar Pradesh,Lucknow,26.952481,81.015876,Private,A-,18,7,No,3.7,32.7,21,0,+91-833397419
+BB0523,City Shimla Blood Bank,HI/BB/2019/082,2028-10-21,Himachal Pradesh,Shimla,31.135625,77.173321,Private,AB+,19,2,Yes,5.0,4.9,29,0,+91-852891814
+BB0524,Max Visakhapatnam Blood Bank,AN/BB/2020/292,2028-09-11,Andhra Pradesh,Visakhapatnam,17.690365,83.159912,Government,B+,26,0,Yes,4.5,25.0,43,1,+91-967176999
+BB0525,Royal Mumbai Blood Bank,MA/BB/2024/356,2024-05-05,Maharashtra,Mumbai,19.002517,72.827674,Government,AB-,14,2,Yes,3.6,11.8,20,1,+91-968492200
+BB0526,Sankara Delhi Blood Bank,DE/BB/2021/452,2025-05-11,Delhi,Delhi,28.664963,77.162325,Private,A+,28,5,No,4.0,14.4,10,0,+91-866341481
+BB0527,St. Mary Aizawl Blood Bank,MI/BB/2018/710,2028-11-10,Mizoram,Aizawl,23.713335,92.735957,Government,A-,3,6,Yes,4.4,20.1,32,1,+91-765923993
+BB0528,KIMS Indore Blood Bank,MA/BB/2023/754,2029-11-09,Madhya Pradesh,Indore,22.736392,75.820887,Government,A+,13,7,Yes,5.0,0.5,20,1,+91-612475715
+BB0529,Global Imphal Blood Bank,MA/BB/2019/086,2027-11-13,Manipur,Imphal,24.805473,93.989527,Private,AB-,29,7,Yes,4.6,20.7,27,0,+91-796046756
+BB0530,City Bhubaneswar Blood Bank,OD/BB/2023/996,2024-08-16,Odisha,Bhubaneswar,20.320458,85.76243,Private,O+,37,5,Yes,5.0,25.7,40,0,+91-923111290
+BB0531,National Kolkata Blood Bank,WE/BB/2020/699,2025-03-03,West Bengal,Kolkata,22.497244,88.263732,Government,AB+,30,6,No,4.4,14.4,5,1,+91-775192289
+BB0532,St. Mary Agartala Blood Bank,TR/BB/2024/393,2024-06-18,Tripura,Agartala,23.837665,91.263256,Charity,AB-,33,3,Yes,3.9,15.1,11,0,+91-703486918
+BB0533,Sankara Bhopal Blood Bank,MA/BB/2019/208,2024-07-12,Madhya Pradesh,Bhopal,23.212656,77.374321,Trust,O-,24,5,No,3.7,18.9,30,0,+91-643847529
+BB0534,Apollo Ahmedabad Blood Bank,GU/BB/2022/776,2028-09-10,Gujarat,Ahmedabad,22.985484,72.569296,Private,O-,9,3,Yes,4.4,37.1,27,0,+91-999784052
+BB0535,Global New Delhi Blood Bank,DE/BB/2024/494,2030-12-05,Delhi,New Delhi,28.620631,77.19344,Trust,O+,10,5,No,4.7,22.3,55,0,+91-604563259
+BB0536,Apollo Varanasi Blood Bank,UT/BB/2019/448,2026-09-09,Uttar Pradesh,Varanasi,25.355552,83.040394,Trust,AB+,7,0,Yes,4.4,5.9,24,0,+91-750612754
+BB0537,KIMS Indore Blood Bank,MA/BB/2021/812,2025-12-14,Madhya Pradesh,Indore,22.820729,75.816986,Private,B+,1,2,Yes,3.9,2.1,25,0,+91-615642045
+BB0538,City Kanpur Blood Bank,UT/BB/2023/578,2030-12-18,Uttar Pradesh,Kanpur,26.489686,80.376519,Charity,A+,24,4,Yes,4.4,28.3,47,0,+91-852654249
+BB0539,Care Shillong Blood Bank,ME/BB/2018/119,2026-01-10,Meghalaya,Shillong,25.519478,91.965001,Private,AB+,22,6,Yes,4.3,16.2,23,0,+91-858141406
+BB0540,Life Kohima Blood Bank,NA/BB/2022/072,2030-09-03,Nagaland,Kohima,25.5772,94.107122,Government,B-,23,1,Yes,4.7,1.9,24,1,+91-758094411
+BB0541,Fortis Visakhapatnam Blood Bank,AN/BB/2023/356,2025-11-22,Andhra Pradesh,Visakhapatnam,17.659299,83.309234,Private,O+,21,7,Yes,5.0,4.1,30,0,+91-954217023
+BB0542,Fortis Jaipur Blood Bank,RA/BB/2018/244,2026-04-26,Rajasthan,Jaipur,26.911744,75.771469,Private,B+,23,7,No,4.2,0.5,26,0,+91-844770244
+BB0543,Red Cross Coimbatore Blood Bank,TA/BB/2020/121,2027-05-25,Tamil Nadu,Coimbatore,10.954207,76.942596,Private,A+,11,6,No,3.9,12.6,55,0,+91-742756184
+BB0544,Global Howrah Blood Bank,WE/BB/2023/118,2027-03-13,West Bengal,Howrah,22.617672,88.322384,Government,O-,2,1,No,3.4,1.9,30,1,+91-941049877
+BB0545,Red Cross Guwahati Blood Bank,AS/BB/2022/915,2029-05-14,Assam,Guwahati,26.065237,91.737738,Private,A-,28,6,No,3.5,8.1,29,0,+91-687533769
+BB0546,National Shimla Blood Bank,HI/BB/2020/610,2024-12-19,Himachal Pradesh,Shimla,31.135417,77.221326,Government,O+,35,4,Yes,3.9,19.1,52,1,+91-883754528
+BB0547,Gandhi Panaji Blood Bank,GO/BB/2022/624,2030-04-28,Goa,Panaji,15.456671,73.832746,Private,B-,5,0,No,4.1,7.5,39,0,+91-823979452
+BB0548,Unity Mysore Blood Bank,KA/BB/2019/339,2025-12-09,Karnataka,Mysore,12.266336,76.63559,Trust,A+,23,2,Yes,3.7,20.2,6,0,+91-947751424
+BB0549,KIMS Bengaluru Blood Bank,KA/BB/2018/164,2024-02-23,Karnataka,Bengaluru,12.891486,77.592899,Government,A+,4,0,No,4.6,7.4,48,1,+91-838756598
+BB0550,National Guwahati Blood Bank,AS/BB/2018/679,2027-09-16,Assam,Guwahati,26.051699,91.79993,Trust,B-,9,3,No,5.0,4.4,10,0,+91-627765668
+BB0551,National Delhi Blood Bank,DE/BB/2021/301,2026-06-18,Delhi,Delhi,28.744439,77.17634,Private,A+,18,6,Yes,3.7,6.3,5,0,+91-613629734
+BB0552,Care Raipur Blood Bank,CH/BB/2021/419,2030-07-13,Chhattisgarh,Raipur,21.207319,81.66137,Private,AB+,14,0,Yes,4.4,3.4,30,0,+91-839180204
+BB0553,Max Pune Blood Bank,MA/BB/2022/608,2024-06-21,Maharashtra,Pune,18.61584,73.821506,Government,AB-,13,3,No,4.9,17.7,40,1,+91-850850389
+BB0554,Unity Shillong Blood Bank,ME/BB/2020/635,2027-04-10,Meghalaya,Shillong,25.548765,91.922798,Government,A+,8,7,No,3.9,17.4,32,1,+91-604159240
+BB0555,Gandhi Kochi Blood Bank,KE/BB/2022/245,2026-09-06,Kerala,Kochi,9.869933,76.275856,Government,B-,6,6,No,3.8,8.9,6,1,+91-796115573
+BB0556,Unity Imphal Blood Bank,MA/BB/2023/057,2024-10-19,Manipur,Imphal,24.888277,93.977405,Government,B-,1,6,No,3.9,3.1,16,1,+91-993964438
+BB0557,St. Mary Indore Blood Bank,MA/BB/2018/883,2025-05-11,Madhya Pradesh,Indore,22.730448,75.846316,Government,AB-,10,2,Yes,4.6,6.1,3,1,+91-896757419
+BB0558,Max Bhopal Blood Bank,MA/BB/2019/423,2024-02-03,Madhya Pradesh,Bhopal,23.149403,77.440837,Private,A-,19,1,Yes,4.3,12.3,2,0,+91-987791660
+BB0559,St. Mary Thiruvananthapuram Blood Bank,KE/BB/2024/618,2028-07-08,Kerala,Thiruvananthapuram,8.573466,76.953475,Charity,A-,27,4,No,3.6,7.2,58,0,+91-935775104
+BB0560,Gandhi Raipur Blood Bank,CH/BB/2020/868,2029-08-25,Chhattisgarh,Raipur,21.276086,81.60064,Trust,B-,26,3,Yes,3.9,5.9,28,0,+91-700776769
+BB0561,Fortis Imphal Blood Bank,MA/BB/2018/549,2027-11-06,Manipur,Imphal,24.884056,93.876155,Private,A+,49,5,Yes,4.4,7.9,9,0,+91-738395312
+BB0562,St. Mary Mumbai Blood Bank,MA/BB/2020/824,2030-10-19,Maharashtra,Mumbai,19.096262,72.853975,Private,B+,15,4,Yes,3.4,15.5,47,0,+91-817151618
+BB0563,Sankara Surat Blood Bank,GU/BB/2020/773,2030-09-19,Gujarat,Surat,21.141984,72.870257,Government,O+,25,0,Yes,5.0,4.7,13,1,+91-894073496
+BB0564,Max Delhi Blood Bank,DE/BB/2018/764,2028-11-28,Delhi,Delhi,28.694689,77.066689,Government,A+,22,6,Yes,4.7,12.7,34,1,+91-660833895
+BB0565,Royal Secunderabad Blood Bank,TE/BB/2020/282,2029-11-22,Telangana,Secunderabad,17.429091,78.50337,Trust,B-,36,1,No,4.5,12.5,23,0,+91-695240677
+BB0566,Apollo Agartala Blood Bank,TR/BB/2020/721,2026-11-11,Tripura,Agartala,23.826139,91.281664,Trust,B+,11,5,No,3.9,25.4,40,0,+91-692366489
+BB0567,KIMS Kolkata Blood Bank,WE/BB/2019/046,2026-10-07,West Bengal,Kolkata,22.592716,88.144444,Government,B+,22,0,Yes,4.5,12.2,15,1,+91-872598282
+BB0568,Gandhi Mumbai Blood Bank,MA/BB/2019/089,2028-05-27,Maharashtra,Mumbai,19.098307,72.935242,Private,B+,38,2,No,2.8,19.3,24,0,+91-936737391
+BB0569,Global Dehradun Blood Bank,UT/BB/2019/250,2026-01-20,Uttarakhand,Dehradun,30.240755,77.989902,Private,O+,2,5,No,4.5,29.0,47,0,+91-673317573
+BB0570,Fortis Visakhapatnam Blood Bank,AN/BB/2023/469,2024-09-23,Andhra Pradesh,Visakhapatnam,17.58931,83.201887,Private,B-,2,7,Yes,4.6,15.2,14,0,+91-735533331
+BB0571,KIMS Kohima Blood Bank,NA/BB/2019/140,2024-08-19,Nagaland,Kohima,25.68988,94.100691,Trust,O-,22,4,No,4.1,11.4,45,0,+91-873982554
+BB0572,St. Mary Guwahati Blood Bank,AS/BB/2022/761,2026-09-25,Assam,Guwahati,26.06221,91.755345,Private,A-,24,5,Yes,4.2,4.4,18,0,+91-857650548
+BB0573,Life Jaipur Blood Bank,RA/BB/2023/681,2028-10-08,Rajasthan,Jaipur,26.989031,75.855853,Private,B-,42,2,No,4.0,2.5,5,0,+91-791770978
+BB0574,Metro Jodhpur Blood Bank,RA/BB/2022/722,2027-02-14,Rajasthan,Jodhpur,26.251336,73.004448,Charity,B-,15,5,No,4.1,25.2,38,0,+91-929188894
+BB0575,Unity Jaipur Blood Bank,RA/BB/2023/339,2025-02-26,Rajasthan,Jaipur,26.963041,75.808836,Private,AB-,33,6,Yes,4.5,8.2,5,0,+91-845046862
+BB0576,Metro Shimla Blood Bank,HI/BB/2018/277,2024-11-21,Himachal Pradesh,Shimla,31.104404,77.150271,Private,A+,17,7,Yes,4.4,38.8,5,0,+91-609478960
+BB0577,KIMS Delhi Blood Bank,DE/BB/2020/626,2029-11-17,Delhi,Delhi,28.618577,77.075327,Private,O+,29,7,Yes,5.0,9.8,28,0,+91-700980503
+BB0578,Care Jaipur Blood Bank,RA/BB/2021/583,2026-05-24,Rajasthan,Jaipur,26.945464,75.698213,Private,O-,20,1,Yes,4.2,4.0,12,0,+91-789134184
+BB0579,KIMS Varanasi Blood Bank,UT/BB/2022/163,2027-08-13,Uttar Pradesh,Varanasi,25.242547,82.9371,Private,O-,27,1,Yes,4.5,14.2,42,0,+91-884917924
+BB0580,Red Cross Mumbai Blood Bank,MA/BB/2023/959,2026-04-14,Maharashtra,Mumbai,19.066588,72.89379,Government,AB+,33,1,No,4.8,2.5,29,1,+91-814260702
+BB0581,Global Chandigarh Blood Bank,CH/BB/2018/848,2026-02-05,Chandigarh,Chandigarh,30.8159,76.774151,Government,AB-,12,6,Yes,5.0,3.8,27,1,+91-912857754
+BB0582,KIMS Jaipur Blood Bank,RA/BB/2019/799,2027-08-05,Rajasthan,Jaipur,26.920931,75.852821,Private,AB+,19,4,No,4.8,38.5,31,0,+91-820874596
+BB0583,Life Delhi Blood Bank,DE/BB/2023/279,2028-10-25,Delhi,Delhi,28.658496,77.066101,Charity,O-,5,6,Yes,3.9,7.3,60,0,+91-928786571
+BB0584,Sankara Patna Blood Bank,BI/BB/2018/309,2027-10-21,Bihar,Patna,25.581642,85.147868,Private,B-,14,6,No,4.8,3.9,32,0,+91-838911505
+BB0585,Apollo Varanasi Blood Bank,UT/BB/2024/256,2024-03-17,Uttar Pradesh,Varanasi,25.269522,82.966403,Charity,O+,3,3,No,4.6,21.4,18,0,+91-926446239
+BB0586,Life Mysore Blood Bank,KA/BB/2020/176,2024-07-20,Karnataka,Mysore,12.309428,76.625948,Private,B-,25,7,No,4.6,17.3,16,0,+91-738812383
+BB0587,Max Dehradun Blood Bank,UT/BB/2024/802,2027-02-04,Uttarakhand,Dehradun,30.442918,78.01264,Government,AB-,4,6,Yes,4.1,14.7,35,1,+91-987767614
+BB0588,Sankara Kohima Blood Bank,NA/BB/2021/696,2024-04-11,Nagaland,Kohima,25.635466,94.108267,Government,AB+,22,4,Yes,3.8,5.9,14,1,+91-671538455
+BB0589,Sankara Vijayawada Blood Bank,AN/BB/2021/968,2026-05-24,Andhra Pradesh,Vijayawada,16.578505,80.676485,Private,B-,19,1,No,4.4,25.3,39,0,+91-849822495
+BB0590,Unity Mumbai Blood Bank,MA/BB/2024/669,2026-05-16,Maharashtra,Mumbai,19.074933,72.934543,Private,AB-,27,7,Yes,3.5,2.1,19,0,+91-991486462
+BB0591,Gandhi Hyderabad Blood Bank,TE/BB/2020/575,2030-10-03,Telangana,Hyderabad,17.451237,78.509737,Private,O+,7,6,No,4.4,0.7,7,0,+91-846782714
+BB0592,City Secunderabad Blood Bank,TE/BB/2020/658,2024-11-12,Telangana,Secunderabad,17.407548,78.562362,Government,B-,22,6,Yes,4.2,7.4,47,1,+91-996307079
+BB0593,Sankara Howrah Blood Bank,WE/BB/2020/164,2028-12-14,West Bengal,Howrah,22.694545,88.30846,Government,O-,19,7,Yes,4.2,17.4,56,1,+91-915563406
+BB0594,St. Mary Secunderabad Blood Bank,TE/BB/2023/160,2025-03-13,Telangana,Secunderabad,17.523599,78.519988,Private,O+,43,2,Yes,4.8,8.3,20,0,+91-669252604
+BB0595,Max Thiruvananthapuram Blood Bank,KE/BB/2019/291,2026-06-23,Kerala,Thiruvananthapuram,8.480831,76.972432,Private,A+,18,0,Yes,4.3,28.6,20,0,+91-774008678
+BB0596,Care Nagpur Blood Bank,MA/BB/2024/506,2024-11-22,Maharashtra,Nagpur,21.152688,79.110796,Trust,O-,26,1,Yes,4.1,14.3,31,0,+91-954722374
+BB0597,Care Varanasi Blood Bank,UT/BB/2021/288,2025-12-12,Uttar Pradesh,Varanasi,25.362389,83.003463,Private,A-,52,2,No,3.6,3.5,22,0,+91-794687750
+BB0598,Unity Nagpur Blood Bank,MA/BB/2023/429,2024-01-06,Maharashtra,Nagpur,21.184005,79.100468,Private,A-,17,5,Yes,3.4,5.9,2,0,+91-850337314
+BB0599,Gandhi Agartala Blood Bank,TR/BB/2021/125,2028-08-04,Tripura,Agartala,23.787071,91.339245,Private,O-,27,4,No,4.8,13.9,41,0,+91-796643835
+BB0600,St. Mary Jaipur Blood Bank,RA/BB/2021/060,2028-02-18,Rajasthan,Jaipur,26.951427,75.714882,Private,B+,1,0,No,4.1,9.6,6,0,+91-815014973
+BB0601,Royal Pune Blood Bank,MA/BB/2021/277,2029-09-13,Maharashtra,Pune,18.516151,73.862752,Private,B-,39,0,No,5.0,22.7,9,0,+91-651700435
+BB0602,Life Delhi Blood Bank,DE/BB/2020/209,2030-07-13,Delhi,Delhi,28.675875,77.074812,Private,A+,17,5,Yes,4.9,8.0,17,0,+91-652724827
+BB0603,Metro Panaji Blood Bank,GO/BB/2022/184,2026-12-03,Goa,Panaji,15.466828,73.836848,Private,O+,17,7,Yes,3.0,14.8,21,0,+91-813920764
+BB0604,Unity New Delhi Blood Bank,DE/BB/2021/282,2026-11-08,Delhi,New Delhi,28.694572,77.219158,Private,A-,22,6,Yes,3.7,9.6,29,0,+91-673272241
+BB0605,St. Mary Imphal Blood Bank,MA/BB/2020/272,2028-09-19,Manipur,Imphal,24.745914,93.927376,Charity,A-,30,5,Yes,2.7,14.5,4,0,+91-967369492
+BB0606,Care Kanpur Blood Bank,UT/BB/2020/844,2026-03-04,Uttar Pradesh,Kanpur,26.374339,80.385124,Private,O+,29,2,Yes,3.8,3.8,45,0,+91-601578383
+BB0607,Central Dehradun Blood Bank,UT/BB/2022/285,2030-11-19,Uttarakhand,Dehradun,30.284312,78.074934,Private,B+,18,0,Yes,3.5,14.0,26,0,+91-879418844
+BB0608,Unity Secunderabad Blood Bank,TE/BB/2023/232,2030-07-21,Telangana,Secunderabad,17.46709,78.457938,Government,O-,37,7,No,4.0,0.4,18,1,+91-772318769
+BB0609,Fortis Bengaluru Blood Bank,KA/BB/2021/097,2029-01-21,Karnataka,Bengaluru,12.944918,77.636131,Trust,B-,3,6,No,4.6,7.3,42,0,+91-844379612
+BB0610,City Secunderabad Blood Bank,TE/BB/2020/115,2026-06-23,Telangana,Secunderabad,17.387304,78.486606,Private,O+,5,7,Yes,4.2,15.7,14,0,+91-995907692
+BB0611,St. Mary Bhopal Blood Bank,MA/BB/2024/088,2026-12-02,Madhya Pradesh,Bhopal,23.277588,77.4448,Government,AB+,21,3,Yes,4.2,14.0,57,1,+91-899993248
+BB0612,Fortis Secunderabad Blood Bank,TE/BB/2018/353,2028-05-07,Telangana,Secunderabad,17.310264,78.601074,Private,AB-,6,7,Yes,4.6,11.5,26,0,+91-686391659
+BB0613,Fortis Delhi Blood Bank,DE/BB/2021/163,2026-03-14,Delhi,Delhi,28.635474,77.141368,Private,AB+,10,7,No,4.4,5.2,3,0,+91-795974239
+BB0614,Sankara Mysore Blood Bank,KA/BB/2022/826,2028-02-24,Karnataka,Mysore,12.346651,76.688953,Charity,A-,22,0,No,4.0,1.8,34,0,+91-670906830
+BB0615,Global Lucknow Blood Bank,UT/BB/2021/634,2030-05-18,Uttar Pradesh,Lucknow,26.855431,80.933088,Private,A+,16,1,No,3.9,28.9,31,0,+91-681887983
+BB0616,Fortis Kohima Blood Bank,NA/BB/2019/826,2024-12-15,Nagaland,Kohima,25.746604,94.044319,Charity,A-,16,3,Yes,4.3,0.4,33,0,+91-655361119
+BB0617,Global Indore Blood Bank,MA/BB/2019/165,2029-06-03,Madhya Pradesh,Indore,22.647015,75.896787,Government,A-,43,0,Yes,4.7,4.8,19,1,+91-688516515
+BB0618,Unity Kolkata Blood Bank,WE/BB/2021/660,2028-03-22,West Bengal,Kolkata,22.609403,88.362875,Private,A+,17,5,Yes,4.3,18.7,4,0,+91-707368486
+BB0619,KIMS Visakhapatnam Blood Bank,AN/BB/2019/218,2030-04-11,Andhra Pradesh,Visakhapatnam,17.734465,83.195938,Trust,O-,37,7,Yes,4.4,31.5,24,0,+91-971411253
+BB0620,Fortis Indore Blood Bank,MA/BB/2021/934,2028-10-09,Madhya Pradesh,Indore,22.660601,75.847482,Private,O-,35,7,Yes,4.1,0.3,8,0,+91-799830150
+BB0621,Red Cross Delhi Blood Bank,DE/BB/2021/452,2029-01-11,Delhi,Delhi,28.707729,77.078629,Private,A-,15,2,Yes,4.7,11.4,12,0,+91-938379599
+BB0622,Global Bhubaneswar Blood Bank,OD/BB/2021/356,2028-11-15,Odisha,Bhubaneswar,20.280429,85.764424,Government,B-,12,1,Yes,5.0,23.9,11,1,+91-751402638
+BB0623,Gandhi Jodhpur Blood Bank,RA/BB/2020/749,2028-04-12,Rajasthan,Jodhpur,26.240722,73.066584,Trust,O+,24,0,Yes,4.2,23.3,3,0,+91-983044929
+BB0624,St. Mary Shillong Blood Bank,ME/BB/2024/565,2026-06-06,Meghalaya,Shillong,25.57022,91.936048,Private,O+,2,7,No,4.2,28.6,20,0,+91-962237058
+BB0625,Red Cross Panaji Blood Bank,GO/BB/2020/425,2029-07-15,Goa,Panaji,15.453466,73.834635,Trust,O+,17,4,Yes,4.1,18.2,36,0,+91-967707703
+BB0626,Fortis Indore Blood Bank,MA/BB/2020/835,2027-07-11,Madhya Pradesh,Indore,22.770904,75.826631,Charity,A+,17,3,No,3.4,24.9,9,0,+91-651619568
+BB0627,Gandhi Raipur Blood Bank,CH/BB/2023/130,2028-06-25,Chhattisgarh,Raipur,21.250982,81.596519,Private,AB+,34,2,No,4.3,17.1,19,0,+91-881527096
+BB0628,Fortis New Delhi Blood Bank,DE/BB/2019/821,2027-07-21,Delhi,New Delhi,28.612399,77.253691,Government,AB+,16,3,Yes,4.6,8.3,19,1,+91-901243677
+BB0629,Gandhi Visakhapatnam Blood Bank,AN/BB/2024/399,2025-06-05,Andhra Pradesh,Visakhapatnam,17.678248,83.152668,Government,AB-,30,1,No,5.0,6.1,20,1,+91-653339681
+BB0630,Global Thiruvananthapuram Blood Bank,KE/BB/2020/543,2029-11-06,Kerala,Thiruvananthapuram,8.499338,77.027287,Charity,B-,19,0,Yes,4.8,26.6,50,0,+91-644597848
+BB0631,KIMS Kanpur Blood Bank,UT/BB/2019/216,2026-01-12,Uttar Pradesh,Kanpur,26.450517,80.276181,Government,AB-,32,6,Yes,3.9,10.6,43,1,+91-681156717
+BB0632,Life Dehradun Blood Bank,UT/BB/2022/126,2026-08-16,Uttarakhand,Dehradun,30.373069,78.02824,Private,AB-,16,2,Yes,4.2,5.8,33,0,+91-632058883
+BB0633,St. Mary Chandigarh Blood Bank,CH/BB/2020/926,2026-08-13,Chandigarh,Chandigarh,30.815567,76.828148,Private,A-,26,4,Yes,4.1,6.6,39,0,+91-839658370
+BB0634,Global Ranchi Blood Bank,JH/BB/2020/749,2027-09-26,Jharkhand,Ranchi,23.296306,85.313312,Government,AB-,27,6,Yes,4.3,7.4,49,1,+91-690243681
+BB0635,Metro Raipur Blood Bank,CH/BB/2019/121,2026-01-09,Chhattisgarh,Raipur,21.256998,81.678612,Private,O-,21,2,Yes,3.6,14.5,2,0,+91-866918109
+BB0636,Gandhi Surat Blood Bank,GU/BB/2023/920,2025-02-21,Gujarat,Surat,21.152892,72.894339,Private,B+,17,0,Yes,4.7,33.2,10,0,+91-822388395
+BB0637,St. Mary Raipur Blood Bank,CH/BB/2018/766,2030-09-17,Chhattisgarh,Raipur,21.224781,81.583601,Private,O+,20,2,Yes,5.0,31.4,23,0,+91-769451329
+BB0638,City Lucknow Blood Bank,UT/BB/2019/795,2029-01-28,Uttar Pradesh,Lucknow,26.82493,80.996967,Government,A+,21,0,Yes,4.3,38.8,22,1,+91-863623692
+BB0639,Gandhi Mumbai Blood Bank,MA/BB/2022/583,2025-04-24,Maharashtra,Mumbai,19.007888,72.940479,Government,O-,17,2,No,3.4,14.0,32,1,+91-788815048
+BB0640,Global Thiruvananthapuram Blood Bank,KE/BB/2022/537,2030-12-22,Kerala,Thiruvananthapuram,8.512354,76.968672,Government,B-,27,2,No,3.7,22.3,32,1,+91-618658761
+BB0641,Sankara Patna Blood Bank,BI/BB/2024/213,2029-03-06,Bihar,Patna,25.630811,85.194943,Private,O+,44,7,No,5.0,5.7,41,0,+91-860496770
+BB0642,Unity Visakhapatnam Blood Bank,AN/BB/2023/903,2025-02-11,Andhra Pradesh,Visakhapatnam,17.772371,83.168288,Private,B+,24,2,Yes,4.2,1.7,18,0,+91-610558339
+BB0643,St. Mary Raipur Blood Bank,CH/BB/2024/770,2024-07-14,Chhattisgarh,Raipur,21.162695,81.663848,Government,A+,45,7,Yes,4.3,0.1,27,1,+91-834826164
+BB0644,Gandhi Coimbatore Blood Bank,TA/BB/2019/719,2027-09-08,Tamil Nadu,Coimbatore,11.091076,76.880544,Private,O+,9,0,Yes,3.6,14.1,66,0,+91-823803750
+BB0645,Sankara Panaji Blood Bank,GO/BB/2023/925,2024-10-06,Goa,Panaji,15.5493,73.764446,Trust,O-,3,5,No,4.2,31.0,19,0,+91-657834145
+BB0646,Apollo Imphal Blood Bank,MA/BB/2024/533,2030-08-13,Manipur,Imphal,24.795252,93.924348,Private,O+,8,6,Yes,3.5,5.8,41,0,+91-800686366
+BB0647,Apollo Kolkata Blood Bank,WE/BB/2021/274,2028-05-13,West Bengal,Kolkata,22.521892,88.431917,Trust,O+,30,7,Yes,3.7,4.2,6,0,+91-903045750
+BB0648,City Patna Blood Bank,BI/BB/2020/247,2025-05-14,Bihar,Patna,25.668402,85.185834,Private,AB-,19,0,Yes,2.9,10.5,24,0,+91-986695028
+BB0649,Metro Thiruvananthapuram Blood Bank,KE/BB/2024/313,2029-12-28,Kerala,Thiruvananthapuram,8.601023,76.953631,Government,AB-,34,7,Yes,3.7,10.4,20,1,+91-706952995
+BB0650,Life Kohima Blood Bank,NA/BB/2024/384,2025-10-21,Nagaland,Kohima,25.669455,94.111662,Government,O-,29,0,Yes,4.5,10.0,49,1,+91-688445801
+BB0651,St. Mary Kochi Blood Bank,KE/BB/2020/173,2024-03-28,Kerala,Kochi,9.930115,76.234083,Private,A-,14,1,No,4.6,11.8,18,0,+91-735818400
+BB0652,Life Bhubaneswar Blood Bank,OD/BB/2023/280,2028-01-07,Odisha,Bhubaneswar,20.299998,85.762713,Private,O+,30,7,Yes,4.8,19.6,19,0,+91-843488323
+BB0653,Global Guwahati Blood Bank,AS/BB/2022/069,2025-10-14,Assam,Guwahati,26.057551,91.692572,Private,AB-,37,2,Yes,4.6,11.0,28,0,+91-883490410
+BB0654,Care Jodhpur Blood Bank,RA/BB/2024/819,2029-08-04,Rajasthan,Jodhpur,26.272007,72.996285,Private,AB-,17,0,Yes,4.1,0.1,18,0,+91-832647673
+BB0655,Central Chandigarh Blood Bank,CH/BB/2021/988,2026-07-26,Chandigarh,Chandigarh,30.7392,76.680765,Private,O-,10,3,Yes,4.7,3.0,3,0,+91-886464858
+BB0656,City Raipur Blood Bank,CH/BB/2024/883,2030-04-21,Chhattisgarh,Raipur,21.259554,81.678287,Government,AB+,46,5,Yes,4.8,25.4,81,1,+91-698072728
+BB0657,Central Vijayawada Blood Bank,AN/BB/2024/327,2028-09-03,Andhra Pradesh,Vijayawada,16.409824,80.575222,Government,B-,24,1,Yes,3.9,0.2,33,1,+91-656774649
+BB0658,Central Varanasi Blood Bank,UT/BB/2020/887,2027-03-10,Uttar Pradesh,Varanasi,25.328084,83.028868,Private,AB-,22,2,Yes,4.7,17.0,46,0,+91-909296806
+BB0659,KIMS Bhopal Blood Bank,MA/BB/2018/068,2026-06-02,Madhya Pradesh,Bhopal,23.187391,77.483158,Private,AB-,8,2,Yes,4.1,4.3,48,0,+91-719779360
+BB0660,City New Delhi Blood Bank,DE/BB/2022/626,2026-06-26,Delhi,New Delhi,28.592227,77.207021,Government,A+,16,3,Yes,3.4,15.8,38,1,+91-847434575
+BB0661,Metro Mumbai Blood Bank,MA/BB/2021/856,2024-08-12,Maharashtra,Mumbai,19.043116,72.880923,Government,B-,8,6,No,4.2,5.0,19,1,+91-608551382
+BB0662,KIMS Kochi Blood Bank,KE/BB/2024/384,2026-06-02,Kerala,Kochi,9.994277,76.296853,Private,AB-,18,3,No,4.2,12.9,34,0,+91-818232806
+BB0663,Apollo Secunderabad Blood Bank,TE/BB/2024/546,2027-02-18,Telangana,Secunderabad,17.416986,78.49449,Private,O-,5,7,Yes,3.8,23.0,54,0,+91-653816684
+BB0664,Unity Nagpur Blood Bank,MA/BB/2019/368,2030-02-11,Maharashtra,Nagpur,21.138714,79.069912,Private,O+,25,0,Yes,3.2,2.6,28,0,+91-774715253
+BB0665,National Pune Blood Bank,MA/BB/2018/278,2027-06-24,Maharashtra,Pune,18.48987,73.830491,Private,AB+,20,0,Yes,4.4,28.6,40,0,+91-706319679
+BB0666,Central Nagpur Blood Bank,MA/BB/2024/594,2028-04-23,Maharashtra,Nagpur,21.181791,79.020985,Charity,O+,35,5,Yes,4.6,4.3,37,0,+91-635347700
+BB0667,KIMS Surat Blood Bank,GU/BB/2022/586,2024-07-16,Gujarat,Surat,21.254387,72.860237,Government,O-,12,3,No,3.0,5.0,23,1,+91-753657754
+BB0668,Max Patna Blood Bank,BI/BB/2021/580,2028-02-15,Bihar,Patna,25.558724,85.131877,Private,B+,12,5,Yes,3.7,25.0,32,0,+91-903302311
+BB0669,Max Pune Blood Bank,MA/BB/2022/206,2027-07-22,Maharashtra,Pune,18.524282,73.847639,Trust,A-,12,7,Yes,4.0,2.6,2,0,+91-663240715
+BB0670,Global Shimla Blood Bank,HI/BB/2020/281,2029-10-16,Himachal Pradesh,Shimla,31.075142,77.174383,Private,A+,28,6,Yes,4.1,1.2,4,0,+91-915229170
+BB0671,National Kochi Blood Bank,KE/BB/2021/403,2025-10-19,Kerala,Kochi,9.999945,76.247146,Private,O+,0,0,Yes,4.0,2.0,3,0,+91-785216248
+BB0672,Fortis Pune Blood Bank,MA/BB/2022/043,2029-01-19,Maharashtra,Pune,18.507161,73.835781,Government,B-,43,6,No,5.0,24.5,23,1,+91-916921117
+BB0673,Gandhi Lucknow Blood Bank,UT/BB/2024/973,2025-01-08,Uttar Pradesh,Lucknow,26.814579,80.939332,Private,B+,17,5,Yes,4.5,6.2,7,0,+91-656102441
+BB0674,Apollo Ranchi Blood Bank,JH/BB/2020/345,2024-06-17,Jharkhand,Ranchi,23.258002,85.350567,Private,A-,26,1,Yes,3.4,8.6,17,0,+91-731894584
+BB0675,KIMS Guwahati Blood Bank,AS/BB/2018/147,2025-04-18,Assam,Guwahati,26.090138,91.721733,Private,B+,17,1,No,4.4,6.8,37,0,+91-785387797
+BB0676,Fortis Agartala Blood Bank,TR/BB/2020/532,2028-01-14,Tripura,Agartala,23.831449,91.26229,Government,O-,10,5,Yes,5.0,7.9,57,1,+91-656832774
+BB0677,St. Mary New Delhi Blood Bank,DE/BB/2022/233,2030-04-21,Delhi,New Delhi,28.556585,77.187121,Charity,O+,34,5,Yes,4.0,10.2,9,0,+91-891180603
+BB0678,Sankara Chennai Blood Bank,TA/BB/2020/937,2028-04-23,Tamil Nadu,Chennai,12.966829,80.326208,Private,B-,38,4,No,4.8,1.0,2,0,+91-689008014
+BB0679,Care Patna Blood Bank,BI/BB/2024/162,2028-01-25,Bihar,Patna,25.627907,85.226856,Trust,B+,31,4,Yes,4.1,4.0,2,0,+91-628811695
+BB0680,Apollo Imphal Blood Bank,MA/BB/2020/482,2029-10-23,Manipur,Imphal,24.810719,93.963054,Private,B+,3,7,Yes,4.9,1.3,54,0,+91-628573119
+BB0681,KIMS Imphal Blood Bank,MA/BB/2018/751,2024-08-04,Manipur,Imphal,24.846991,93.933601,Private,AB+,19,2,Yes,4.0,16.4,22,0,+91-820143968
+BB0682,Red Cross Coimbatore Blood Bank,TA/BB/2021/340,2027-11-04,Tamil Nadu,Coimbatore,11.085916,76.938108,Government,O+,40,2,No,5.0,18.6,17,1,+91-874298708
+BB0683,Sankara Bhubaneswar Blood Bank,OD/BB/2022/646,2030-07-19,Odisha,Bhubaneswar,20.2829,85.766112,Charity,AB-,41,0,Yes,3.5,14.2,66,0,+91-984393834
+BB0684,Unity Jodhpur Blood Bank,RA/BB/2022/388,2030-09-28,Rajasthan,Jodhpur,26.315695,73.006003,Private,B+,5,5,No,5.0,21.9,24,0,+91-771393477
+BB0685,Metro Raipur Blood Bank,CH/BB/2019/719,2030-07-05,Chhattisgarh,Raipur,21.215233,81.632858,Private,AB+,2,2,Yes,3.9,16.9,17,0,+91-866673898
+BB0686,Gandhi Chandigarh Blood Bank,CH/BB/2018/104,2027-08-23,Chandigarh,Chandigarh,30.763879,76.812951,Private,O+,1,4,No,5.0,2.3,46,0,+91-928935694
+BB0687,Royal Shimla Blood Bank,HI/BB/2023/036,2029-10-02,Himachal Pradesh,Shimla,31.051065,77.185778,Charity,O+,29,5,Yes,4.0,12.2,15,0,+91-993486557
+BB0688,Red Cross Delhi Blood Bank,DE/BB/2019/632,2024-01-17,Delhi,Delhi,28.757056,77.116155,Private,A-,21,0,Yes,3.9,6.5,4,0,+91-661167215
+BB0689,Life Mumbai Blood Bank,MA/BB/2020/839,2030-11-15,Maharashtra,Mumbai,19.019087,72.897682,Private,AB+,15,5,Yes,3.5,5.2,29,0,+91-899547157
+BB0690,Red Cross Kanpur Blood Bank,UT/BB/2021/459,2025-01-17,Uttar Pradesh,Kanpur,26.446917,80.315513,Private,O-,36,4,No,4.1,29.3,9,0,+91-929080490
+BB0691,Care New Delhi Blood Bank,DE/BB/2020/966,2027-01-02,Delhi,New Delhi,28.549268,77.188021,Trust,AB-,16,4,Yes,4.8,22.8,62,0,+91-631964820
+BB0692,Sankara Thiruvananthapuram Blood Bank,KE/BB/2024/258,2029-01-18,Kerala,Thiruvananthapuram,8.527915,76.922142,Private,AB-,46,1,No,4.4,7.9,2,0,+91-922503389
+BB0693,Gandhi Ranchi Blood Bank,JH/BB/2019/740,2024-08-02,Jharkhand,Ranchi,23.334043,85.30279,Government,B-,27,1,Yes,3.5,21.0,22,1,+91-730968062
+BB0694,Royal Kochi Blood Bank,KE/BB/2022/332,2030-12-10,Kerala,Kochi,9.970962,76.248383,Government,O-,14,1,Yes,4.2,9.5,9,1,+91-956234446
+BB0695,Central Bhubaneswar Blood Bank,OD/BB/2018/148,2027-03-25,Odisha,Bhubaneswar,20.227018,85.871569,Government,B-,7,0,Yes,4.2,19.9,3,1,+91-808872629
+BB0696,Gandhi Bengaluru Blood Bank,KA/BB/2018/946,2024-08-23,Karnataka,Bengaluru,13.039467,77.557944,Charity,A+,15,1,Yes,3.6,4.4,4,0,+91-780901509
+BB0697,St. Mary Kolkata Blood Bank,WE/BB/2018/992,2029-10-08,West Bengal,Kolkata,22.542955,88.398152,Private,B-,7,6,Yes,4.2,8.6,71,0,+91-685174107
+BB0698,City New Delhi Blood Bank,DE/BB/2021/278,2026-06-21,Delhi,New Delhi,28.54277,77.198989,Private,B+,17,4,Yes,4.0,4.0,2,0,+91-713906115
+BB0699,KIMS Visakhapatnam Blood Bank,AN/BB/2024/341,2029-05-23,Andhra Pradesh,Visakhapatnam,17.727452,83.224277,Private,A-,3,2,Yes,4.1,1.1,29,0,+91-992368313
+BB0700,Gandhi Kochi Blood Bank,KE/BB/2020/571,2030-12-17,Kerala,Kochi,9.830046,76.239254,Private,O-,11,4,Yes,3.9,5.7,23,0,+91-777064550
+BB0701,Sankara Patna Blood Bank,BI/BB/2021/692,2029-05-19,Bihar,Patna,25.686643,85.185158,Government,A+,43,0,Yes,4.6,24.6,40,1,+91-920581027
+BB0702,Royal New Delhi Blood Bank,DE/BB/2021/463,2030-06-13,Delhi,New Delhi,28.700054,77.197976,Private,B+,15,5,No,4.5,0.6,21,0,+91-795293472
+BB0703,Red Cross Kanpur Blood Bank,UT/BB/2019/240,2028-06-11,Uttar Pradesh,Kanpur,26.521154,80.273468,Government,O-,37,5,Yes,3.6,36.8,46,1,+91-739959446
+BB0704,KIMS Guwahati Blood Bank,AS/BB/2024/765,2025-07-04,Assam,Guwahati,26.116526,91.71385,Government,O+,26,5,No,4.5,31.6,6,1,+91-981809943
+BB0705,KIMS Bhubaneswar Blood Bank,OD/BB/2020/990,2028-05-14,Odisha,Bhubaneswar,20.312935,85.810632,Private,O-,6,0,No,3.9,6.6,14,0,+91-972685791
+BB0706,Global Agartala Blood Bank,TR/BB/2023/186,2027-04-16,Tripura,Agartala,23.78697,91.250841,Private,A-,16,6,No,4.2,13.6,4,0,+91-743358693
+BB0707,Life Kanpur Blood Bank,UT/BB/2020/451,2025-11-13,Uttar Pradesh,Kanpur,26.429848,80.312235,Charity,AB-,0,1,Yes,4.0,5.9,4,0,+91-721082585
+BB0708,Gandhi Ranchi Blood Bank,JH/BB/2022/171,2027-04-20,Jharkhand,Ranchi,23.314081,85.347967,Private,A+,25,4,Yes,3.8,9.1,27,0,+91-701833979
+BB0709,Max Aizawl Blood Bank,MI/BB/2024/707,2030-01-16,Mizoram,Aizawl,23.731024,92.697318,Private,AB-,22,7,Yes,4.1,14.1,21,0,+91-741931213
+BB0710,Sankara Delhi Blood Bank,DE/BB/2019/626,2030-08-28,Delhi,Delhi,28.596488,77.203413,Private,O+,10,4,Yes,4.7,7.5,27,0,+91-675059050
+BB0711,Global Secunderabad Blood Bank,TE/BB/2021/203,2025-07-23,Telangana,Secunderabad,17.466016,78.596532,Private,B+,28,1,No,4.3,20.0,35,0,+91-912977473
+BB0712,Sankara Surat Blood Bank,GU/BB/2019/987,2029-03-19,Gujarat,Surat,21.201487,72.81844,Private,O-,13,2,Yes,4.9,8.3,46,0,+91-749816921
+BB0713,Red Cross Varanasi Blood Bank,UT/BB/2019/847,2027-09-20,Uttar Pradesh,Varanasi,25.299305,82.976339,Private,B+,5,6,Yes,4.2,12.9,29,0,+91-989100176
+BB0714,Metro Mumbai Blood Bank,MA/BB/2022/604,2026-11-11,Maharashtra,Mumbai,19.069244,72.921487,Private,B+,15,4,No,3.7,12.0,49,0,+91-740912411
+BB0715,Unity Patna Blood Bank,BI/BB/2020/060,2030-07-07,Bihar,Patna,25.635692,85.110261,Government,AB+,12,0,Yes,4.6,7.5,4,1,+91-872376148
+BB0716,KIMS Lucknow Blood Bank,UT/BB/2019/363,2026-01-26,Uttar Pradesh,Lucknow,26.87519,80.997776,Government,A+,19,1,Yes,4.1,12.6,49,1,+91-790483413
+BB0717,Global Ranchi Blood Bank,JH/BB/2023/741,2029-02-22,Jharkhand,Ranchi,23.402439,85.318904,Private,O-,24,1,No,4.5,14.7,5,0,+91-946206490
+BB0718,St. Mary Jaipur Blood Bank,RA/BB/2021/195,2024-10-23,Rajasthan,Jaipur,26.830111,75.804873,Private,A-,6,1,Yes,4.0,8.9,37,0,+91-759614569
+BB0719,Royal Kohima Blood Bank,NA/BB/2019/646,2024-11-27,Nagaland,Kohima,25.664464,94.088834,Private,O-,10,3,Yes,3.8,1.5,25,0,+91-668270544
+BB0720,Max Nagpur Blood Bank,MA/BB/2023/400,2024-05-21,Maharashtra,Nagpur,21.100298,79.133653,Charity,B+,13,4,Yes,5.0,13.1,2,0,+91-730807884
+BB0721,Sankara Bengaluru Blood Bank,KA/BB/2020/488,2026-12-27,Karnataka,Bengaluru,13.032061,77.601337,Private,O+,26,1,Yes,4.4,2.7,37,0,+91-987218569
+BB0722,Central Guwahati Blood Bank,AS/BB/2022/437,2026-04-19,Assam,Guwahati,26.161384,91.737265,Private,O+,23,1,Yes,3.6,6.9,29,0,+91-651358443
+BB0723,Care Jaipur Blood Bank,RA/BB/2022/550,2025-01-11,Rajasthan,Jaipur,26.887979,75.864503,Private,A-,3,2,Yes,5.0,6.3,23,0,+91-632651550
+BB0724,Unity Bhopal Blood Bank,MA/BB/2022/046,2028-07-05,Madhya Pradesh,Bhopal,23.272513,77.422811,Private,AB-,27,3,No,4.2,5.7,31,0,+91-829029870
+BB0725,Life Mumbai Blood Bank,MA/BB/2024/483,2026-10-13,Maharashtra,Mumbai,19.027547,72.842754,Private,AB-,9,1,Yes,3.9,1.7,3,0,+91-798755428
+BB0726,Unity Shillong Blood Bank,ME/BB/2022/304,2024-10-10,Meghalaya,Shillong,25.582479,91.867081,Private,A-,7,4,No,4.6,18.2,39,0,+91-817523671
+BB0727,St. Mary Jaipur Blood Bank,RA/BB/2023/362,2025-01-16,Rajasthan,Jaipur,26.891625,75.739673,Government,O-,11,0,Yes,4.2,4.4,2,1,+91-964499443
+BB0728,Gandhi Varanasi Blood Bank,UT/BB/2019/267,2025-09-25,Uttar Pradesh,Varanasi,25.308454,82.934544,Trust,A-,18,6,Yes,3.8,15.8,23,0,+91-667197518
+BB0729,Metro Coimbatore Blood Bank,TA/BB/2023/327,2029-01-02,Tamil Nadu,Coimbatore,10.982912,76.974847,Trust,B-,8,7,Yes,4.7,3.9,46,0,+91-890839801
+BB0730,Life Chennai Blood Bank,TA/BB/2020/104,2026-11-14,Tamil Nadu,Chennai,12.965615,80.21462,Private,O-,42,1,No,4.1,21.2,6,0,+91-651124633
+BB0731,Sankara Agartala Blood Bank,TR/BB/2023/289,2027-03-20,Tripura,Agartala,23.826439,91.291905,Charity,AB-,30,7,Yes,3.9,3.6,15,0,+91-893576892
+BB0732,KIMS Chennai Blood Bank,TA/BB/2022/717,2026-06-28,Tamil Nadu,Chennai,13.061687,80.298453,Trust,A-,36,0,Yes,3.7,8.9,48,0,+91-941496479
+BB0733,Central New Delhi Blood Bank,DE/BB/2020/716,2029-08-22,Delhi,New Delhi,28.647508,77.135951,Private,B+,12,5,Yes,4.5,30.3,34,0,+91-707097495
+BB0734,Max Thiruvananthapuram Blood Bank,KE/BB/2022/423,2025-07-15,Kerala,Thiruvananthapuram,8.501729,76.999053,Government,O-,45,5,Yes,4.1,0.9,48,1,+91-896231840
+BB0735,Red Cross Kochi Blood Bank,KE/BB/2021/047,2026-01-20,Kerala,Kochi,9.888653,76.257639,Private,B+,15,1,No,5.0,0.7,46,0,+91-745392865
+BB0736,Red Cross Surat Blood Bank,GU/BB/2020/359,2027-07-03,Gujarat,Surat,21.140259,72.803341,Government,AB+,17,3,No,4.1,8.6,26,1,+91-667521387
+BB0737,Unity New Delhi Blood Bank,DE/BB/2023/770,2026-04-24,Delhi,New Delhi,28.69536,77.209943,Private,B-,23,0,Yes,3.3,0.8,19,0,+91-868648460
+BB0738,Central Secunderabad Blood Bank,TE/BB/2021/745,2027-08-14,Telangana,Secunderabad,17.3835,78.571496,Private,AB+,5,0,Yes,4.1,3.2,19,0,+91-853991268
+BB0739,City Guwahati Blood Bank,AS/BB/2022/737,2029-08-02,Assam,Guwahati,26.269201,91.717945,Private,A-,28,4,Yes,4.0,4.4,47,0,+91-911646128
+BB0740,St. Mary Chennai Blood Bank,TA/BB/2023/516,2030-05-18,Tamil Nadu,Chennai,13.116053,80.260869,Government,AB-,40,0,Yes,3.7,2.2,4,1,+91-649988876
+BB0741,Global Bengaluru Blood Bank,KA/BB/2023/237,2029-05-26,Karnataka,Bengaluru,12.966357,77.488418,Private,O+,35,1,Yes,4.0,14.4,37,0,+91-984613295
+BB0742,Red Cross Nagpur Blood Bank,MA/BB/2023/116,2024-03-09,Maharashtra,Nagpur,21.125481,79.065071,Government,AB+,21,1,No,3.5,16.1,13,1,+91-859362450
+BB0743,Metro Howrah Blood Bank,WE/BB/2023/290,2024-09-02,West Bengal,Howrah,22.626112,88.194588,Private,O+,14,5,Yes,4.9,15.8,38,0,+91-719331905
+BB0744,Max Vijayawada Blood Bank,AN/BB/2018/621,2029-04-26,Andhra Pradesh,Vijayawada,16.466547,80.651946,Private,AB+,7,0,No,3.5,4.9,23,0,+91-648125026
+BB0745,Red Cross Agartala Blood Bank,TR/BB/2019/141,2030-05-28,Tripura,Agartala,23.826094,91.249543,Charity,AB-,28,4,No,3.5,6.9,2,0,+91-630263784
+BB0746,Metro Shillong Blood Bank,ME/BB/2020/716,2024-10-11,Meghalaya,Shillong,25.588007,91.970656,Private,AB-,9,4,Yes,4.7,1.2,25,0,+91-664193761
+BB0747,St. Mary Nagpur Blood Bank,MA/BB/2020/741,2028-04-13,Maharashtra,Nagpur,21.186289,79.042617,Government,O+,16,7,Yes,3.9,25.2,29,1,+91-928476722
+BB0748,KIMS Nagpur Blood Bank,MA/BB/2018/518,2026-05-18,Maharashtra,Nagpur,21.156516,79.080738,Private,A-,4,0,Yes,3.8,4.5,2,0,+91-805047606
+BB0749,Max Jaipur Blood Bank,RA/BB/2022/402,2026-10-26,Rajasthan,Jaipur,26.876428,75.854859,Private,A+,2,0,Yes,4.0,6.0,45,0,+91-867169291
+BB0750,Apollo Surat Blood Bank,GU/BB/2018/190,2029-12-24,Gujarat,Surat,21.127122,72.809892,Government,O+,6,3,No,4.3,0.9,48,1,+91-642595958
+BB0751,Care Kohima Blood Bank,NA/BB/2018/955,2024-05-24,Nagaland,Kohima,25.557163,94.054711,Private,A+,33,7,Yes,4.8,21.6,25,0,+91-954772466
+BB0752,KIMS Ahmedabad Blood Bank,GU/BB/2018/556,2028-06-12,Gujarat,Ahmedabad,23.014788,72.623863,Private,A-,24,0,No,3.9,0.3,23,0,+91-787697602
+BB0753,Royal Nagpur Blood Bank,MA/BB/2021/073,2030-09-20,Maharashtra,Nagpur,21.155505,79.10702,Private,O+,25,6,Yes,4.0,18.1,27,0,+91-680757303
+BB0754,Apollo Bhubaneswar Blood Bank,OD/BB/2018/794,2027-07-23,Odisha,Bhubaneswar,20.344151,85.818243,Private,O+,27,3,Yes,3.7,10.2,22,0,+91-908643039
+BB0755,St. Mary Vijayawada Blood Bank,AN/BB/2023/640,2027-07-28,Andhra Pradesh,Vijayawada,16.495974,80.584921,Government,B-,24,4,Yes,4.7,5.5,21,1,+91-824141303
+BB0756,KIMS Panaji Blood Bank,GO/BB/2020/963,2026-12-19,Goa,Panaji,15.38229,73.80006,Private,B+,16,5,Yes,4.3,1.8,10,0,+91-734205552
+BB0757,City Guwahati Blood Bank,AS/BB/2020/675,2024-01-04,Assam,Guwahati,26.193003,91.67552,Private,B-,11,3,Yes,3.3,1.6,10,0,+91-868330795
+BB0758,Sankara Bengaluru Blood Bank,KA/BB/2021/831,2030-02-03,Karnataka,Bengaluru,12.839686,77.613477,Charity,B-,18,4,Yes,4.6,5.9,33,0,+91-865415233
+BB0759,Max Shillong Blood Bank,ME/BB/2022/467,2024-06-12,Meghalaya,Shillong,25.562949,91.86064,Trust,AB-,37,6,No,4.0,13.1,36,0,+91-689382145
+BB0760,Red Cross Panaji Blood Bank,GO/BB/2024/831,2026-03-17,Goa,Panaji,15.442161,73.808007,Private,O-,25,6,Yes,5.0,11.9,2,0,+91-749094140
+BB0761,Care Agartala Blood Bank,TR/BB/2022/273,2029-08-25,Tripura,Agartala,23.845285,91.32105,Government,B+,39,3,Yes,4.3,5.3,40,1,+91-600538591
+BB0762,Global Kochi Blood Bank,KE/BB/2018/445,2027-07-23,Kerala,Kochi,9.951895,76.236822,Government,B-,21,3,Yes,4.1,26.4,15,1,+91-943386622
+BB0763,City New Delhi Blood Bank,DE/BB/2023/647,2027-11-23,Delhi,New Delhi,28.483923,77.241065,Charity,O+,2,2,Yes,3.9,11.2,50,0,+91-811917897
+BB0764,Max Shimla Blood Bank,HI/BB/2021/037,2029-05-21,Himachal Pradesh,Shimla,31.159077,77.220395,Private,AB-,17,7,No,4.1,7.7,51,0,+91-649254112
+BB0765,Max Jaipur Blood Bank,RA/BB/2024/383,2027-01-08,Rajasthan,Jaipur,26.864551,75.844605,Trust,O-,14,0,No,4.6,3.7,2,0,+91-949455897
+BB0766,Central Secunderabad Blood Bank,TE/BB/2024/086,2029-03-09,Telangana,Secunderabad,17.45261,78.424191,Private,AB+,4,2,No,3.7,3.3,43,0,+91-751571862
+BB0767,Max Jaipur Blood Bank,RA/BB/2019/368,2028-01-15,Rajasthan,Jaipur,26.908331,75.767045,Private,B+,28,6,Yes,3.6,30.2,24,0,+91-853936086
+BB0768,St. Mary Ranchi Blood Bank,JH/BB/2021/966,2025-08-23,Jharkhand,Ranchi,23.381497,85.296271,Private,A-,11,0,Yes,4.6,4.9,52,0,+91-689127929
+BB0769,National Guwahati Blood Bank,AS/BB/2019/792,2024-11-17,Assam,Guwahati,26.195903,91.643975,Private,AB-,20,6,Yes,3.4,5.7,18,0,+91-821628438
+BB0770,St. Mary Mysore Blood Bank,KA/BB/2018/710,2028-08-17,Karnataka,Mysore,12.278097,76.68237,Private,AB-,19,4,Yes,4.5,3.1,29,0,+91-995148287
+BB0771,Central Ranchi Blood Bank,JH/BB/2020/166,2030-06-20,Jharkhand,Ranchi,23.194014,85.233131,Private,O-,34,2,No,4.9,6.3,12,0,+91-841448304
+BB0772,St. Mary Agartala Blood Bank,TR/BB/2020/924,2030-05-09,Tripura,Agartala,23.792042,91.331872,Private,B-,13,5,No,4.0,8.4,29,0,+91-642828228
+BB0773,Unity Dehradun Blood Bank,UT/BB/2022/263,2027-09-24,Uttarakhand,Dehradun,30.326984,78.093892,Government,B-,32,0,Yes,3.9,19.1,67,1,+91-704502540
+BB0774,Metro Patna Blood Bank,BI/BB/2023/754,2028-11-03,Bihar,Patna,25.579745,85.164212,Government,AB+,4,2,Yes,3.9,3.2,10,1,+91-606917209
+BB0775,City New Delhi Blood Bank,DE/BB/2023/998,2025-11-04,Delhi,New Delhi,28.626243,77.185494,Private,O-,1,0,Yes,4.5,11.1,9,0,+91-859287733
+BB0776,Unity Mumbai Blood Bank,MA/BB/2020/111,2026-09-21,Maharashtra,Mumbai,19.050454,72.866501,Government,A-,31,6,Yes,4.8,2.1,38,1,+91-719213818
+BB0777,Life Bengaluru Blood Bank,KA/BB/2023/428,2024-09-06,Karnataka,Bengaluru,12.943411,77.646171,Private,A-,15,3,Yes,3.6,1.2,6,0,+91-833631716
+BB0778,Max Visakhapatnam Blood Bank,AN/BB/2019/797,2030-05-19,Andhra Pradesh,Visakhapatnam,17.621467,83.227031,Private,A-,6,3,Yes,4.8,6.7,2,0,+91-847523970
+BB0779,KIMS Patna Blood Bank,BI/BB/2020/698,2026-06-25,Bihar,Patna,25.579466,85.131165,Private,B+,39,5,Yes,4.9,15.8,3,0,+91-953939035
+BB0780,Red Cross New Delhi Blood Bank,DE/BB/2020/855,2029-12-17,Delhi,New Delhi,28.583972,77.237395,Private,AB-,8,2,Yes,4.0,7.7,36,0,+91-673993237
+BB0781,Red Cross Kanpur Blood Bank,UT/BB/2023/784,2024-10-06,Uttar Pradesh,Kanpur,26.415466,80.341211,Government,B-,17,1,Yes,4.5,7.6,2,1,+91-685888776
+BB0782,Max Bhubaneswar Blood Bank,OD/BB/2022/511,2028-02-08,Odisha,Bhubaneswar,20.302771,85.776846,Private,B-,16,7,Yes,4.3,1.5,13,0,+91-714785574
+BB0783,Max Raipur Blood Bank,CH/BB/2021/605,2029-10-20,Chhattisgarh,Raipur,21.312861,81.602577,Private,A+,19,3,No,3.5,10.9,23,0,+91-641922359
+BB0784,Life Shillong Blood Bank,ME/BB/2018/493,2025-02-23,Meghalaya,Shillong,25.592181,91.883813,Government,O+,6,6,No,3.7,7.2,31,1,+91-634914155
+BB0785,Life Raipur Blood Bank,CH/BB/2020/255,2029-09-26,Chhattisgarh,Raipur,21.228628,81.552108,Private,AB-,45,3,No,4.5,4.0,17,0,+91-961238300
+BB0786,Gandhi Aizawl Blood Bank,MI/BB/2021/606,2029-10-07,Mizoram,Aizawl,23.755215,92.766108,Trust,AB+,5,6,Yes,3.8,25.3,7,0,+91-866452544
+BB0787,Fortis Raipur Blood Bank,CH/BB/2024/348,2024-06-14,Chhattisgarh,Raipur,21.274979,81.582916,Charity,AB+,30,7,No,4.4,9.4,32,0,+91-823728532
+BB0788,Gandhi Hyderabad Blood Bank,TE/BB/2018/417,2027-03-24,Telangana,Hyderabad,17.385838,78.536488,Private,AB+,13,2,No,3.7,13.6,52,0,+91-986371115
+BB0789,Unity Howrah Blood Bank,WE/BB/2019/516,2029-03-21,West Bengal,Howrah,22.699269,88.36971,Government,AB+,19,5,No,4.1,21.8,16,1,+91-678114991
+BB0790,City Imphal Blood Bank,MA/BB/2020/721,2026-11-21,Manipur,Imphal,24.817556,93.817498,Private,AB+,5,0,Yes,4.8,11.3,20,0,+91-836458874
+BB0791,Life Mysore Blood Bank,KA/BB/2020/777,2027-01-15,Karnataka,Mysore,12.32727,76.70166,Trust,AB-,31,4,Yes,4.4,10.0,36,0,+91-668134827
+BB0792,Royal Lucknow Blood Bank,UT/BB/2020/683,2029-03-28,Uttar Pradesh,Lucknow,26.791629,80.894144,Private,O+,11,7,Yes,4.2,5.2,45,0,+91-757290663
+BB0793,Max Shimla Blood Bank,HI/BB/2024/043,2028-05-10,Himachal Pradesh,Shimla,31.157932,77.163648,Private,O+,19,0,Yes,3.8,18.5,23,0,+91-858526489
+BB0794,Unity Shillong Blood Bank,ME/BB/2022/046,2024-06-13,Meghalaya,Shillong,25.549805,91.935884,Trust,O-,28,0,Yes,4.5,1.8,40,0,+91-769721746
+BB0795,Global Bengaluru Blood Bank,KA/BB/2023/754,2024-10-08,Karnataka,Bengaluru,12.971391,77.570616,Private,A+,2,4,Yes,3.5,8.6,37,0,+91-684197235
+BB0796,Metro Varanasi Blood Bank,UT/BB/2021/891,2030-03-06,Uttar Pradesh,Varanasi,25.29129,83.016199,Private,AB-,11,1,Yes,4.6,5.4,65,0,+91-735656002
+BB0797,National Varanasi Blood Bank,UT/BB/2020/449,2024-11-16,Uttar Pradesh,Varanasi,25.347369,82.960809,Private,O+,28,6,Yes,3.5,5.5,25,0,+91-679619944
+BB0798,City Imphal Blood Bank,MA/BB/2020/763,2025-12-24,Manipur,Imphal,24.815999,93.99257,Charity,AB-,14,4,Yes,4.3,15.0,70,0,+91-718366641
+BB0799,Global Shillong Blood Bank,ME/BB/2021/232,2028-10-11,Meghalaya,Shillong,25.551922,91.811419,Private,AB+,0,2,No,3.8,15.5,59,0,+91-750509060
+BB0800,Fortis Mysore Blood Bank,KA/BB/2019/418,2026-10-20,Karnataka,Mysore,12.291313,76.665831,Private,A+,11,7,No,4.4,15.1,40,0,+91-859896815
+BB0801,Gandhi Chennai Blood Bank,TA/BB/2023/309,2027-01-03,Tamil Nadu,Chennai,13.011308,80.352902,Private,O-,2,1,No,4.2,3.0,50,0,+91-713038430
+BB0802,Max Surat Blood Bank,GU/BB/2019/922,2025-12-07,Gujarat,Surat,21.060573,72.754017,Charity,B+,0,4,Yes,4.4,16.1,21,0,+91-805129135
+BB0803,Red Cross Thiruvananthapuram Blood Bank,KE/BB/2021/258,2030-08-07,Kerala,Thiruvananthapuram,8.527886,76.959643,Private,O+,8,5,No,4.5,1.8,56,0,+91-756605765
+BB0804,Care Coimbatore Blood Bank,TA/BB/2024/789,2028-07-28,Tamil Nadu,Coimbatore,10.963371,76.96649,Private,A-,18,6,Yes,3.9,17.2,34,0,+91-985870998
+BB0805,Central Shimla Blood Bank,HI/BB/2024/687,2028-03-17,Himachal Pradesh,Shimla,31.111792,77.141204,Private,AB+,21,6,Yes,4.2,6.9,17,0,+91-701865876
+BB0806,St. Mary Agartala Blood Bank,TR/BB/2018/969,2026-09-13,Tripura,Agartala,23.84392,91.30348,Private,O-,12,1,Yes,5.0,7.8,33,0,+91-867384446
+BB0807,Royal Mumbai Blood Bank,MA/BB/2021/727,2028-10-07,Maharashtra,Mumbai,19.066681,72.793431,Trust,O-,14,2,Yes,3.3,9.2,9,0,+91-608790671
+BB0808,Global New Delhi Blood Bank,DE/BB/2022/718,2026-09-11,Delhi,New Delhi,28.691886,77.170358,Private,O-,5,5,Yes,4.8,15.1,47,0,+91-771453859
+BB0809,Gandhi Secunderabad Blood Bank,TE/BB/2019/730,2029-02-17,Telangana,Secunderabad,17.450643,78.504898,Private,A-,14,7,No,4.5,19.3,43,0,+91-724232152
+BB0810,Max Surat Blood Bank,GU/BB/2023/807,2028-02-06,Gujarat,Surat,21.184035,72.913197,Private,O+,22,1,No,3.4,6.4,2,0,+91-692344264
+BB0811,Apollo Kochi Blood Bank,KE/BB/2020/985,2030-04-16,Kerala,Kochi,9.986243,76.31745,Trust,A+,4,7,Yes,4.4,26.8,5,0,+91-623656128
+BB0812,Unity Guwahati Blood Bank,AS/BB/2024/488,2025-10-03,Assam,Guwahati,26.220578,91.805196,Government,AB+,26,4,Yes,4.3,0.4,50,1,+91-757862875
+BB0813,Apollo Surat Blood Bank,GU/BB/2023/540,2029-08-08,Gujarat,Surat,21.191483,72.776836,Private,A-,8,4,Yes,4.5,11.9,12,0,+91-746685006
+BB0814,Royal New Delhi Blood Bank,DE/BB/2022/613,2030-12-07,Delhi,New Delhi,28.610941,77.279676,Private,AB-,28,6,No,4.3,33.7,7,0,+91-795006943
+BB0815,Unity Bhubaneswar Blood Bank,OD/BB/2022/848,2026-11-22,Odisha,Bhubaneswar,20.347899,85.855213,Private,O-,8,4,No,3.6,5.6,23,0,+91-789000034
+BB0816,Care Guwahati Blood Bank,AS/BB/2022/153,2026-05-26,Assam,Guwahati,26.133814,91.70947,Charity,B+,68,0,Yes,4.2,7.6,12,0,+91-783649446
+BB0817,KIMS Indore Blood Bank,MA/BB/2023/937,2024-02-11,Madhya Pradesh,Indore,22.755222,75.908984,Private,O+,18,7,Yes,4.9,7.4,9,0,+91-687669655
+BB0818,Royal Agartala Blood Bank,TR/BB/2021/638,2026-02-28,Tripura,Agartala,23.858603,91.231224,Government,B-,28,2,No,3.8,16.7,15,1,+91-612436437
+BB0819,St. Mary Mumbai Blood Bank,MA/BB/2022/745,2026-10-13,Maharashtra,Mumbai,19.138573,72.943725,Charity,A-,31,7,Yes,3.8,24.3,5,0,+91-625347191
+BB0820,Unity Delhi Blood Bank,DE/BB/2021/657,2029-10-14,Delhi,Delhi,28.651621,77.136306,Government,O+,17,7,No,3.7,15.7,37,1,+91-632112130
+BB0821,National Visakhapatnam Blood Bank,AN/BB/2020/104,2026-05-21,Andhra Pradesh,Visakhapatnam,17.674613,83.240694,Private,AB+,32,2,Yes,4.7,7.4,22,0,+91-722098156
+BB0822,Fortis Chennai Blood Bank,TA/BB/2023/630,2024-01-21,Tamil Nadu,Chennai,12.995535,80.272469,Private,A+,11,7,Yes,4.7,12.2,4,0,+91-645057988
+BB0823,St. Mary Secunderabad Blood Bank,TE/BB/2018/677,2029-03-20,Telangana,Secunderabad,17.383197,78.430197,Private,A+,6,7,No,4.6,34.2,46,0,+91-722707916
+BB0824,National Chandigarh Blood Bank,CH/BB/2018/758,2026-06-13,Chandigarh,Chandigarh,30.725316,76.769626,Government,O-,16,4,No,4.1,13.8,2,1,+91-676917438
+BB0825,Red Cross Bhopal Blood Bank,MA/BB/2022/837,2028-06-05,Madhya Pradesh,Bhopal,23.206406,77.445639,Private,A+,25,4,Yes,4.5,6.5,2,0,+91-724640343
+BB0826,National Imphal Blood Bank,MA/BB/2018/586,2024-09-05,Manipur,Imphal,24.752346,93.885136,Private,A+,26,3,No,3.9,21.3,12,0,+91-888179229
+BB0827,KIMS Bengaluru Blood Bank,KA/BB/2020/758,2027-07-18,Karnataka,Bengaluru,12.97539,77.548788,Government,AB+,25,1,Yes,3.8,23.4,17,1,+91-719724357
+BB0828,Apollo Delhi Blood Bank,DE/BB/2020/714,2030-09-05,Delhi,Delhi,28.649099,77.144338,Trust,AB-,27,4,No,3.7,7.5,33,0,+91-970527680
+BB0829,St. Mary Chandigarh Blood Bank,CH/BB/2019/857,2025-04-02,Chandigarh,Chandigarh,30.665491,76.745768,Government,O-,9,6,No,5.0,18.9,16,1,+91-824255658
+BB0830,Gandhi Imphal Blood Bank,MA/BB/2022/241,2025-01-07,Manipur,Imphal,24.828597,93.957341,Trust,B+,22,0,No,4.2,6.0,19,0,+91-759597044
+BB0831,Sankara Raipur Blood Bank,CH/BB/2021/799,2029-10-20,Chhattisgarh,Raipur,21.194559,81.695047,Private,O+,24,2,Yes,4.9,9.8,16,0,+91-848674297
+BB0832,Max Panaji Blood Bank,GO/BB/2018/682,2030-02-09,Goa,Panaji,15.453862,73.837485,Private,AB+,13,7,No,4.9,5.6,28,0,+91-881198224
+BB0833,Care Lucknow Blood Bank,UT/BB/2023/555,2027-08-11,Uttar Pradesh,Lucknow,26.787725,80.929092,Private,B+,19,6,Yes,4.3,8.4,30,0,+91-902820597
+BB0834,Care Secunderabad Blood Bank,TE/BB/2024/366,2029-05-23,Telangana,Secunderabad,17.424184,78.533898,Private,AB+,53,0,Yes,4.5,21.6,18,0,+91-922902720
+BB0835,Unity Jaipur Blood Bank,RA/BB/2023/811,2028-10-23,Rajasthan,Jaipur,26.950517,75.754764,Private,B-,15,4,Yes,4.1,16.7,41,0,+91-646431862
+BB0836,Global Pune Blood Bank,MA/BB/2022/710,2030-05-02,Maharashtra,Pune,18.507071,73.831009,Government,A+,14,7,Yes,4.3,15.3,7,1,+91-745120798
+BB0837,KIMS Panaji Blood Bank,GO/BB/2020/016,2029-02-25,Goa,Panaji,15.522305,73.80244,Charity,B+,26,4,No,4.4,8.8,35,0,+91-805951822
+BB0838,Sankara Chandigarh Blood Bank,CH/BB/2022/860,2029-07-09,Chandigarh,Chandigarh,30.611591,76.88017,Private,AB-,31,7,Yes,3.8,0.7,34,0,+91-610748435
+BB0839,St. Mary Coimbatore Blood Bank,TA/BB/2024/114,2029-12-15,Tamil Nadu,Coimbatore,11.028702,76.91705,Government,AB-,2,3,No,4.5,1.2,35,1,+91-839267337
+BB0840,City Bhopal Blood Bank,MA/BB/2022/644,2030-12-02,Madhya Pradesh,Bhopal,23.255091,77.334924,Government,A+,46,5,Yes,5.0,23.3,23,1,+91-628224632
+BB0841,Metro Indore Blood Bank,MA/BB/2018/190,2030-12-24,Madhya Pradesh,Indore,22.733942,75.815515,Trust,O-,5,2,Yes,3.9,13.9,43,0,+91-734265891
+BB0842,Fortis Howrah Blood Bank,WE/BB/2021/611,2027-09-07,West Bengal,Howrah,22.68571,88.36778,Private,B-,30,6,Yes,3.6,1.1,22,0,+91-774569650
+BB0843,St. Mary New Delhi Blood Bank,DE/BB/2022/251,2027-05-14,Delhi,New Delhi,28.58759,77.223666,Private,A+,30,2,Yes,3.9,10.9,24,0,+91-888254241
+BB0844,Life Lucknow Blood Bank,UT/BB/2020/943,2027-12-07,Uttar Pradesh,Lucknow,26.823182,80.947584,Government,AB-,21,4,Yes,4.9,6.0,43,1,+91-643647664
+BB0845,Apollo Indore Blood Bank,MA/BB/2018/367,2027-11-17,Madhya Pradesh,Indore,22.797889,75.880124,Government,B-,37,2,No,3.8,5.4,31,1,+91-833122444
+BB0846,Gandhi Kanpur Blood Bank,UT/BB/2022/053,2025-01-10,Uttar Pradesh,Kanpur,26.474833,80.274714,Government,A-,17,6,No,3.6,13.8,17,1,+91-904787815
+BB0847,Life Agartala Blood Bank,TR/BB/2018/060,2027-08-19,Tripura,Agartala,23.88194,91.282416,Government,AB-,15,3,Yes,4.5,10.2,39,1,+91-944304750
+BB0848,KIMS Nagpur Blood Bank,MA/BB/2021/079,2029-07-12,Maharashtra,Nagpur,21.19697,79.109365,Private,AB-,9,5,Yes,4.5,4.4,43,0,+91-857197785
+BB0849,Max Kochi Blood Bank,KE/BB/2018/682,2029-04-18,Kerala,Kochi,10.017371,76.327387,Government,O-,34,7,No,4.2,14.4,25,1,+91-969809062
+BB0850,Red Cross Bengaluru Blood Bank,KA/BB/2020/640,2028-04-22,Karnataka,Bengaluru,13.020449,77.590161,Trust,O+,17,3,Yes,4.4,18.2,39,0,+91-676504319
+BB0851,Care Shimla Blood Bank,HI/BB/2018/325,2028-09-05,Himachal Pradesh,Shimla,31.038416,77.27389,Government,A-,23,1,Yes,4.6,17.2,52,1,+91-765401079
+BB0852,Central Bengaluru Blood Bank,KA/BB/2019/128,2025-03-19,Karnataka,Bengaluru,12.915795,77.613891,Private,O+,26,3,Yes,4.1,12.0,39,0,+91-737314926
+BB0853,Sankara Imphal Blood Bank,MA/BB/2020/923,2026-06-15,Manipur,Imphal,24.817788,93.964852,Government,B-,16,5,No,4.6,15.3,9,1,+91-781858393
+BB0854,Gandhi Bengaluru Blood Bank,KA/BB/2023/190,2024-10-08,Karnataka,Bengaluru,12.90723,77.596086,Private,O-,38,5,No,4.3,11.6,29,0,+91-723398466
+BB0855,St. Mary Chandigarh Blood Bank,CH/BB/2024/865,2026-10-22,Chandigarh,Chandigarh,30.699841,76.688546,Charity,A-,33,2,Yes,4.2,23.3,22,0,+91-868753464
+BB0856,Apollo Nagpur Blood Bank,MA/BB/2018/044,2025-02-14,Maharashtra,Nagpur,21.220197,79.128462,Private,O+,28,2,No,4.0,5.1,44,0,+91-879612991
+BB0857,KIMS Thiruvananthapuram Blood Bank,KE/BB/2021/349,2028-02-17,Kerala,Thiruvananthapuram,8.522234,76.920678,Government,AB-,2,0,Yes,3.6,8.6,19,1,+91-636126941
+BB0858,Care Indore Blood Bank,MA/BB/2022/717,2026-03-17,Madhya Pradesh,Indore,22.724406,75.877911,Private,A-,12,0,Yes,4.7,14.8,14,0,+91-717284823
+BB0859,Metro Pune Blood Bank,MA/BB/2021/752,2030-12-20,Maharashtra,Pune,18.510662,73.884508,Government,AB-,14,2,Yes,5.0,4.1,23,1,+91-897648881
+BB0860,KIMS Patna Blood Bank,BI/BB/2019/485,2029-07-22,Bihar,Patna,25.654634,85.152796,Government,B-,22,2,Yes,4.3,1.1,31,1,+91-892487594
+BB0861,St. Mary Shillong Blood Bank,ME/BB/2021/726,2028-09-23,Meghalaya,Shillong,25.583613,91.984468,Government,B+,31,6,Yes,4.9,1.3,15,1,+91-682776236
+BB0862,Central Imphal Blood Bank,MA/BB/2023/829,2025-04-15,Manipur,Imphal,24.810523,93.912131,Government,O+,31,1,Yes,4.9,4.4,17,1,+91-660958932
+BB0863,St. Mary Visakhapatnam Blood Bank,AN/BB/2019/668,2024-10-26,Andhra Pradesh,Visakhapatnam,17.638456,83.182701,Private,A+,22,7,Yes,3.6,2.7,27,0,+91-797483265
+BB0864,St. Mary Jodhpur Blood Bank,RA/BB/2021/754,2027-06-06,Rajasthan,Jodhpur,26.320876,73.107972,Trust,AB-,7,6,No,3.3,13.0,11,0,+91-653466812
+BB0865,KIMS Ranchi Blood Bank,JH/BB/2019/259,2025-08-04,Jharkhand,Ranchi,23.379352,85.197415,Government,AB+,5,5,No,4.1,22.7,36,1,+91-822207428
+BB0866,Life Shillong Blood Bank,ME/BB/2024/746,2027-06-17,Meghalaya,Shillong,25.586267,91.879082,Private,AB-,17,4,No,4.1,5.9,25,0,+91-988921214
+BB0867,Royal New Delhi Blood Bank,DE/BB/2024/220,2029-01-02,Delhi,New Delhi,28.596632,77.161491,Private,A+,19,6,No,4.8,5.2,61,0,+91-602285568
+BB0868,Sankara Visakhapatnam Blood Bank,AN/BB/2020/961,2027-11-16,Andhra Pradesh,Visakhapatnam,17.689658,83.21939,Private,B+,15,6,No,4.2,4.1,22,0,+91-895121814
+BB0869,City Dehradun Blood Bank,UT/BB/2022/057,2029-07-27,Uttarakhand,Dehradun,30.307221,78.102224,Government,B-,29,0,Yes,4.6,1.1,2,1,+91-625676592
+BB0870,St. Mary Chennai Blood Bank,TA/BB/2018/570,2028-04-21,Tamil Nadu,Chennai,13.095237,80.233741,Government,A-,32,0,Yes,4.3,10.6,38,1,+91-671619019
+BB0871,Apollo Thiruvananthapuram Blood Bank,KE/BB/2023/685,2029-03-17,Kerala,Thiruvananthapuram,8.50128,76.923157,Private,AB-,2,2,Yes,4.0,6.4,36,0,+91-756383922
+BB0872,Gandhi Indore Blood Bank,MA/BB/2021/303,2030-01-27,Madhya Pradesh,Indore,22.751377,75.891925,Trust,O+,5,4,Yes,4.3,5.6,6,0,+91-685568740
+BB0873,Royal Visakhapatnam Blood Bank,AN/BB/2023/403,2024-11-12,Andhra Pradesh,Visakhapatnam,17.666277,83.22031,Private,B+,27,6,No,2.9,5.1,35,0,+91-819781586
+BB0874,Royal Guwahati Blood Bank,AS/BB/2019/057,2028-08-06,Assam,Guwahati,26.128175,91.668537,Trust,AB+,38,2,Yes,4.1,5.6,32,0,+91-974937327
+BB0875,KIMS Guwahati Blood Bank,AS/BB/2021/829,2029-07-02,Assam,Guwahati,26.116396,91.717563,Private,AB-,36,5,Yes,5.0,10.8,2,0,+91-900794754
+BB0876,Gandhi Hyderabad Blood Bank,TE/BB/2018/954,2026-11-06,Telangana,Hyderabad,17.368449,78.546826,Private,A-,18,1,Yes,4.6,15.7,48,0,+91-913557445
+BB0877,Apollo Kolkata Blood Bank,WE/BB/2020/869,2027-09-08,West Bengal,Kolkata,22.601241,88.340019,Private,O+,20,2,Yes,3.9,2.3,20,0,+91-848257752
+BB0878,Red Cross Shillong Blood Bank,ME/BB/2018/204,2030-11-22,Meghalaya,Shillong,25.649798,91.96348,Private,A+,34,2,No,3.8,22.8,13,0,+91-602798376
+BB0879,Global Coimbatore Blood Bank,TA/BB/2024/826,2026-09-11,Tamil Nadu,Coimbatore,10.983683,76.971724,Government,A+,24,0,Yes,4.7,16.4,51,1,+91-656540133
+BB0880,Apollo Panaji Blood Bank,GO/BB/2019/596,2027-04-27,Goa,Panaji,15.530422,73.902285,Private,O+,31,2,Yes,4.1,5.0,7,0,+91-627581113
+BB0881,National Thiruvananthapuram Blood Bank,KE/BB/2019/392,2027-06-06,Kerala,Thiruvananthapuram,8.594502,76.954985,Government,A-,20,3,Yes,3.5,1.4,17,1,+91-731860588
+BB0882,City Kanpur Blood Bank,UT/BB/2023/570,2024-08-18,Uttar Pradesh,Kanpur,26.452662,80.392634,Private,A+,19,2,Yes,3.9,18.4,15,0,+91-882539555
+BB0883,KIMS Panaji Blood Bank,GO/BB/2023/723,2030-10-16,Goa,Panaji,15.512639,73.834381,Government,AB-,20,7,No,3.9,24.9,30,1,+91-930974864
+BB0884,Max New Delhi Blood Bank,DE/BB/2020/723,2029-04-18,Delhi,New Delhi,28.644799,77.151425,Trust,AB+,31,2,No,3.5,12.2,9,0,+91-855476151
+BB0885,Care Dehradun Blood Bank,UT/BB/2018/079,2024-02-12,Uttarakhand,Dehradun,30.398514,78.116523,Government,O+,25,6,Yes,2.8,4.1,33,1,+91-656535236
+BB0886,Red Cross Nagpur Blood Bank,MA/BB/2022/117,2030-10-19,Maharashtra,Nagpur,21.206366,79.146102,Trust,A-,38,0,Yes,4.4,10.0,52,0,+91-795585629
+BB0887,Central Lucknow Blood Bank,UT/BB/2018/863,2028-08-02,Uttar Pradesh,Lucknow,26.80923,80.933031,Trust,AB+,29,0,No,4.0,21.6,58,0,+91-955892394
+BB0888,Central Kanpur Blood Bank,UT/BB/2024/626,2028-11-24,Uttar Pradesh,Kanpur,26.445478,80.269234,Private,AB-,42,4,No,4.5,29.1,16,0,+91-963447746
+BB0889,Metro Ahmedabad Blood Bank,GU/BB/2019/928,2024-08-04,Gujarat,Ahmedabad,23.032708,72.606375,Government,AB-,25,3,No,4.1,17.1,2,1,+91-759309432
+BB0890,Gandhi Kohima Blood Bank,NA/BB/2021/876,2026-04-03,Nagaland,Kohima,25.680668,94.089315,Private,O+,18,5,No,4.9,5.9,8,0,+91-745934515
+BB0891,Global Chennai Blood Bank,TA/BB/2018/456,2030-08-12,Tamil Nadu,Chennai,13.075036,80.149335,Trust,AB+,7,0,No,4.6,23.5,47,0,+91-967856028
+BB0892,Care Raipur Blood Bank,CH/BB/2023/200,2024-06-24,Chhattisgarh,Raipur,21.194008,81.676728,Trust,AB+,25,3,Yes,3.9,31.2,3,0,+91-791267782
+BB0893,City Guwahati Blood Bank,AS/BB/2021/716,2028-02-11,Assam,Guwahati,26.214366,91.780882,Private,B+,25,5,Yes,3.6,32.6,24,0,+91-865582897
+BB0894,Unity Jodhpur Blood Bank,RA/BB/2022/750,2024-12-11,Rajasthan,Jodhpur,26.251987,72.95682,Government,B+,37,6,Yes,4.5,6.5,4,1,+91-646966755
+BB0895,Apollo Raipur Blood Bank,CH/BB/2021/036,2027-09-13,Chhattisgarh,Raipur,21.243396,81.602161,Private,O-,19,7,No,5.0,13.9,60,0,+91-689049345
+BB0896,KIMS Howrah Blood Bank,WE/BB/2022/276,2030-05-10,West Bengal,Howrah,22.640302,88.328599,Private,AB+,28,2,No,4.6,15.0,50,0,+91-886657211
+BB0897,National Bhopal Blood Bank,MA/BB/2022/909,2026-09-28,Madhya Pradesh,Bhopal,23.309865,77.31281,Private,AB+,1,6,Yes,4.5,27.5,28,0,+91-789810237
+BB0898,Central Shillong Blood Bank,ME/BB/2019/817,2029-08-18,Meghalaya,Shillong,25.607309,91.920189,Government,B+,1,7,No,4.5,20.7,21,1,+91-739495978
+BB0899,Metro Chennai Blood Bank,TA/BB/2020/217,2028-01-04,Tamil Nadu,Chennai,13.082631,80.246563,Private,O+,27,0,No,4.4,6.0,38,0,+91-834922870
+BB0900,Sankara Howrah Blood Bank,WE/BB/2023/941,2025-08-13,West Bengal,Howrah,22.513758,88.331167,Charity,O+,2,0,Yes,4.0,27.4,46,0,+91-870335604
+BB0901,National Chennai Blood Bank,TA/BB/2020/225,2024-02-11,Tamil Nadu,Chennai,12.971303,80.252297,Private,B+,19,1,No,5.0,2.4,60,0,+91-988940612
+BB0902,Metro Kolkata Blood Bank,WE/BB/2018/217,2026-01-10,West Bengal,Kolkata,22.469249,88.415799,Charity,O+,31,7,Yes,4.6,14.1,8,0,+91-831323380
+BB0903,Care Kanpur Blood Bank,UT/BB/2018/285,2025-05-20,Uttar Pradesh,Kanpur,26.433131,80.317145,Trust,A-,24,3,Yes,3.4,30.6,45,0,+91-961043242
+BB0904,Max Raipur Blood Bank,CH/BB/2023/459,2026-08-04,Chhattisgarh,Raipur,21.254361,81.63997,Private,AB-,4,1,No,3.6,5.4,57,0,+91-901453311
+BB0905,National Jaipur Blood Bank,RA/BB/2024/616,2027-02-09,Rajasthan,Jaipur,26.800297,75.737461,Government,AB+,22,5,Yes,4.3,12.4,50,1,+91-707844201
+BB0906,City Surat Blood Bank,GU/BB/2024/300,2027-12-22,Gujarat,Surat,21.090101,72.902962,Private,A+,14,3,No,4.9,8.1,42,0,+91-701633538
+BB0907,Royal Chennai Blood Bank,TA/BB/2019/252,2029-05-20,Tamil Nadu,Chennai,13.050953,80.144017,Trust,A+,21,1,No,3.6,22.2,79,0,+91-606343713
+BB0908,Unity Guwahati Blood Bank,AS/BB/2023/785,2030-04-04,Assam,Guwahati,26.148081,91.704818,Trust,B-,15,2,Yes,4.5,25.8,21,0,+91-915011203
+BB0909,Apollo Indore Blood Bank,MA/BB/2020/783,2028-10-23,Madhya Pradesh,Indore,22.683451,75.877473,Private,AB-,45,4,Yes,4.4,21.8,3,0,+91-644094767
+BB0910,Red Cross Panaji Blood Bank,GO/BB/2022/789,2030-06-17,Goa,Panaji,15.419052,73.896314,Trust,AB-,48,0,Yes,4.9,22.1,40,0,+91-759081998
+BB0911,St. Mary Bhopal Blood Bank,MA/BB/2019/627,2024-05-17,Madhya Pradesh,Bhopal,23.302602,77.584396,Trust,AB-,34,5,Yes,3.6,1.8,26,0,+91-708109602
+BB0912,Metro Indore Blood Bank,MA/BB/2020/397,2027-02-21,Madhya Pradesh,Indore,22.818848,75.820928,Private,AB-,16,5,Yes,3.7,13.6,34,0,+91-795858850
+BB0913,Max Howrah Blood Bank,WE/BB/2023/907,2029-10-27,West Bengal,Howrah,22.641036,88.339244,Private,AB+,35,7,Yes,4.4,20.6,11,0,+91-761603036
+BB0914,City Thiruvananthapuram Blood Bank,KE/BB/2018/320,2025-12-14,Kerala,Thiruvananthapuram,8.470393,76.910523,Government,AB-,11,3,Yes,4.4,20.7,13,1,+91-984115162
+BB0915,St. Mary Pune Blood Bank,MA/BB/2022/410,2024-11-23,Maharashtra,Pune,18.491556,73.82722,Trust,AB-,16,5,Yes,4.1,30.5,17,0,+91-652233803
+BB0916,Care Chennai Blood Bank,TA/BB/2022/655,2030-05-04,Tamil Nadu,Chennai,13.069486,80.324488,Private,B-,22,1,Yes,4.7,13.4,14,0,+91-823822251
+BB0917,Sankara Nagpur Blood Bank,MA/BB/2019/348,2028-07-04,Maharashtra,Nagpur,21.171567,79.019842,Government,AB+,25,2,Yes,3.8,9.9,8,1,+91-979803721
+BB0918,St. Mary Chennai Blood Bank,TA/BB/2019/778,2025-04-13,Tamil Nadu,Chennai,13.016674,80.110936,Government,A+,29,1,No,4.4,4.4,43,1,+91-805352634
+BB0919,National Bhubaneswar Blood Bank,OD/BB/2024/060,2030-05-02,Odisha,Bhubaneswar,20.268249,85.82286,Private,B+,3,4,Yes,3.9,13.6,4,0,+91-858370163
+BB0920,National Guwahati Blood Bank,AS/BB/2022/318,2028-11-11,Assam,Guwahati,26.125206,91.731032,Trust,A-,10,1,Yes,4.0,15.6,4,0,+91-893771151
+BB0921,Royal Ahmedabad Blood Bank,GU/BB/2018/032,2028-05-20,Gujarat,Ahmedabad,23.001666,72.524225,Private,B+,31,5,Yes,3.3,12.4,46,0,+91-914721636
+BB0922,Central Bhopal Blood Bank,MA/BB/2018/079,2024-08-17,Madhya Pradesh,Bhopal,23.26545,77.496562,Government,A+,17,4,No,3.7,13.1,34,1,+91-615560586
+BB0923,St. Mary New Delhi Blood Bank,DE/BB/2022/772,2024-09-05,Delhi,New Delhi,28.570036,77.190292,Private,AB-,33,7,No,4.8,4.5,58,0,+91-651970394
+BB0924,Care Shillong Blood Bank,ME/BB/2024/180,2030-06-14,Meghalaya,Shillong,25.575709,91.952843,Government,O+,18,7,Yes,4.3,1.9,72,1,+91-990988893
+BB0925,Max Kanpur Blood Bank,UT/BB/2019/022,2025-07-05,Uttar Pradesh,Kanpur,26.478272,80.300748,Charity,AB-,14,1,Yes,4.7,26.8,9,0,+91-982257601
+BB0926,Gandhi Kohima Blood Bank,NA/BB/2021/670,2027-07-19,Nagaland,Kohima,25.604395,94.191997,Private,A-,3,3,No,3.5,8.1,12,0,+91-958043756
+BB0927,Gandhi Ranchi Blood Bank,JH/BB/2024/648,2024-03-18,Jharkhand,Ranchi,23.320766,85.295298,Trust,A-,7,7,Yes,4.3,3.5,18,0,+91-773280592
+BB0928,Apollo Surat Blood Bank,GU/BB/2021/975,2026-07-12,Gujarat,Surat,21.099598,72.935774,Private,AB-,14,1,Yes,4.2,0.1,42,0,+91-746478572
+BB0929,Fortis Kanpur Blood Bank,UT/BB/2023/834,2029-08-19,Uttar Pradesh,Kanpur,26.438203,80.293366,Private,O+,13,3,Yes,4.0,7.6,29,0,+91-821188540
+BB0930,Sankara Patna Blood Bank,BI/BB/2019/185,2027-09-12,Bihar,Patna,25.617567,85.137921,Government,O-,14,2,Yes,4.4,9.4,64,1,+91-750823162
+BB0931,KIMS Surat Blood Bank,GU/BB/2021/354,2028-10-14,Gujarat,Surat,21.169041,72.806747,Private,A-,22,5,Yes,3.8,15.4,12,0,+91-752719168
+BB0932,Unity Coimbatore Blood Bank,TA/BB/2022/972,2024-04-07,Tamil Nadu,Coimbatore,10.970542,76.89276,Private,O+,58,1,Yes,4.8,1.2,37,0,+91-837391426
+BB0933,Life Howrah Blood Bank,WE/BB/2022/233,2025-01-23,West Bengal,Howrah,22.713408,88.1867,Private,O+,11,0,No,4.5,8.5,53,0,+91-994440499
+BB0934,Metro Bengaluru Blood Bank,KA/BB/2018/721,2030-12-05,Karnataka,Bengaluru,12.955733,77.649783,Government,AB+,19,5,No,4.2,5.7,8,1,+91-905282512
+BB0935,KIMS Lucknow Blood Bank,UT/BB/2020/904,2025-11-13,Uttar Pradesh,Lucknow,26.91731,80.954186,Trust,A-,17,4,Yes,3.6,8.2,35,0,+91-765608260
+BB0936,Apollo Kochi Blood Bank,KE/BB/2020/219,2028-08-07,Kerala,Kochi,9.875191,76.284776,Private,AB+,19,1,Yes,3.9,10.4,8,0,+91-634819124
+BB0937,Global New Delhi Blood Bank,DE/BB/2021/082,2024-04-02,Delhi,New Delhi,28.582444,77.2111,Charity,A-,26,6,Yes,4.1,3.3,32,0,+91-967876220
+BB0938,Central Shillong Blood Bank,ME/BB/2018/145,2029-01-24,Meghalaya,Shillong,25.615501,91.902581,Private,B-,4,4,No,4.2,1.6,4,0,+91-643280264
+BB0939,Global Jodhpur Blood Bank,RA/BB/2021/269,2027-12-10,Rajasthan,Jodhpur,26.347406,73.108171,Charity,A+,8,3,Yes,4.6,14.5,3,0,+91-684426667
+BB0940,Apollo Kohima Blood Bank,NA/BB/2024/097,2025-06-15,Nagaland,Kohima,25.717465,94.013202,Private,AB-,21,4,Yes,3.9,1.8,28,0,+91-804961249
+BB0941,Sankara Pune Blood Bank,MA/BB/2019/156,2025-08-02,Maharashtra,Pune,18.496871,73.848972,Private,AB+,23,0,Yes,3.6,10.0,20,0,+91-793537653
+BB0942,Life Ranchi Blood Bank,JH/BB/2018/677,2027-01-14,Jharkhand,Ranchi,23.292759,85.287761,Private,A+,12,5,No,5.0,13.0,17,0,+91-852924715
+BB0943,Metro Nagpur Blood Bank,MA/BB/2022/403,2026-04-21,Maharashtra,Nagpur,21.042366,79.008203,Government,A-,13,4,Yes,3.9,43.5,11,1,+91-657951159
+BB0944,Apollo Vijayawada Blood Bank,AN/BB/2020/959,2025-07-24,Andhra Pradesh,Vijayawada,16.550073,80.667865,Trust,B+,35,0,Yes,4.1,4.9,28,0,+91-730439955
+BB0945,KIMS Coimbatore Blood Bank,TA/BB/2024/113,2030-04-19,Tamil Nadu,Coimbatore,11.06167,76.991732,Government,AB+,23,6,No,4.5,11.3,27,1,+91-738366948
+BB0946,St. Mary Vijayawada Blood Bank,AN/BB/2022/980,2026-10-06,Andhra Pradesh,Vijayawada,16.463066,80.65456,Government,B-,19,1,Yes,5.0,10.5,44,1,+91-811214658
+BB0947,Central Visakhapatnam Blood Bank,AN/BB/2018/432,2025-04-03,Andhra Pradesh,Visakhapatnam,17.620341,83.128158,Government,AB+,19,1,Yes,4.6,1.6,38,1,+91-838130701
+BB0948,Sankara Shillong Blood Bank,ME/BB/2019/749,2029-02-20,Meghalaya,Shillong,25.680798,91.843218,Private,AB+,1,2,Yes,4.4,1.0,5,0,+91-979706784
+BB0949,Max Varanasi Blood Bank,UT/BB/2018/337,2028-04-02,Uttar Pradesh,Varanasi,25.306254,83.011348,Government,B+,32,5,No,4.4,1.9,18,1,+91-844177348
+BB0950,National Hyderabad Blood Bank,TE/BB/2022/895,2030-10-15,Telangana,Hyderabad,17.336052,78.521478,Charity,AB-,19,1,No,3.6,2.5,5,0,+91-720394978
+BB0951,Global Patna Blood Bank,BI/BB/2019/171,2027-01-21,Bihar,Patna,25.53018,85.202943,Trust,A+,31,7,Yes,4.3,6.8,3,0,+91-811486331
+BB0952,Metro Bhubaneswar Blood Bank,OD/BB/2020/085,2030-12-12,Odisha,Bhubaneswar,20.400158,85.887018,Government,A-,13,7,Yes,3.8,2.6,34,1,+91-629298004
+BB0953,KIMS Raipur Blood Bank,CH/BB/2018/407,2025-09-14,Chhattisgarh,Raipur,21.257754,81.716613,Government,B+,27,3,No,4.0,27.6,33,1,+91-841038721
+BB0954,KIMS Visakhapatnam Blood Bank,AN/BB/2023/149,2029-11-15,Andhra Pradesh,Visakhapatnam,17.695233,83.275211,Government,A-,3,0,Yes,3.8,11.8,38,1,+91-819883732
+BB0955,City Lucknow Blood Bank,UT/BB/2024/253,2026-01-06,Uttar Pradesh,Lucknow,26.844568,80.952703,Private,O-,15,4,Yes,4.6,4.8,12,0,+91-646114229
+BB0956,Gandhi Kochi Blood Bank,KE/BB/2019/591,2030-09-23,Kerala,Kochi,9.839805,76.272775,Private,B-,8,4,Yes,3.6,16.7,24,0,+91-761692092
+BB0957,St. Mary Chennai Blood Bank,TA/BB/2022/640,2024-08-24,Tamil Nadu,Chennai,13.021637,80.361987,Private,B-,42,6,No,3.7,16.2,9,0,+91-995276847
+BB0958,Royal Raipur Blood Bank,CH/BB/2021/281,2025-05-18,Chhattisgarh,Raipur,21.332526,81.614959,Private,O-,17,1,No,4.8,11.7,3,0,+91-750701864
+BB0959,Gandhi Indore Blood Bank,MA/BB/2024/442,2025-05-18,Madhya Pradesh,Indore,22.751556,75.846148,Private,A+,21,3,No,4.0,1.1,17,0,+91-917100330
+BB0960,Gandhi Vijayawada Blood Bank,AN/BB/2019/419,2029-08-05,Andhra Pradesh,Vijayawada,16.405265,80.639244,Private,A+,22,3,Yes,4.3,10.5,4,0,+91-728370871
+BB0961,Royal Agartala Blood Bank,TR/BB/2021/738,2025-07-25,Tripura,Agartala,23.799855,91.258896,Private,O-,48,7,No,3.8,0.5,25,0,+91-716777402
+BB0962,Global Ahmedabad Blood Bank,GU/BB/2022/406,2024-11-12,Gujarat,Ahmedabad,22.999216,72.550614,Private,AB+,10,2,Yes,4.5,21.7,79,0,+91-817841336
+BB0963,Central Agartala Blood Bank,TR/BB/2021/324,2029-05-06,Tripura,Agartala,23.831775,91.224063,Trust,AB-,15,5,No,4.3,5.8,50,0,+91-689479829
+BB0964,Fortis Ranchi Blood Bank,JH/BB/2023/678,2030-08-08,Jharkhand,Ranchi,23.320324,85.357392,Government,AB+,27,6,Yes,4.7,15.6,20,1,+91-617981388
+BB0965,Life Coimbatore Blood Bank,TA/BB/2021/186,2026-04-03,Tamil Nadu,Coimbatore,10.941563,76.984438,Private,AB-,15,0,No,3.7,5.0,40,0,+91-892535019
+BB0966,National Shillong Blood Bank,ME/BB/2021/332,2029-10-10,Meghalaya,Shillong,25.577336,91.872934,Government,O-,20,5,Yes,3.9,0.5,34,1,+91-622192351
+BB0967,Fortis Hyderabad Blood Bank,TE/BB/2018/103,2030-09-24,Telangana,Hyderabad,17.462218,78.492111,Government,B+,14,5,Yes,4.2,15.9,41,1,+91-767992973
+BB0968,Metro Kolkata Blood Bank,WE/BB/2024/500,2025-10-07,West Bengal,Kolkata,22.611628,88.4424,Government,B+,31,1,Yes,5.0,6.0,2,1,+91-766390374
+BB0969,KIMS Guwahati Blood Bank,AS/BB/2020/475,2027-08-23,Assam,Guwahati,26.147226,91.759787,Government,A-,22,1,Yes,3.5,11.7,13,1,+91-793157496
+BB0970,Care Ranchi Blood Bank,JH/BB/2023/395,2029-04-13,Jharkhand,Ranchi,23.352547,85.309743,Trust,A+,22,5,Yes,4.8,30.4,39,0,+91-698179642
+BB0971,Fortis Shillong Blood Bank,ME/BB/2019/615,2024-02-17,Meghalaya,Shillong,25.550466,91.918553,Government,A-,13,4,No,3.6,14.3,25,1,+91-724034197
+BB0972,City Bengaluru Blood Bank,KA/BB/2023/787,2026-08-08,Karnataka,Bengaluru,13.052562,77.631494,Charity,AB-,4,1,Yes,4.7,8.5,35,0,+91-711804359
+BB0973,Central Raipur Blood Bank,CH/BB/2022/359,2026-03-18,Chhattisgarh,Raipur,21.257987,81.615866,Private,O-,14,6,No,4.6,4.0,49,0,+91-901233609
+BB0974,Apollo Bhopal Blood Bank,MA/BB/2021/508,2026-07-27,Madhya Pradesh,Bhopal,23.174926,77.412391,Private,AB+,10,6,Yes,4.7,15.8,46,0,+91-738404503
+BB0975,Red Cross Kochi Blood Bank,KE/BB/2020/209,2028-08-02,Kerala,Kochi,9.926666,76.268489,Private,AB+,25,5,Yes,4.6,8.4,52,0,+91-832894082
+BB0976,Max Jodhpur Blood Bank,RA/BB/2023/637,2030-04-14,Rajasthan,Jodhpur,26.291018,73.055318,Private,AB+,23,2,Yes,3.2,4.4,48,0,+91-857222336
+BB0977,Metro Bengaluru Blood Bank,KA/BB/2022/538,2024-02-06,Karnataka,Bengaluru,13.041956,77.624257,Government,AB+,14,7,No,4.7,7.3,59,1,+91-919459659
+BB0978,Metro Coimbatore Blood Bank,TA/BB/2021/683,2025-11-05,Tamil Nadu,Coimbatore,11.058897,76.894042,Private,AB+,24,2,Yes,4.1,0.4,18,0,+91-921857779
+BB0979,Global Bhopal Blood Bank,MA/BB/2018/236,2026-04-07,Madhya Pradesh,Bhopal,23.21881,77.310148,Private,AB+,1,0,No,4.2,13.5,26,0,+91-830882558
+BB0980,St. Mary Varanasi Blood Bank,UT/BB/2024/993,2026-09-18,Uttar Pradesh,Varanasi,25.321951,82.912943,Private,B-,18,3,Yes,4.8,7.2,71,0,+91-911050209
+BB0981,Life Chennai Blood Bank,TA/BB/2022/455,2028-01-17,Tamil Nadu,Chennai,13.139022,80.210641,Government,B-,53,0,Yes,4.0,2.1,44,1,+91-867716523
+BB0982,Life Surat Blood Bank,GU/BB/2021/103,2028-08-27,Gujarat,Surat,21.246154,72.867262,Government,O+,0,0,Yes,3.8,8.0,33,1,+91-875253436
+BB0983,Max Dehradun Blood Bank,UT/BB/2022/021,2030-08-22,Uttarakhand,Dehradun,30.162354,78.02245,Private,AB+,10,7,No,5.0,32.3,35,0,+91-796440419
+BB0984,Life Bengaluru Blood Bank,KA/BB/2021/352,2026-05-27,Karnataka,Bengaluru,13.030736,77.570882,Government,AB-,16,3,No,2.9,13.0,12,1,+91-685583270
+BB0985,Gandhi Indore Blood Bank,MA/BB/2022/713,2028-04-12,Madhya Pradesh,Indore,22.709038,75.871315,Government,A-,6,1,Yes,4.5,11.7,11,1,+91-803673112
+BB0986,Max Kohima Blood Bank,NA/BB/2018/355,2030-11-04,Nagaland,Kohima,25.710799,94.018769,Trust,AB-,22,3,No,4.7,14.9,33,0,+91-706175624
+BB0987,Metro Lucknow Blood Bank,UT/BB/2020/592,2025-01-05,Uttar Pradesh,Lucknow,26.779647,80.965543,Private,O-,26,6,Yes,4.5,6.9,24,0,+91-951711966
+BB0988,Central Raipur Blood Bank,CH/BB/2023/659,2030-07-27,Chhattisgarh,Raipur,21.21778,81.554531,Private,O+,2,5,Yes,4.6,10.7,7,0,+91-809116531
+BB0989,Royal Hyderabad Blood Bank,TE/BB/2023/695,2027-09-19,Telangana,Hyderabad,17.362996,78.420633,Private,A+,25,0,Yes,4.2,4.7,3,0,+91-882176843
+BB0990,Gandhi Panaji Blood Bank,GO/BB/2023/452,2025-08-02,Goa,Panaji,15.473545,73.870044,Private,O+,56,3,No,4.1,9.1,17,0,+91-988691092
+BB0991,Unity Bengaluru Blood Bank,KA/BB/2019/644,2030-02-12,Karnataka,Bengaluru,12.95987,77.581991,Government,AB-,3,2,No,4.0,8.9,36,1,+91-642253523
+BB0992,Global Imphal Blood Bank,MA/BB/2021/692,2029-03-17,Manipur,Imphal,24.834435,93.921024,Private,B+,28,4,Yes,4.1,4.3,24,0,+91-885502444
+BB0993,Royal Howrah Blood Bank,WE/BB/2022/518,2029-07-20,West Bengal,Howrah,22.603358,88.169153,Government,B-,15,1,Yes,4.4,1.2,29,1,+91-798780089
+BB0994,Care Mysore Blood Bank,KA/BB/2024/310,2028-10-02,Karnataka,Mysore,12.256412,76.650961,Private,O+,21,3,Yes,4.8,12.9,2,0,+91-693024893
+BB0995,KIMS Kanpur Blood Bank,UT/BB/2018/104,2025-10-10,Uttar Pradesh,Kanpur,26.55279,80.34363,Private,B-,1,2,Yes,3.2,2.8,55,0,+91-743796178
+BB0996,Fortis Mumbai Blood Bank,MA/BB/2021/010,2027-08-27,Maharashtra,Mumbai,19.07666,72.891857,Private,O+,1,3,No,4.9,4.5,10,0,+91-724947921
+BB0997,Max Mysore Blood Bank,KA/BB/2022/238,2026-04-02,Karnataka,Mysore,12.229582,76.651912,Private,AB+,43,2,Yes,4.2,26.3,14,0,+91-753259548
+BB0998,Royal Imphal Blood Bank,MA/BB/2018/270,2025-04-21,Manipur,Imphal,24.804763,93.917426,Government,O+,53,7,No,4.2,22.8,2,1,+91-618518064
+BB0999,KIMS Bengaluru Blood Bank,KA/BB/2020/214,2030-10-02,Karnataka,Bengaluru,13.063516,77.688825,Private,B+,25,5,Yes,3.4,11.1,14,0,+91-870386361
+BB1000,St. Mary Lucknow Blood Bank,UT/BB/2019/099,2026-04-15,Uttar Pradesh,Lucknow,26.853105,80.869308,Trust,A-,30,7,Yes,4.0,23.3,25,0,+91-897793281
+BB1001,Sankara Agartala Blood Bank,TR/BB/2019/790,2030-11-26,Tripura,Agartala,23.75874,91.315248,Charity,AB+,22,1,Yes,4.2,17.4,21,0,+91-658675147
+BB1002,National Shillong Blood Bank,ME/BB/2023/737,2028-05-04,Meghalaya,Shillong,25.556235,91.885026,Charity,O+,23,4,No,3.1,3.4,48,0,+91-864374145
+BB1003,Royal Ahmedabad Blood Bank,GU/BB/2023/748,2024-09-17,Gujarat,Ahmedabad,22.934327,72.571761,Private,AB+,13,4,Yes,4.5,37.5,9,0,+91-687722622
+BB1004,Apollo Dehradun Blood Bank,UT/BB/2018/361,2030-05-04,Uttarakhand,Dehradun,30.368357,78.095189,Private,O+,18,0,Yes,4.5,4.9,18,0,+91-923625541
+BB1005,Life Guwahati Blood Bank,AS/BB/2020/112,2027-01-15,Assam,Guwahati,26.080464,91.797335,Private,O-,18,0,No,4.1,0.1,24,0,+91-606930011
+BB1006,Unity Varanasi Blood Bank,UT/BB/2018/568,2024-09-15,Uttar Pradesh,Varanasi,25.338851,82.88204,Private,B+,30,0,Yes,4.6,11.6,39,0,+91-931205194
+BB1007,Max Kohima Blood Bank,NA/BB/2021/709,2029-09-18,Nagaland,Kohima,25.682814,94.154956,Charity,A+,39,0,Yes,4.2,9.0,47,0,+91-885034969
+BB1008,Apollo Hyderabad Blood Bank,TE/BB/2021/282,2027-05-21,Telangana,Hyderabad,17.42829,78.477037,Private,B-,20,3,Yes,4.9,10.9,8,0,+91-825059149
+BB1009,Apollo Vijayawada Blood Bank,AN/BB/2018/786,2029-01-18,Andhra Pradesh,Vijayawada,16.493988,80.668898,Private,O-,11,7,No,4.3,18.8,2,0,+91-669954991
+BB1010,Metro Jodhpur Blood Bank,RA/BB/2023/313,2027-05-23,Rajasthan,Jodhpur,26.25493,73.054276,Private,B+,13,7,No,4.1,11.1,10,0,+91-916360767
+BB1011,Max Kolkata Blood Bank,WE/BB/2023/429,2027-10-17,West Bengal,Kolkata,22.635233,88.440883,Trust,A-,0,1,Yes,3.7,0.4,5,0,+91-722373159
+BB1012,St. Mary Kohima Blood Bank,NA/BB/2020/142,2027-01-24,Nagaland,Kohima,25.668881,94.100452,Trust,A+,0,7,Yes,4.7,14.1,9,0,+91-732180362
+BB1013,Global Thiruvananthapuram Blood Bank,KE/BB/2024/193,2025-06-16,Kerala,Thiruvananthapuram,8.54128,76.896575,Private,B+,20,1,Yes,3.8,7.0,8,0,+91-771879441
+BB1014,Central Bengaluru Blood Bank,KA/BB/2024/668,2030-12-24,Karnataka,Bengaluru,13.089485,77.632051,Government,O-,9,1,Yes,4.5,1.1,5,1,+91-654119464
+BB1015,Red Cross Shillong Blood Bank,ME/BB/2022/512,2025-02-03,Meghalaya,Shillong,25.585556,91.81572,Private,O+,6,0,No,2.9,28.8,55,0,+91-745066404
+BB1016,Global Shillong Blood Bank,ME/BB/2018/352,2025-06-26,Meghalaya,Shillong,25.532587,91.829423,Private,O-,13,6,Yes,3.3,24.6,23,0,+91-885887806
+BB1017,Care Ranchi Blood Bank,JH/BB/2021/243,2025-11-22,Jharkhand,Ranchi,23.315876,85.264434,Government,O-,29,3,Yes,4.2,20.7,17,1,+91-812326788
+BB1018,Global Surat Blood Bank,GU/BB/2023/607,2025-09-14,Gujarat,Surat,21.200427,72.946302,Private,O-,23,6,Yes,3.2,9.9,2,0,+91-787311296
+BB1019,Red Cross Pune Blood Bank,MA/BB/2018/548,2026-10-14,Maharashtra,Pune,18.541199,73.806199,Trust,O-,9,2,No,3.8,17.9,15,0,+91-902571031
+BB1020,City Howrah Blood Bank,WE/BB/2024/489,2030-09-13,West Bengal,Howrah,22.629947,88.325253,Private,A-,10,6,No,4.6,11.7,2,0,+91-958198155
+BB1021,National Guwahati Blood Bank,AS/BB/2018/793,2024-12-19,Assam,Guwahati,26.141235,91.742181,Trust,B-,29,1,No,3.6,14.1,33,0,+91-895946876
+BB1022,Apollo Jaipur Blood Bank,RA/BB/2023/569,2027-01-14,Rajasthan,Jaipur,27.043309,75.796409,Private,O+,22,5,Yes,4.0,9.3,13,0,+91-643108841
+BB1023,Unity Shimla Blood Bank,HI/BB/2019/638,2030-03-16,Himachal Pradesh,Shimla,31.118955,77.167669,Private,AB+,29,5,Yes,4.6,10.6,45,0,+91-678304313
+BB1024,Max Jodhpur Blood Bank,RA/BB/2022/063,2028-10-17,Rajasthan,Jodhpur,26.228236,73.026264,Private,B+,19,7,Yes,3.3,17.9,5,0,+91-858875013
+BB1025,Sankara Agartala Blood Bank,TR/BB/2019/758,2024-02-05,Tripura,Agartala,23.808055,91.30774,Private,AB-,14,4,No,4.7,17.3,20,0,+91-986267901
+BB1026,Red Cross Agartala Blood Bank,TR/BB/2021/663,2025-01-13,Tripura,Agartala,23.771461,91.282868,Private,AB-,32,3,Yes,3.6,2.2,42,0,+91-794277002
+BB1027,Red Cross Ranchi Blood Bank,JH/BB/2024/824,2028-08-09,Jharkhand,Ranchi,23.387639,85.280202,Government,B-,15,4,No,3.2,1.2,35,1,+91-998504296
+BB1028,Central Varanasi Blood Bank,UT/BB/2023/547,2026-01-28,Uttar Pradesh,Varanasi,25.305281,83.055945,Government,A-,32,5,Yes,3.0,29.2,8,1,+91-614367152
+BB1029,Apollo Chandigarh Blood Bank,CH/BB/2022/691,2030-04-23,Chandigarh,Chandigarh,30.64144,76.802408,Private,B+,0,4,Yes,4.4,11.7,15,0,+91-905856297
+BB1030,Care Delhi Blood Bank,DE/BB/2019/629,2024-01-16,Delhi,Delhi,28.641103,77.020713,Trust,B+,8,5,Yes,4.2,4.1,33,0,+91-875358582
+BB1031,City Delhi Blood Bank,DE/BB/2021/262,2024-10-20,Delhi,Delhi,28.764454,77.128995,Private,B+,29,6,Yes,4.7,11.2,8,0,+91-956459623
+BB1032,Life Hyderabad Blood Bank,TE/BB/2022/896,2026-10-24,Telangana,Hyderabad,17.381025,78.418125,Private,AB-,18,5,No,4.2,22.0,21,0,+91-696037769
+BB1033,Max Imphal Blood Bank,MA/BB/2022/639,2025-12-19,Manipur,Imphal,24.916969,93.976908,Private,O+,42,3,Yes,4.7,14.9,32,0,+91-839681796
+BB1034,Unity Ranchi Blood Bank,JH/BB/2020/772,2030-03-23,Jharkhand,Ranchi,23.366187,85.279187,Trust,A-,19,4,Yes,3.5,13.1,19,0,+91-813708323
+BB1035,KIMS Thiruvananthapuram Blood Bank,KE/BB/2019/783,2025-02-04,Kerala,Thiruvananthapuram,8.487164,76.79055,Government,A-,13,3,No,4.8,4.6,52,1,+91-781320546
+BB1036,Sankara Imphal Blood Bank,MA/BB/2021/951,2029-06-10,Manipur,Imphal,24.841711,93.921338,Private,O-,12,7,Yes,4.0,23.6,28,0,+91-653241940
+BB1037,Max Jodhpur Blood Bank,RA/BB/2018/697,2026-09-08,Rajasthan,Jodhpur,26.182153,72.983986,Private,O+,31,1,Yes,4.1,10.1,36,0,+91-808513621
+BB1038,Global Pune Blood Bank,MA/BB/2021/925,2030-10-20,Maharashtra,Pune,18.498913,73.7861,Private,O+,3,1,Yes,3.9,3.7,40,0,+91-870861657
+BB1039,City Aizawl Blood Bank,MI/BB/2018/924,2024-01-06,Mizoram,Aizawl,23.730889,92.751088,Private,O-,16,6,Yes,4.8,4.1,8,0,+91-779516568
+BB1040,Sankara Raipur Blood Bank,CH/BB/2024/342,2029-03-20,Chhattisgarh,Raipur,21.233503,81.591849,Trust,A+,29,5,No,4.8,21.0,2,0,+91-785108395
+BB1041,Fortis Nagpur Blood Bank,MA/BB/2022/572,2026-05-19,Maharashtra,Nagpur,21.166312,79.084074,Private,A-,16,6,No,4.6,9.7,13,0,+91-689590310
+BB1042,Life Pune Blood Bank,MA/BB/2024/778,2029-06-06,Maharashtra,Pune,18.49606,73.945228,Government,O+,39,3,Yes,3.5,5.8,11,1,+91-842653886
+BB1043,Sankara Varanasi Blood Bank,UT/BB/2018/072,2030-06-12,Uttar Pradesh,Varanasi,25.313016,83.025286,Private,B+,0,6,Yes,3.9,0.4,20,0,+91-688729379
+BB1044,Royal Nagpur Blood Bank,MA/BB/2022/732,2028-02-15,Maharashtra,Nagpur,21.139643,79.167836,Private,AB-,9,2,No,4.3,6.6,58,0,+91-951908603
+BB1045,Royal Bhopal Blood Bank,MA/BB/2021/055,2026-03-10,Madhya Pradesh,Bhopal,23.211081,77.458163,Government,O+,3,0,Yes,5.0,15.6,30,1,+91-911053494
+BB1046,Unity Pune Blood Bank,MA/BB/2024/181,2028-09-08,Maharashtra,Pune,18.524302,73.864801,Private,AB-,43,4,Yes,4.0,0.1,7,0,+91-842904679
+BB1047,Care Imphal Blood Bank,MA/BB/2020/446,2024-09-28,Manipur,Imphal,24.835925,93.94024,Private,A+,26,7,Yes,4.5,1.9,34,0,+91-723755566
+BB1048,Apollo Kohima Blood Bank,NA/BB/2023/196,2026-11-15,Nagaland,Kohima,25.681127,94.161471,Private,B-,16,0,Yes,4.0,3.5,51,0,+91-692563301
+BB1049,Apollo Shillong Blood Bank,ME/BB/2018/865,2025-11-20,Meghalaya,Shillong,25.461905,91.983055,Private,A-,28,1,Yes,4.1,11.8,9,0,+91-686695610
+BB1050,Metro Bhubaneswar Blood Bank,OD/BB/2019/779,2027-04-25,Odisha,Bhubaneswar,20.32714,85.884134,Private,B-,32,0,No,3.6,4.2,9,0,+91-629880112
+BB1051,Fortis Chandigarh Blood Bank,CH/BB/2021/758,2024-06-02,Chandigarh,Chandigarh,30.685331,76.756345,Private,A+,11,6,Yes,3.3,0.1,8,0,+91-954136349
+BB1052,Fortis Ahmedabad Blood Bank,GU/BB/2019/848,2025-10-20,Gujarat,Ahmedabad,23.058337,72.61922,Private,O-,4,6,Yes,3.8,17.2,20,0,+91-848212077
+BB1053,Max Kohima Blood Bank,NA/BB/2022/119,2026-11-05,Nagaland,Kohima,25.725785,94.176816,Private,A+,17,6,No,4.1,1.9,43,0,+91-604455805
+BB1054,Fortis Patna Blood Bank,BI/BB/2018/565,2028-08-14,Bihar,Patna,25.589145,85.12466,Private,A+,25,5,No,5.0,11.7,38,0,+91-877365209
+BB1055,Fortis Bengaluru Blood Bank,KA/BB/2023/302,2024-01-12,Karnataka,Bengaluru,12.944541,77.642972,Private,AB-,23,4,Yes,4.0,4.1,2,0,+91-999409103
+BB1056,Red Cross Secunderabad Blood Bank,TE/BB/2020/332,2029-02-26,Telangana,Secunderabad,17.509145,78.477758,Private,B+,10,2,Yes,5.0,9.4,47,0,+91-883758327
+BB1057,Unity Kochi Blood Bank,KE/BB/2019/038,2029-08-12,Kerala,Kochi,10.036776,76.175598,Government,B+,17,4,Yes,4.0,4.1,21,1,+91-611058809
+BB1058,Unity Jodhpur Blood Bank,RA/BB/2024/778,2026-05-06,Rajasthan,Jodhpur,26.302342,73.065119,Private,AB+,16,7,No,4.6,10.2,46,0,+91-872423611
+BB1059,Royal Thiruvananthapuram Blood Bank,KE/BB/2024/670,2030-04-26,Kerala,Thiruvananthapuram,8.465011,76.988902,Private,A-,10,3,Yes,3.2,8.8,30,0,+91-685849899
+BB1060,Metro Lucknow Blood Bank,UT/BB/2019/585,2029-02-23,Uttar Pradesh,Lucknow,26.851715,80.896158,Government,A-,7,1,Yes,4.5,1.4,3,1,+91-769140384
+BB1061,National Vijayawada Blood Bank,AN/BB/2019/402,2029-03-15,Andhra Pradesh,Vijayawada,16.486048,80.613812,Private,O-,5,4,No,4.9,2.7,21,0,+91-703745804
+BB1062,Global Aizawl Blood Bank,MI/BB/2020/016,2030-04-24,Mizoram,Aizawl,23.662395,92.670004,Private,A-,26,1,Yes,3.7,20.4,39,0,+91-708557694
+BB1063,Sankara Hyderabad Blood Bank,TE/BB/2018/939,2029-03-04,Telangana,Hyderabad,17.357328,78.496027,Trust,B-,23,4,No,4.6,4.1,6,0,+91-823619371
+BB1064,Fortis Mumbai Blood Bank,MA/BB/2020/236,2027-08-21,Maharashtra,Mumbai,19.163127,72.819247,Private,AB-,11,2,Yes,4.6,20.0,13,0,+91-648178897
+BB1065,Metro Delhi Blood Bank,DE/BB/2018/272,2030-02-06,Delhi,Delhi,28.730233,77.094662,Government,B+,15,1,Yes,4.3,9.8,15,1,+91-971340665
+BB1066,Royal Mumbai Blood Bank,MA/BB/2020/614,2027-01-05,Maharashtra,Mumbai,19.024989,72.86137,Private,B+,13,2,No,5.0,23.8,38,0,+91-947986629
+BB1067,Gandhi Thiruvananthapuram Blood Bank,KE/BB/2020/130,2026-08-05,Kerala,Thiruvananthapuram,8.516435,76.958752,Government,AB-,35,1,Yes,4.5,0.1,9,1,+91-906365682
+BB1068,St. Mary Patna Blood Bank,BI/BB/2022/800,2025-06-05,Bihar,Patna,25.664022,85.15888,Private,A+,22,4,Yes,4.0,6.8,42,0,+91-927617808
+BB1069,Sankara Jaipur Blood Bank,RA/BB/2018/677,2027-10-24,Rajasthan,Jaipur,26.866233,75.864651,Charity,A+,36,2,Yes,4.0,14.1,38,0,+91-682948727
+BB1070,National Mumbai Blood Bank,MA/BB/2020/697,2030-02-19,Maharashtra,Mumbai,19.068376,72.818114,Government,A+,33,6,No,4.7,9.6,57,1,+91-679690895
+BB1071,Red Cross Jodhpur Blood Bank,RA/BB/2024/341,2025-11-25,Rajasthan,Jodhpur,26.201801,72.973875,Government,A+,25,6,Yes,3.5,5.2,87,1,+91-656983664
+BB1072,Sankara Visakhapatnam Blood Bank,AN/BB/2023/383,2024-03-22,Andhra Pradesh,Visakhapatnam,17.755922,83.234442,Private,B+,22,6,Yes,4.8,2.2,28,0,+91-778031408
+BB1073,St. Mary Shimla Blood Bank,HI/BB/2024/032,2027-04-20,Himachal Pradesh,Shimla,31.174651,77.200124,Private,AB+,7,3,Yes,4.6,3.5,19,0,+91-916232313
+BB1074,Unity Chennai Blood Bank,TA/BB/2022/810,2026-08-10,Tamil Nadu,Chennai,13.083847,80.231212,Government,O-,22,5,No,3.6,19.5,23,1,+91-914553961
+BB1075,Central Pune Blood Bank,MA/BB/2019/803,2029-08-05,Maharashtra,Pune,18.422077,73.861739,Private,AB+,11,5,Yes,4.0,7.3,39,0,+91-716138397
+BB1076,Care Surat Blood Bank,GU/BB/2021/896,2028-10-18,Gujarat,Surat,21.204695,72.758319,Government,A+,15,5,Yes,5.0,8.1,39,1,+91-641103165
+BB1077,Global Delhi Blood Bank,DE/BB/2023/662,2027-06-13,Delhi,Delhi,28.753788,77.129054,Private,B+,35,7,Yes,3.9,16.6,55,0,+91-615076566
+BB1078,Red Cross Shimla Blood Bank,HI/BB/2021/389,2027-10-02,Himachal Pradesh,Shimla,31.077948,77.066599,Private,A+,12,7,No,3.7,4.2,44,0,+91-687271681
+BB1079,Gandhi Raipur Blood Bank,CH/BB/2021/313,2028-10-16,Chhattisgarh,Raipur,21.259353,81.655818,Trust,B-,22,4,Yes,4.7,12.1,36,0,+91-977688460
+BB1080,Royal Vijayawada Blood Bank,AN/BB/2020/994,2026-06-18,Andhra Pradesh,Vijayawada,16.484443,80.657473,Trust,B+,29,7,Yes,4.4,3.6,8,0,+91-687953054
+BB1081,National Panaji Blood Bank,GO/BB/2024/721,2024-05-21,Goa,Panaji,15.580739,73.778888,Private,O-,5,3,Yes,4.1,6.4,71,0,+91-999548674
+BB1082,Life Jodhpur Blood Bank,RA/BB/2024/537,2025-05-24,Rajasthan,Jodhpur,26.222056,73.02611,Trust,B-,5,0,Yes,4.1,11.0,38,0,+91-905540277
+BB1083,Care Surat Blood Bank,GU/BB/2023/229,2030-10-22,Gujarat,Surat,21.253219,72.802159,Private,AB+,27,4,No,3.3,7.2,2,0,+91-858995616
+BB1084,Sankara Kohima Blood Bank,NA/BB/2021/783,2026-09-28,Nagaland,Kohima,25.701702,94.085692,Private,O-,20,7,Yes,4.3,12.3,2,0,+91-761403850
+BB1085,Central Shimla Blood Bank,HI/BB/2018/802,2029-07-08,Himachal Pradesh,Shimla,31.112998,77.220003,Government,A-,24,7,Yes,4.5,25.9,24,1,+91-930560200
+BB1086,Apollo Thiruvananthapuram Blood Bank,KE/BB/2021/855,2027-02-25,Kerala,Thiruvananthapuram,8.575216,76.809747,Private,O-,17,3,Yes,4.5,25.2,7,0,+91-782285569
+BB1087,Royal Bengaluru Blood Bank,KA/BB/2022/082,2025-11-18,Karnataka,Bengaluru,13.064716,77.532813,Government,B+,21,5,Yes,3.3,8.9,26,1,+91-779486473
+BB1088,St. Mary Nagpur Blood Bank,MA/BB/2024/384,2026-05-10,Maharashtra,Nagpur,21.12211,79.024978,Private,O+,33,0,Yes,3.9,1.8,13,0,+91-702514720
+BB1089,National Bengaluru Blood Bank,KA/BB/2021/559,2025-05-07,Karnataka,Bengaluru,13.077622,77.541895,Private,AB-,21,7,Yes,3.9,6.3,68,0,+91-772634938
+BB1090,City Kolkata Blood Bank,WE/BB/2019/421,2026-08-27,West Bengal,Kolkata,22.598621,88.334489,Government,A-,15,6,Yes,5.0,7.9,39,1,+91-808016753
+BB1091,KIMS Kochi Blood Bank,KE/BB/2020/640,2028-02-10,Kerala,Kochi,9.809633,76.255633,Trust,AB+,12,4,Yes,3.7,3.1,16,0,+91-836164602
+BB1092,National Bhubaneswar Blood Bank,OD/BB/2021/959,2026-06-03,Odisha,Bhubaneswar,20.254985,85.788512,Government,O-,25,5,Yes,4.0,5.2,54,1,+91-868920048
+BB1093,Fortis Secunderabad Blood Bank,TE/BB/2018/894,2028-11-25,Telangana,Secunderabad,17.426874,78.433289,Government,B-,22,1,Yes,4.7,36.8,23,1,+91-780048478
+BB1094,Max Jodhpur Blood Bank,RA/BB/2019/751,2026-04-19,Rajasthan,Jodhpur,26.204737,73.083766,Government,A-,22,7,No,4.4,10.5,27,1,+91-745220680
+BB1095,Unity Kanpur Blood Bank,UT/BB/2021/853,2024-02-27,Uttar Pradesh,Kanpur,26.49184,80.239034,Private,O-,14,0,No,3.3,1.7,2,0,+91-715369346
+BB1096,National Ahmedabad Blood Bank,GU/BB/2019/289,2026-10-08,Gujarat,Ahmedabad,22.976588,72.558046,Private,B-,25,7,Yes,3.6,2.3,56,0,+91-640802258
+BB1097,Red Cross Patna Blood Bank,BI/BB/2020/299,2029-02-13,Bihar,Patna,25.705007,85.138044,Private,A-,11,5,No,4.9,3.4,22,0,+91-737344410
+BB1098,Apollo New Delhi Blood Bank,DE/BB/2021/154,2029-03-02,Delhi,New Delhi,28.613904,77.244437,Private,AB+,20,0,No,3.8,5.6,42,0,+91-673227196
+BB1099,Red Cross Imphal Blood Bank,MA/BB/2023/721,2027-10-24,Manipur,Imphal,24.845394,93.993111,Charity,AB-,18,4,No,3.2,3.5,32,0,+91-734732887
+BB1100,Unity Raipur Blood Bank,CH/BB/2018/710,2030-07-11,Chhattisgarh,Raipur,21.202085,81.718369,Private,O-,9,4,No,4.7,16.8,30,0,+91-935777373

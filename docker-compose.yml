@@ -1,0 +1,43 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: thalcare-backend
+    ports:
+      - "8000:8000"
+    environment:
+      - DATABASE_URL=postgresql+psycopg2://postgres:postgres@postgres:5432/thalcare_ai_db
+    depends_on:
+      - postgres
+    volumes:
+      - ./backend:/app/backend
+      - /app/__pycache__
+    restart: unless-stopped
+    networks:
+      - thalcare-network
+    working_dir: /app/backend
+
+  postgres:
+    image: postgres:16
+    container_name: thalcare-postgres
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+      - POSTGRES_DB=thalcare_ai_db
+    ports:
+      - "5433:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    restart: unless-stopped
+    networks:
+      - thalcare-network
+
+volumes:
+  postgres_data:
+
+networks:
+  thalcare-network:
+    driver: bridge
