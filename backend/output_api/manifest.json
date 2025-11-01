@@ -1,0 +1,9 @@
+{
+  "model_booster": "D:\\Thal-AI\\thalcare-AI\\backend\\output_api\\ranker_api_aligned.txt",
+  "model_joblib": "D:\\Thal-AI\\thalcare-AI\\backend\\output_api\\ranker_api_aligned.pkl",
+  "features": "D:\\Thal-AI\\thalcare-AI\\backend\\output_api\\features_api.json",
+  "encoders_dir": "D:\\Thal-AI\\thalcare-AI\\backend\\output_api\\encoders_api",
+  "training_rows": 7578,
+  "test_rows": 1889,
+  "best_iteration": 9
+}
